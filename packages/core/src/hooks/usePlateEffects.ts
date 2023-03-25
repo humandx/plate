@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import { Value } from '@udecode/slate';
+import { TOperation, Value } from '@udecode/slate';
 import { isUndefined } from 'lodash';
 import { usePlateEditorRef, usePlateStates } from '../stores';
 import {
@@ -40,7 +40,7 @@ export type UsePlateEffectsProps<
     /**
      * Controlled callback called when the editor state changes.
      */
-    onChange?: (value: V) => void;
+    onChange?: (value: V, operations: TOperation[]) => void;
 
     decorate?: TEditableProps<V>['decorate'];
     renderElement?: TEditableProps<V>['renderElement'];

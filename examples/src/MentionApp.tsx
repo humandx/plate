@@ -54,7 +54,10 @@ export default () => (
     editableProps={editableProps}
     plugins={plugins}
     initialValue={mentionValue}
-    onChange={(e) => console.info(e)}
+    // @ts-ignore
+    onChange={(e, o) => {
+      console.info(o);
+    }}
   >
     <MentionCombobox items={MENTIONABLES} />
     <MentionCombobox items={MENTIONABLES} pluginKey="#" />

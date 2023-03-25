@@ -7,6 +7,7 @@ import {
   WithPlatePlugin,
 } from './plugin/PlatePlugin';
 import { TEditableProps } from './slate-react/TEditableProps';
+import { TOperation } from "../../../slate/src/types/TOperation"
 import { PlateEditor } from './PlateEditor';
 
 export type PlateChangeKey = 'keyEditor' | 'keySelection' | 'keyDecorate';
@@ -71,7 +72,7 @@ export type PlateStoreState<
   /**
    * Controlled callback called when the editor state changes.
    */
-  onChange: { fn: (value: V) => void };
+  onChange: { fn: (value: V, operations?: TOperation[]) => void };
 
   decorate: { fn: NonNullable<TEditableProps<V>['decorate']> };
   renderElement: { fn: NonNullable<TEditableProps<V>['renderElement']> };

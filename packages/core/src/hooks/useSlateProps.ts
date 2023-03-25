@@ -23,7 +23,7 @@ export const useSlateProps = <V extends Value>({
       const eventIsHandled = pipeOnChange(editor)(newValue);
 
       if (!eventIsHandled) {
-        onChangeProp?.(newValue);
+        onChangeProp?.(newValue, editor?.operations);
       }
 
       setValue(newValue);
