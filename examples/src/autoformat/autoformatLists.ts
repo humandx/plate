@@ -6,7 +6,7 @@ import {
   isBlock,
   setNodes,
   TTodoListItemElement,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { MyAutoformatRule } from '../typescript/plateTypes';
 import { formatList, preFormat } from './autoformatUtils';
 

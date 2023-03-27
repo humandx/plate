@@ -3,7 +3,7 @@ import {
   insertNode,
   Value,
   WithPlatePlugin,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import Defer from 'p-defer';
 import { PlateCloudEditor } from '../cloud/types';
 import { UploadError, UploadSuccess } from '../upload';

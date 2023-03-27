@@ -5,9 +5,9 @@ import {
   insertText,
   mockPlugin,
   wrapNodes,
-} from '@udecode/plate-common';
-import { ELEMENT_LINK } from '@udecode/plate-link';
-import { jsx } from '@udecode/plate-test-utils';
+} from '@humandx/plate-common';
+import { ELEMENT_LINK } from '@humandx/plate-link';
+import { jsx } from '@humandx/plate-test-utils';
 import { withReact } from 'slate-react';
 import { AutoformatPlugin } from '../../../types';
 import { withAutoformat } from '../../../withAutoformat';

@@ -1,7 +1,7 @@
 import React from 'react';
 import { FormatIndentDecrease } from '@styled-icons/material/FormatIndentDecrease';
 import { FormatIndentIncrease } from '@styled-icons/material/FormatIndentIncrease';
-import { focusEditor, indent, outdent, ToolbarButton } from '@udecode/plate';
+import { focusEditor, indent, outdent, ToolbarButton } from '@humandx/plate';
 import { useMyPlateEditorRef } from '../typescript/plateTypes';
 
 const tooltip = (content: string) => ({

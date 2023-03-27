@@ -1,4 +1,4 @@
-export const previewLeafStylesCode = `import { createStyles } from '@udecode/plate';
+export const previewLeafStylesCode = `import { createStyles } from '@humandx/plate';
 import { CSSProp } from 'styled-components';
 import { PreviewLeafStyleProps } from './PreviewLeaf.types';
 

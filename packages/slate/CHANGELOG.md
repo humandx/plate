@@ -1,4 +1,4 @@
-# @udecode/slate
+# @humandx/slate
 
 ## 19.8.0
 

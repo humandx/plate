@@ -1,4 +1,4 @@
-export const constantsCode = `import { TSuggestion } from '@udecode/plate';
+export const constantsCode = `import { TSuggestion } from '@humandx/plate';
 import { MyValue } from '../typescript/plateTypes';
 
 export const usersData = {

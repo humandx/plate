@@ -2,8 +2,8 @@ import React from 'react';
 import {
   CommentsPositioner,
   useFloatingCommentsState,
-} from '@udecode/plate-comments';
-import { PortalBody } from '@udecode/plate-styled-components';
+} from '@humandx/plate-comments';
+import { PortalBody } from '@humandx/plate-styled-components';
 import { css } from 'styled-components';
 import tw from 'twin.macro';
 import { PlateFloatingCommentsContent } from './PlateFloatingCommentsContent';

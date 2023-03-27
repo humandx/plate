@@ -1,4 +1,4 @@
-import { createTEditor } from '@udecode/slate';
+import { createTEditor } from '@humandx/slate';
 import { wrapNodeChildren } from './wrapNodeChildren';
 
 describe('wrapNodeChildren', () => {

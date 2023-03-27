@@ -1,6 +1,6 @@
-import { ELEMENT_PARAGRAPH } from '@udecode/plate-paragraph';
-import { Value } from '@udecode/slate';
-import { createDocumentNode } from '@udecode/slate-utils';
+import { ELEMENT_PARAGRAPH } from '@humandx/plate-paragraph';
+import { Value } from '@humandx/slate';
+import { createDocumentNode } from '@humandx/slate-utils';
 
 const output: Value = [
   {

@@ -1,4 +1,4 @@
-import { Value } from '@udecode/plate-common';
+import { Value } from '@humandx/plate-common';
 import { RemarkElementRules, RemarkTextRules } from '../remark-slate';
 
 export interface DeserializeMdPlugin<V extends Value = Value> {

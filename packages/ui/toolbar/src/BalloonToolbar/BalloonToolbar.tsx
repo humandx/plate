@@ -1,5 +1,5 @@
 import React from 'react';
-import { PortalBody } from '@udecode/plate-styled-components';
+import { PortalBody } from '@humandx/plate-styled-components';
 import { ToolbarBase } from '../Toolbar/Toolbar';
 import { getBalloonToolbarStyles } from './BalloonToolbar.styles';
 import { BalloonToolbarProps } from './BalloonToolbar.types';

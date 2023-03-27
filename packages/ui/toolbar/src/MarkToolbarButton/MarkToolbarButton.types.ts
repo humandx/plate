@@ -2,7 +2,7 @@ import {
   ToggleMarkPlugin,
   Value,
   WithPlatePlugin,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { ToolbarButtonProps } from '../ToolbarButton/ToolbarButton.types';
 
 export interface MarkToolbarButtonProps<V extends Value>

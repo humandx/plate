@@ -4,7 +4,7 @@ import {
   PlateEditor,
   PlatePluginKey,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { ELEMENT_MEDIA_EMBED } from '../createMediaEmbedPlugin';
 import { TMediaEmbedElement } from '../types';
 

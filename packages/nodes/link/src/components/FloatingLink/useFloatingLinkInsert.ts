@@ -7,8 +7,8 @@ import {
   useEditorRef,
   useHotkeys,
   useOnClickOutside,
-} from '@udecode/plate-common';
-import { getSelectionBoundingClientRect } from '@udecode/plate-floating';
+} from '@humandx/plate-common';
+import { getSelectionBoundingClientRect } from '@humandx/plate-floating';
 import { useFocused } from 'slate-react';
 import { ELEMENT_LINK, LinkPlugin } from '../../createLinkPlugin';
 import { triggerFloatingLinkInsert } from '../../utils/triggerFloatingLinkInsert';

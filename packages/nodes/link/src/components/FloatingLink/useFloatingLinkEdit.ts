@@ -11,11 +11,11 @@ import {
   useEditorRef,
   useHotkeys,
   usePlateSelectors,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import {
   getDefaultBoundingClientRect,
   getRangeBoundingClientRect,
-} from '@udecode/plate-floating';
+} from '@humandx/plate-floating';
 import { ELEMENT_LINK, LinkPlugin } from '../../createLinkPlugin';
 import { triggerFloatingLinkEdit } from '../../utils/triggerFloatingLinkEdit';
 import { FloatingLinkProps } from './FloatingLink';

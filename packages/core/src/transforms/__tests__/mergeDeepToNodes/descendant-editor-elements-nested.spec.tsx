@@ -1,9 +1,9 @@
 /** @jsx jsx */
 
-import { ELEMENT_LI } from '@udecode/plate-list/src/createListPlugin';
-import { ELEMENT_PARAGRAPH } from '@udecode/plate-paragraph/src/createParagraphPlugin';
-import { jsx } from '@udecode/plate-test-utils';
-import { isDescendant } from '@udecode/slate';
+import { ELEMENT_LI } from '@humandx/plate-list/src/createListPlugin';
+import { ELEMENT_PARAGRAPH } from '@humandx/plate-paragraph/src/createParagraphPlugin';
+import { jsx } from '@humandx/plate-test-utils';
+import { isDescendant } from '@humandx/slate';
 import { mergeDeepToNodes } from '../../../utils/mergeDeepToNodes';
 
 jsx;

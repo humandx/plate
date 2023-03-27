@@ -1,5 +1,5 @@
 import React from 'react';
-import { TEditableProps } from '@udecode/plate-common';
+import { TEditableProps } from '@humandx/plate-common';
 import {
   FloatingLink,
   LaunchIcon,
@@ -7,8 +7,8 @@ import {
   LinkOffIcon,
   ShortTextIcon,
   useFloatingLinkSelectors,
-} from '@udecode/plate-link';
-import { plateButtonCss } from '@udecode/plate-ui-button';
+} from '@humandx/plate-link';
+import { plateButtonCss } from '@humandx/plate-ui-button';
 import {
   floatingButtonCss,
   FloatingIconWrapper,
@@ -17,7 +17,7 @@ import {
   floatingRootCss,
   floatingRowCss,
   FloatingVerticalDivider,
-} from '@udecode/plate-ui-toolbar';
+} from '@humandx/plate-ui-toolbar';
 
 export const PlateFloatingLink = ({ readOnly }: TEditableProps) => {
   const isEditing = useFloatingLinkSelectors().isEditing();

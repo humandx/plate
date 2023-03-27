@@ -1,5 +1,5 @@
 import React from 'react';
-import { useCommentsResolved } from '@udecode/plate-comments';
+import { useCommentsResolved } from '@humandx/plate-comments';
 import { css } from 'styled-components';
 import tw from 'twin.macro';
 import { PlateComment } from './PlateComment';

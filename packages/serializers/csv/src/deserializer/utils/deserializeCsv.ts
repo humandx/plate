@@ -7,13 +7,13 @@ import {
   TElement,
   TNode,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import {
   ELEMENT_TABLE,
   ELEMENT_TD,
   ELEMENT_TH,
   ELEMENT_TR,
-} from '@udecode/plate-table';
+} from '@humandx/plate-table';
 import { parse } from 'papaparse';
 import { KEY_DESERIALIZE_CSV } from '../createDeserializeCsvPlugin';
 import { DeserializeCsvPlugin } from '../types';

@@ -10,7 +10,7 @@ import {
   ELEMENT_PARAGRAPH,
   Plate,
   PlateProvider,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { AlignToolbarButtons } from './align/AlignToolbarButtons';
 import { alignValue } from './align/alignValue';
 import { basicNodesPlugins } from './basic-nodes/basicNodesPlugins';

@@ -1,4 +1,4 @@
-# @udecode/plate-test-utils
+# @humandx/plate-test-utils
 
 ## 13.4.0
 
@@ -35,7 +35,7 @@
 
 🎉 The **Slate Plugins** project has evolved to **Plate** 🎉
 
-To migrate, install `@udecode/plate[-x]` then find and replace all
+To migrate, install `@humandx/plate[-x]` then find and replace all
 occurrences of:
 
 - `slate-plugins` to `plate`

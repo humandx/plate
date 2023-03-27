@@ -8,7 +8,7 @@ import {
   createResetNodePlugin,
   createSoftBreakPlugin,
   Plate,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { autoformatPlugin } from './autoformat/autoformatPlugin';
 import { autoformatValue } from './autoformat/autoformatValue';
 import { basicNodesPlugins } from './basic-nodes/basicNodesPlugins';

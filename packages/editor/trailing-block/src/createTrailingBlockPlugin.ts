@@ -3,7 +3,7 @@ import {
   ELEMENT_DEFAULT,
   getPluginType,
   QueryNodeOptions,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { withTrailingBlock } from './withTrailingBlock';
 
 export interface TrailingBlockPlugin extends QueryNodeOptions {

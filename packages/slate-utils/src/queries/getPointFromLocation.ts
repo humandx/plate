@@ -1,4 +1,4 @@
-import { TEditor, Value } from '@udecode/slate';
+import { TEditor, Value } from '@humandx/slate';
 import { Location, Path, Point, Range } from 'slate';
 
 /**

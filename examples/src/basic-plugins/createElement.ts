@@ -1,4 +1,4 @@
-import { ELEMENT_PARAGRAPH, TText } from '@udecode/plate';
+import { ELEMENT_PARAGRAPH, TText } from '@humandx/plate';
 
 export const createElement = (
   text = '',

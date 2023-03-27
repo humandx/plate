@@ -1,5 +1,5 @@
 import React from 'react';
-import { UseEmojiPickerType } from '@udecode/plate-emoji';
+import { UseEmojiPickerType } from '@humandx/plate-emoji';
 import { EmojiPickerContent } from '../EmojiPickerContent';
 import { EmojiPickerNavigation } from '../EmojiPickerNavigation';
 import { EmojiPickerPreview } from '../EmojiPickerPreview';

@@ -1,9 +1,9 @@
-import { TCodeBlockElement } from '@udecode/plate-code-block';
-import { Value } from '@udecode/plate-common';
+import { TCodeBlockElement } from '@humandx/plate-code-block';
+import { Value } from '@humandx/plate-common';
 import {
   createStyles,
   StyledElementProps,
-} from '@udecode/plate-styled-components';
+} from '@humandx/plate-styled-components';
 import { css } from 'styled-components';
 import tw from 'twin.macro';
 

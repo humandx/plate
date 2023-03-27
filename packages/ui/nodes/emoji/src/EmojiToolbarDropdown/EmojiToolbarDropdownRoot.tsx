@@ -1,5 +1,5 @@
 import React, { ReactNode } from 'react';
-import { useDropdownControls } from '@udecode/plate-ui-toolbar';
+import { useDropdownControls } from '@humandx/plate-ui-toolbar';
 import tw from 'twin.macro';
 
 type EmojiToolbarDropdownProps = {

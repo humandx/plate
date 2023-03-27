@@ -1,5 +1,5 @@
 import { KeyboardEvent } from 'react';
-import { Value } from '@udecode/slate';
+import { Value } from '@humandx/slate';
 import { PlateEditor } from '../PlateEditor';
 import { DOMHandler, DOMHandlerReturnType } from './DOMHandlers';
 import { PluginOptions } from './PlatePlugin';

@@ -1,4 +1,4 @@
-import { createPlateUIEditor } from '@udecode/plate-ui/src/utils/createPlateUIEditor';
+import { createPlateUIEditor } from '@humandx/plate-ui/src/utils/createPlateUIEditor';
 import { deserializeHtml } from '../../../../core/src/plugins/html-deserializer/utils/deserializeHtml';
 import { htmlStringToDOMNode } from '../../../../core/src/plugins/html-deserializer/utils/htmlStringToDOMNode';
 import { serializeHtml } from '../serializeHtml';

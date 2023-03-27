@@ -1,6 +1,6 @@
 import React from 'react';
-import { RenderFunction, UnknownObject } from '@udecode/plate-common';
-import { StyledProps } from '@udecode/plate-styled-components';
+import { RenderFunction, UnknownObject } from '@humandx/plate-common';
+import { StyledProps } from '@humandx/plate-styled-components';
 import { CSSProp } from 'styled-components';
 import { CursorData, CursorOverlayState, SelectionRect } from '../types';
 import { getCursorOverlayStyles } from './CursorOverlay.styles';

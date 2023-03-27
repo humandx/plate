@@ -5,7 +5,7 @@ import {
   mergeProps,
   useEventEditorSelectors,
   usePlateEditorState,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import {
   flip,
   getSelectionBoundingClientRect,
@@ -13,7 +13,7 @@ import {
   useVirtualFloating,
   UseVirtualFloatingOptions,
   UseVirtualFloatingReturn,
-} from '@udecode/plate-floating';
+} from '@humandx/plate-floating';
 import { useFocused } from 'slate-react';
 
 export const useFloatingToolbar = ({

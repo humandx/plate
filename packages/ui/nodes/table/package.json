@@ -1,5 +1,5 @@
 {
-  "name": "@udecode/plate-ui-table",
+  "name": "@humandx/plate-ui-table",
   "version": "1.0.1",
   "description": "Table UI for Plate",
   "license": "MIT",
@@ -19,12 +19,12 @@
   ],
   "types": "dist/index.d.ts",
   "dependencies": {
-    "@udecode/plate-common": "^1.0.1",
-    "@udecode/plate-floating": "^1.0.1",
-    "@udecode/plate-styled-components": "^1.0.1",
-    "@udecode/plate-table": "^1.0.1",
-    "@udecode/plate-ui-button": "^1.0.1",
-    "@udecode/plate-ui-toolbar": "^1.0.1",
+    "@humandx/plate-common": "^1.0.1",
+    "@humandx/plate-floating": "^1.0.1",
+    "@humandx/plate-styled-components": "^1.0.1",
+    "@humandx/plate-table": "^1.0.1",
+    "@humandx/plate-ui-button": "^1.0.1",
+    "@humandx/plate-ui-toolbar": "^1.0.1",
     "re-resizable": "^6.9.9"
   },
   "peerDependencies": {
@@ -42,5 +42,6 @@
   ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@humandx"
-  }
+  },
+  "gitHead": "80b540ca333e40daddcd62e9defa2dce9efa526b"
 }

@@ -5,7 +5,7 @@ import {
   PlatePluginKey,
   TNodeProps,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { ELEMENT_EXCALIDRAW } from '../createExcalidrawPlugin';
 import { TExcalidrawElement } from '../types';
 

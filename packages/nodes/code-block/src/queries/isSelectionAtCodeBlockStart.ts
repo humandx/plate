@@ -3,7 +3,7 @@ import {
   isStartPoint,
   PlateEditor,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { getCodeLineEntry } from './getCodeLineEntry';
 
 /**

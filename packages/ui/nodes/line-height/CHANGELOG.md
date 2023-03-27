@@ -1,4 +1,4 @@
-# @udecode/plate-line-height-ui
+# @humandx/plate-line-height-ui
 
 ## 20.4.0
 

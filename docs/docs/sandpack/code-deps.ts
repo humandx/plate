@@ -11,35 +11,35 @@ import {
 } from './plate-versions';
 
 export const plateTestUtilsDeps = {
-  '@udecode/plate-test-utils': testUtilsVersion,
+  '@humandx/plate-test-utils': testUtilsVersion,
 };
 
 export const excalidrawDeps = {
-  '@udecode/plate-ui-excalidraw': excalidrawVersion,
+  '@humandx/plate-ui-excalidraw': excalidrawVersion,
 };
 
 export const juiceDeps = {
-  '@udecode/plate-juice': juiceVersion,
+  '@humandx/plate-juice': juiceVersion,
 };
 
 export const selectionDeps = {
-  '@udecode/plate-selection': selectionVersion,
+  '@humandx/plate-selection': selectionVersion,
 };
 
 export const cloudDeps = {
-  '@udecode/plate-cloud': cloudVersion,
-  '@udecode/plate-ui-cloud': cloudUiVersion,
+  '@humandx/plate-cloud': cloudVersion,
+  '@humandx/plate-ui-cloud': cloudUiVersion,
 };
 
 export const dndDeps = {
-  '@udecode/plate-dnd': dndVersion,
-  '@udecode/plate-ui-dnd': dndUiVersion,
+  '@humandx/plate-dnd': dndVersion,
+  '@humandx/plate-ui-dnd': dndUiVersion,
   'react-dnd': '15.1.2',
   'react-dnd-html5-backend': '15.1.3',
 };
 
 export const commonDeps = {
-  '@udecode/plate': plateVersion,
+  '@humandx/plate': plateVersion,
   nanoid: '3.3.4',
   react: '17.0.2',
   'react-dom': '17.0.2',

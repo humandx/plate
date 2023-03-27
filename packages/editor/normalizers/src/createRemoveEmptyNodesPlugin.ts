@@ -1,4 +1,4 @@
-import { createPluginFactory } from '@udecode/plate-common';
+import { createPluginFactory } from '@humandx/plate-common';
 import { withRemoveEmptyNodes } from './withRemoveEmptyNodes';
 
 export interface RemoveEmptyNodesPlugin {

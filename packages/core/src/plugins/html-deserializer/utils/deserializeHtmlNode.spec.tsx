@@ -1,6 +1,6 @@
 /** @jsx jsx */
 
-import { getHtmlDocument, jsx } from '@udecode/plate-test-utils';
+import { getHtmlDocument, jsx } from '@humandx/plate-test-utils';
 import { createPlateUIEditor } from '../../../../../ui/plate/src/utils/createPlateUIEditor';
 import { deserializeHtmlNode } from './deserializeHtmlNode';
 

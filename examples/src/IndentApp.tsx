@@ -1,5 +1,5 @@
 import React from 'react';
-import { createIndentPlugin, Plate, PlateProvider } from '@udecode/plate';
+import { createIndentPlugin, Plate, PlateProvider } from '@humandx/plate';
 import { basicNodesPlugins } from './basic-nodes/basicNodesPlugins';
 import { editableProps } from './common/editableProps';
 import { plateUI } from './common/plateUI';

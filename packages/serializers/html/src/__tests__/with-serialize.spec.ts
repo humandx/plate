@@ -1,10 +1,10 @@
 import React from 'react';
-import { createBoldPlugin } from '@udecode/plate';
-import { MARK_BOLD } from '@udecode/plate-basic-marks/src/index';
-import { createPlateEditor } from '@udecode/plate-core';
-import { PlatePlugin } from '@udecode/plate-core/src/types/plugin/PlatePlugin';
-import { createImagePlugin } from '@udecode/plate-media/src/index';
-import { createPlateUIEditor } from '@udecode/plate-ui/src/utils/createPlateUIEditor';
+import { createBoldPlugin } from '@humandx/plate';
+import { MARK_BOLD } from '@humandx/plate-basic-marks/src/index';
+import { createPlateEditor } from '@humandx/plate-core';
+import { PlatePlugin } from '@humandx/plate-core/src/types/plugin/PlatePlugin';
+import { createImagePlugin } from '@humandx/plate-media/src/index';
+import { createPlateUIEditor } from '@humandx/plate-ui/src/utils/createPlateUIEditor';
 import { htmlStringToDOMNode } from '../../../../core/src/plugins/html-deserializer/utils/htmlStringToDOMNode';
 import { serializeHtml } from '../serializeHtml';
 

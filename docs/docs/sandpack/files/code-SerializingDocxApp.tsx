@@ -15,8 +15,8 @@ import {
   createTablePlugin,
   createTextIndentPlugin,
   Plate,
-} from '@udecode/plate';
-import { createJuicePlugin } from '@udecode/plate-juice';
+} from '@humandx/plate';
+import { createJuicePlugin } from '@humandx/plate-juice';
 import { alignPlugin } from './align/alignPlugin';
 import { basicNodesPlugins } from './basic-nodes/basicNodesPlugins';
 import { editableProps } from './common/editableProps';

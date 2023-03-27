@@ -1,6 +1,6 @@
 import React from 'react';
-import { Button, ButtonProps } from '@udecode/plate-button';
-import { nanoid } from '@udecode/plate-common';
+import { Button, ButtonProps } from '@humandx/plate-button';
+import { nanoid } from '@humandx/plate-common';
 import {
   SCOPE_ACTIVE_COMMENT,
   useComment,

@@ -1,5 +1,5 @@
 import React, { SVGProps } from 'react';
-import { DropdownMenu } from '@udecode/plate-floating';
+import { DropdownMenu } from '@humandx/plate-floating';
 import {
   BorderBottomIcon,
   BorderLeftIcon,
@@ -8,9 +8,9 @@ import {
   BorderRightIcon,
   BorderTopIcon,
   useTableBordersDropdownMenuContentState,
-} from '@udecode/plate-table';
-import { cssMenuItemButton, PlateButton } from '@udecode/plate-ui-button';
-import { floatingRootCss } from '@udecode/plate-ui-toolbar';
+} from '@humandx/plate-table';
+import { cssMenuItemButton, PlateButton } from '@humandx/plate-ui-button';
+import { floatingRootCss } from '@humandx/plate-ui-toolbar';
 import tw from 'twin.macro';
 
 const CheckIcon = (props: SVGProps<SVGSVGElement>) => (

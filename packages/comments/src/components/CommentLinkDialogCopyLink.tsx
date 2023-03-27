@@ -2,7 +2,7 @@ import {
   createComponentAs,
   createElementAs,
   HTMLPropsAs,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { useCommentSelectors } from '../stores/comment/CommentProvider';
 import { getCommentUrl } from '../utils/getCommentUrl';
 

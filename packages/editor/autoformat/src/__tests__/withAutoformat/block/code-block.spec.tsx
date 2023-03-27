@@ -3,7 +3,7 @@
 import {
   ELEMENT_CODE_BLOCK,
   insertEmptyCodeBlock,
-} from '@udecode/plate-code-block';
+} from '@humandx/plate-code-block';
 import {
   ELEMENT_DEFAULT,
   getEditorString,
@@ -11,8 +11,8 @@ import {
   getRangeFromBlockStart,
   mockPlugin,
   PlateEditor,
-} from '@udecode/plate-common';
-import { jsx } from '@udecode/plate-test-utils';
+} from '@humandx/plate-common';
+import { jsx } from '@humandx/plate-test-utils';
 import { autoformatPlugin } from 'examples/src/autoformat/autoformatPlugin';
 import { Range } from 'slate';
 import { withReact } from 'slate-react';

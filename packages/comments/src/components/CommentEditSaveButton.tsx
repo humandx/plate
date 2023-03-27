@@ -1,5 +1,5 @@
 import React, { useCallback } from 'react';
-import { Button, ButtonProps } from '@udecode/plate-button';
+import { Button, ButtonProps } from '@humandx/plate-button';
 import {
   useCommentActions,
   useCommentSelectors,

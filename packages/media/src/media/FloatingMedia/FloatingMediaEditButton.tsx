@@ -5,7 +5,7 @@ import {
   createElementAs,
   HTMLPropsAs,
   useElement,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { TMediaElement } from '../types';
 import { floatingMediaActions } from './floatingMediaStore';
 

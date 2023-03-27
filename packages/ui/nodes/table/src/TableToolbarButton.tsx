@@ -7,9 +7,9 @@ import {
   useEventPlateId,
   usePlateEditorState,
   Value,
-} from '@udecode/plate-common';
-import { ELEMENT_TABLE } from '@udecode/plate-table';
-import { ToolbarButton, ToolbarButtonProps } from '@udecode/plate-ui-toolbar';
+} from '@humandx/plate-common';
+import { ELEMENT_TABLE } from '@humandx/plate-table';
+import { ToolbarButton, ToolbarButtonProps } from '@humandx/plate-ui-toolbar';
 
 export interface TableToolbarButtonProps<V extends Value>
   extends ToolbarButtonProps {

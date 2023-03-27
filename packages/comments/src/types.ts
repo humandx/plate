@@ -1,4 +1,4 @@
-import { TText, Value } from '@udecode/plate-common';
+import { TText, Value } from '@humandx/plate-common';
 
 export interface CommentUser {
   id: string;

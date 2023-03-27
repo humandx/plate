@@ -1,5 +1,5 @@
-import { TEditor, Value } from '@udecode/slate';
-import { TReactEditor } from '@udecode/slate-react';
+import { TEditor, Value } from '@humandx/slate';
+import { TReactEditor } from '@humandx/slate-react';
 import { withReact } from 'slate-react';
 
 export const withTReact = <

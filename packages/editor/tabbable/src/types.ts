@@ -1,4 +1,4 @@
-import { PlateEditor, TNode, TPath, Value } from '@udecode/plate-common';
+import { PlateEditor, TNode, TPath, Value } from '@humandx/plate-common';
 
 export type TabDestinationPath = {
   type: 'path';

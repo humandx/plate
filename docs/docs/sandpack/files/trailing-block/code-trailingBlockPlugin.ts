@@ -1,4 +1,4 @@
-export const trailingBlockPluginCode = `import { ELEMENT_PARAGRAPH, TrailingBlockPlugin } from '@udecode/plate';
+export const trailingBlockPluginCode = `import { ELEMENT_PARAGRAPH, TrailingBlockPlugin } from '@humandx/plate';
 import { MyPlatePlugin } from '../typescript/plateTypes';
 
 export const trailingBlockPlugin: Partial<

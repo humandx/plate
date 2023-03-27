@@ -7,7 +7,7 @@ import {
   useCommentsSelectors,
   useCommentText,
   useCommentUser,
-} from '@udecode/plate-comments';
+} from '@humandx/plate-comments';
 import { css } from 'styled-components';
 import tw from 'twin.macro';
 import { PlateAvatar } from './PlateAvatar';

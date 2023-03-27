@@ -5,7 +5,7 @@ import {
   ComboboxItemProps,
   isDefined,
   useComboboxSelectors,
-} from '@udecode/plate';
+} from '@humandx/plate';
 
 // WIP
 

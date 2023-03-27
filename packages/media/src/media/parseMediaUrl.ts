@@ -3,7 +3,7 @@ import {
   PlateEditor,
   RenderFunction,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { MediaPlugin } from './types';
 
 export type EmbedUrlData = {

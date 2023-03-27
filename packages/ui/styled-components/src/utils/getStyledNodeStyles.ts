@@ -1,4 +1,4 @@
-import { AnyObject } from '@udecode/plate-common';
+import { AnyObject } from '@humandx/plate-common';
 import { StyledProps } from '../types/StyledProps';
 import { createStyles } from './createStyles';
 

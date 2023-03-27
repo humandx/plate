@@ -1,4 +1,4 @@
-import { TElement } from '@udecode/slate';
+import { TElement } from '@humandx/slate';
 import { SCOPE_ELEMENT, useElementStore } from './elementAtom';
 
 /**

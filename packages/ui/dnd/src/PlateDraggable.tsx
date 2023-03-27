@@ -1,5 +1,5 @@
 import React, { forwardRef } from 'react';
-import { EElement, Value } from '@udecode/plate-common';
+import { EElement, Value } from '@humandx/plate-common';
 import {
   DraggableBlock,
   DraggableBlockToolbar,
@@ -9,8 +9,8 @@ import {
   DraggableRoot,
   DragHandle as DefaultDragHandle,
   useDraggableState,
-} from '@udecode/plate-dnd';
-import { StyledElementProps } from '@udecode/plate-styled-components';
+} from '@humandx/plate-dnd';
+import { StyledElementProps } from '@humandx/plate-styled-components';
 import { getDraggableStyles } from './PlateDraggable.styles';
 import { DraggableStyles, DragHandleProps } from './PlateDraggable.types';
 

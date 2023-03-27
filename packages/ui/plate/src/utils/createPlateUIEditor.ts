@@ -4,7 +4,7 @@ import {
   PlateEditor,
   TEditor,
   Value,
-} from '@udecode/plate-headless';
+} from '@humandx/plate-headless';
 import { createPlateUI } from './createPlateUI';
 
 /**

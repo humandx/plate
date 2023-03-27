@@ -1,5 +1,5 @@
-import { Value } from '@udecode/slate';
-import { AnyObject } from '@udecode/utils';
+import { Value } from '@humandx/slate';
+import { AnyObject } from '@humandx/utils';
 import clsx from 'clsx';
 import { PlateRenderNodeProps } from '../types/PlateRenderNodeProps';
 import { WithPlatePlugin } from '../types/plugin/PlatePlugin';

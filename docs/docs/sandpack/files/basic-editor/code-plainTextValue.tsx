@@ -1,6 +1,6 @@
 export const plainTextValueCode = `/** @jsxRuntime classic */
 /** @jsx jsx */
-import { jsx } from '@udecode/plate-test-utils';
+import { jsx } from '@humandx/plate-test-utils';
 
 jsx;
 

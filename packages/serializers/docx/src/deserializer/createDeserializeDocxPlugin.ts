@@ -3,7 +3,7 @@ import {
   DeserializeHtml,
   KEY_DESERIALIZE_HTML,
   PlatePlugin,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import {
   ELEMENT_H1,
   ELEMENT_H2,
@@ -11,11 +11,11 @@ import {
   ELEMENT_H4,
   ELEMENT_H5,
   ELEMENT_H6,
-} from '@udecode/plate-heading';
-import { KEY_INDENT, KEY_TEXT_INDENT } from '@udecode/plate-indent';
-import { KEY_LIST_STYLE_TYPE, ListStyleType } from '@udecode/plate-indent-list';
-import { ELEMENT_IMAGE } from '@udecode/plate-media';
-import { ELEMENT_PARAGRAPH } from '@udecode/plate-paragraph';
+} from '@humandx/plate-heading';
+import { KEY_INDENT, KEY_TEXT_INDENT } from '@humandx/plate-indent';
+import { KEY_LIST_STYLE_TYPE, ListStyleType } from '@humandx/plate-indent-list';
+import { ELEMENT_IMAGE } from '@humandx/plate-media';
+import { ELEMENT_PARAGRAPH } from '@humandx/plate-paragraph';
 import { cleanDocx } from '../docx-cleaner/cleanDocx';
 import {
   getDocxIndent,

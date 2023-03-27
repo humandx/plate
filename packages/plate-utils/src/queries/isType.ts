@@ -1,5 +1,5 @@
-import { getPluginType, PlateEditor } from '@udecode/plate-core';
-import { Value } from '@udecode/slate';
+import { getPluginType, PlateEditor } from '@humandx/plate-core';
+import { Value } from '@humandx/slate';
 import castArray from 'lodash/castArray';
 
 /**

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Plate } from '@udecode/plate';
+import { Plate } from '@humandx/plate';
 import { MyEditor, MyValue } from './typescript/plateTypes';
 
 export default () => {

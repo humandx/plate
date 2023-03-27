@@ -1,4 +1,4 @@
-import { StyledProps } from '@udecode/plate-styled-components';
+import { StyledProps } from '@humandx/plate-styled-components';
 
 export interface EmojiPickerStyles {}
 

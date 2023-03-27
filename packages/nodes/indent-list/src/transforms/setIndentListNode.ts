@@ -1,5 +1,5 @@
-import { setElements, TEditor, Value } from '@udecode/plate-common';
-import { KEY_INDENT } from '@udecode/plate-indent';
+import { setElements, TEditor, Value } from '@humandx/plate-common';
+import { KEY_INDENT } from '@humandx/plate-indent';
 import { Path } from 'slate';
 import { KEY_LIST_STYLE_TYPE } from '../createIndentListPlugin';
 import { ListStyleType } from '../types';

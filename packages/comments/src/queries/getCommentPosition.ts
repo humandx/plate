@@ -1,4 +1,4 @@
-import { PlateEditor, toDOMNode, Value } from '@udecode/plate-common';
+import { PlateEditor, toDOMNode, Value } from '@humandx/plate-common';
 import { clamp } from 'lodash';
 import { TCommentText } from '../types';
 import { getElementAbsolutePosition } from '../utils/getElementAbsolutePosition';

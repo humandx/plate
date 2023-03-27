@@ -1,5 +1,5 @@
 import { MouseEventHandler, useCallback } from 'react';
-import { HTMLPropsAs } from '@udecode/plate-common';
+import { HTMLPropsAs } from '@humandx/plate-common';
 import { useSetIsSuggesting } from '../store/index';
 
 export const useSuggestingButton = (

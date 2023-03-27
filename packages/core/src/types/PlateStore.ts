@@ -1,4 +1,4 @@
-import { Value } from '@udecode/slate';
+import { Value } from '@humandx/slate';
 import { PlateId } from '../stores';
 import { Nullable } from './misc/Nullable';
 import {

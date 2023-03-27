@@ -1,4 +1,4 @@
-import { TComment } from '@udecode/plate';
+import { TComment } from '@humandx/plate';
 import { MyValue } from '../typescript/plateTypes';
 
 export const usersData = {

@@ -1,5 +1,5 @@
 {
-  "name": "@udecode/plate-ui-media",
+  "name": "@humandx/plate-ui-media",
   "version": "1.0.1",
   "description": "Media embed UI for Plate",
   "license": "MIT",
@@ -19,13 +19,13 @@
   ],
   "types": "dist/index.d.ts",
   "dependencies": {
-    "@udecode/plate-common": "^1.0.1",
-    "@udecode/plate-floating": "^1.0.1",
-    "@udecode/plate-link": "^1.0.1",
-    "@udecode/plate-media": "^1.0.1",
-    "@udecode/plate-styled-components": "^1.0.1",
-    "@udecode/plate-ui-link": "^1.0.1",
-    "@udecode/plate-ui-toolbar": "^1.0.1",
+    "@humandx/plate-common": "^1.0.1",
+    "@humandx/plate-floating": "^1.0.1",
+    "@humandx/plate-link": "^1.0.1",
+    "@humandx/plate-media": "^1.0.1",
+    "@humandx/plate-styled-components": "^1.0.1",
+    "@humandx/plate-ui-link": "^1.0.1",
+    "@humandx/plate-ui-toolbar": "^1.0.1",
     "js-video-url-parser": "0.5.1"
   },
   "peerDependencies": {
@@ -43,5 +43,6 @@
   ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@humandx"
-  }
+  },
+  "gitHead": "80b540ca333e40daddcd62e9defa2dce9efa526b"
 }

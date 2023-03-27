@@ -1,5 +1,5 @@
 {
-  "name": "@udecode/slate-utils",
+  "name": "@humandx/slate-utils",
   "version": "1.0.1",
   "description": "Slate utils",
   "license": "MIT",
@@ -19,8 +19,8 @@
   ],
   "types": "dist/index.d.ts",
   "dependencies": {
-    "@udecode/slate": "^1.0.1",
-    "@udecode/utils": "^1.0.1",
+    "@humandx/slate": "^1.0.1",
+    "@humandx/utils": "^1.0.1",
     "lodash": "^4.17.21"
   },
   "peerDependencies": {
@@ -32,5 +32,6 @@
   ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@humandx"
-  }
+  },
+  "gitHead": "80b540ca333e40daddcd62e9defa2dce9efa526b"
 }

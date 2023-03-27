@@ -1,5 +1,5 @@
 import React from 'react';
-import { Plate } from '@udecode/plate';
+import { Plate } from '@humandx/plate';
 import { editableProps } from './common/editableProps';
 import { MyParagraphElement, MyValue } from './typescript/plateTypes';
 

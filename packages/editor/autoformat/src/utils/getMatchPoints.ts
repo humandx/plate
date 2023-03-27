@@ -1,4 +1,4 @@
-import { getPointBeforeLocation, TEditor, Value } from '@udecode/plate-common';
+import { getPointBeforeLocation, TEditor, Value } from '@humandx/plate-common';
 import { Point, Range } from 'slate';
 import { MatchRange } from '../types';
 import { isPreviousCharacterEmpty } from './isPreviousCharacterEmpty';

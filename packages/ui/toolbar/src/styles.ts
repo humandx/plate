@@ -1,4 +1,4 @@
-import { plateButtonCss } from '@udecode/plate-ui-button';
+import { plateButtonCss } from '@humandx/plate-ui-button';
 import styled, { css } from 'styled-components';
 import tw from 'twin.macro';
 

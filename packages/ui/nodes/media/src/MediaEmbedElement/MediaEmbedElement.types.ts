@@ -1,7 +1,7 @@
-import { Value } from '@udecode/plate-common';
-import { PopoverProps } from '@udecode/plate-floating';
-import { TMediaEmbedElement } from '@udecode/plate-media';
-import { StyledElementProps } from '@udecode/plate-styled-components';
+import { Value } from '@humandx/plate-common';
+import { PopoverProps } from '@humandx/plate-floating';
+import { TMediaEmbedElement } from '@humandx/plate-media';
+import { StyledElementProps } from '@humandx/plate-styled-components';
 import { CSSProp } from 'styled-components';
 
 export interface MediaEmbedElementStyles {

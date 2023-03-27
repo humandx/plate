@@ -3,7 +3,7 @@ import {
   RenderFunction,
   UnknownObject,
   usePlateSelectors,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { useCursorOverlayPositions } from '../hooks/useCursorOverlayPositions';
 import { CursorData, CursorState } from '../types';
 import { Cursor, CursorProps } from './Cursor';

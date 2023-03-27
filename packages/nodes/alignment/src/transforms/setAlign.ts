@@ -9,7 +9,7 @@ import {
   TNodeMatch,
   unsetNodes,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { KEY_ALIGN } from '../createAlignPlugin';
 import { Alignment } from '../types';
 

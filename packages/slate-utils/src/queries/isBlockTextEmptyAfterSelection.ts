@@ -4,7 +4,7 @@ import {
   isText,
   TEditor,
   Value,
-} from '@udecode/slate';
+} from '@humandx/slate';
 import { getBlockAbove } from './getBlockAbove';
 import { getNextSiblingNodes } from './getNextSiblingNodes';
 

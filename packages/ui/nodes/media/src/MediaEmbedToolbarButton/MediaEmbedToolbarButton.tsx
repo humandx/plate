@@ -3,9 +3,9 @@ import {
   focusEditor,
   useEventPlateId,
   usePlateEditorRef,
-} from '@udecode/plate-common';
-import { insertMediaEmbed } from '@udecode/plate-media';
-import { ToolbarButton, ToolbarButtonProps } from '@udecode/plate-ui-toolbar';
+} from '@humandx/plate-common';
+import { insertMediaEmbed } from '@humandx/plate-media';
+import { ToolbarButton, ToolbarButtonProps } from '@humandx/plate-ui-toolbar';
 
 export interface MediaEmbedToolbarButtonProps extends ToolbarButtonProps {
   /**

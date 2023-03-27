@@ -6,7 +6,7 @@ import {
   HTMLPropsAs,
   useElement,
   usePlateEditorRef,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { HandleStyles, Resizable, ResizableProps } from 're-resizable';
 import { ELEMENT_TABLE } from '../../createTablePlugin';
 import {

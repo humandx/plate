@@ -4,9 +4,9 @@ import {
   someNode,
   useEventPlateId,
   usePlateEditorState,
-} from '@udecode/plate-common';
-import { ELEMENT_LINK, triggerFloatingLink } from '@udecode/plate-link';
-import { ToolbarButton, ToolbarButtonProps } from '@udecode/plate-ui-toolbar';
+} from '@humandx/plate-common';
+import { ELEMENT_LINK, triggerFloatingLink } from '@humandx/plate-link';
+import { ToolbarButton, ToolbarButtonProps } from '@humandx/plate-ui-toolbar';
 
 export interface LinkToolbarButtonProps extends ToolbarButtonProps {
   /**

@@ -2,7 +2,7 @@ export const linkPluginCode = `import {
   LinkPlugin,
   PlateFloatingLink,
   RenderAfterEditable,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { MyPlatePlugin, MyValue } from '../typescript/plateTypes';
 
 export const linkPlugin: Partial<MyPlatePlugin<LinkPlugin>> = {

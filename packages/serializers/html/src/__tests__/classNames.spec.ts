@@ -3,7 +3,7 @@ import {
   createParagraphPlugin,
   createPlateUIEditor,
   ELEMENT_PARAGRAPH,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { serializeHtml } from '../serializeHtml';
 
 it('serialize with slate className', () => {

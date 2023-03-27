@@ -1,6 +1,6 @@
 import React from 'react';
-import { Value } from '@udecode/plate-common';
-import { getRootProps } from '@udecode/plate-styled-components';
+import { Value } from '@humandx/plate-common';
+import { getRootProps } from '@humandx/plate-styled-components';
 import { useFocused, useSelected } from 'slate-react';
 import { getHrElementStyles } from './HrElement.styles';
 import { HrElementProps } from './HrElement.types';

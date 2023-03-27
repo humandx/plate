@@ -1,5 +1,5 @@
 {
-  "name": "@udecode/plate-ui-placeholder",
+  "name": "@humandx/plate-ui-placeholder",
   "version": "1.0.1",
   "description": "Placeholder UI for Plate",
   "license": "MIT",
@@ -19,8 +19,8 @@
   ],
   "types": "dist/index.d.ts",
   "dependencies": {
-    "@udecode/plate-common": "^1.0.1",
-    "@udecode/plate-styled-components": "^1.0.1"
+    "@humandx/plate-common": "^1.0.1",
+    "@humandx/plate-styled-components": "^1.0.1"
   },
   "peerDependencies": {
     "react": ">=16.8.0",
@@ -37,5 +37,6 @@
   ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@humandx"
-  }
+  },
+  "gitHead": "80b540ca333e40daddcd62e9defa2dce9efa526b"
 }

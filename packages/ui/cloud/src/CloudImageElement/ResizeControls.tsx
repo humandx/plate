@@ -4,8 +4,8 @@ import {
   PlateCloudEditor,
   PlateCloudImageEditor,
   TCloudImageElement,
-} from '@udecode/plate-cloud';
-import { findNodePath, setNodes, useEditorRef } from '@udecode/plate-common';
+} from '@humandx/plate-cloud';
+import { findNodePath, setNodes, useEditorRef } from '@humandx/plate-common';
 import { ImageSize, SetImageSize } from './types';
 
 /**

@@ -1,5 +1,5 @@
-import { TEditor, Value } from '@udecode/slate';
-import { isDefined } from '@udecode/utils';
+import { TEditor, Value } from '@humandx/slate';
+import { isDefined } from '@humandx/utils';
 import { getMark } from './getMark';
 
 /**

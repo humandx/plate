@@ -3,7 +3,7 @@ import {
   TEditor,
   TElement,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { blockSelectionSelectors } from '../blockSelectionStore';
 
 export const getSelectedBlocks = <V extends Value>(editor: TEditor<V>) => {

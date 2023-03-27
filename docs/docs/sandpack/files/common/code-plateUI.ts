@@ -5,7 +5,7 @@ export const plateUiCode = `import {
   ELEMENT_PARAGRAPH,
   StyledElement,
   withProps,
-} from '@udecode/plate';
+} from '@humandx/plate';
 
 export const plateUI = createPlateUI({
   [ELEMENT_CODE_BLOCK]: CodeBlockElement,

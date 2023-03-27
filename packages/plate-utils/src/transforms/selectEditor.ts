@@ -1,5 +1,5 @@
-import { getEndPoint, getStartPoint, select, Value } from '@udecode/slate';
-import { focusEditor, TReactEditor } from '@udecode/slate-react';
+import { getEndPoint, getStartPoint, select, Value } from '@humandx/slate';
+import { focusEditor, TReactEditor } from '@humandx/slate-react';
 import { Location } from 'slate';
 
 export interface SelectEditorOptions {

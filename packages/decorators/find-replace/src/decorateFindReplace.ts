@@ -4,7 +4,7 @@ import {
   PlateEditor,
   Value,
   WithPlatePlugin,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { Range } from 'slate';
 import { FindReplacePlugin } from './types';
 

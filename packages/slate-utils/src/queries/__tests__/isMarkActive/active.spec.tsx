@@ -1,7 +1,7 @@
 /** @jsx jsx */
 
-import { MARK_BOLD } from '@udecode/plate-basic-marks';
-import { jsx } from '@udecode/plate-test-utils';
+import { MARK_BOLD } from '@humandx/plate-basic-marks';
+import { jsx } from '@humandx/plate-test-utils';
 import { isMarkActive } from '../../isMarkActive';
 
 jsx;

@@ -1,4 +1,4 @@
-import { flip, offset, PopoverProps, shift } from '@udecode/plate-floating';
+import { flip, offset, PopoverProps, shift } from '@humandx/plate-floating';
 
 export const mediaFloatingOptions: PopoverProps['floatingOptions'] = {
   middleware: [

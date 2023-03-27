@@ -1,4 +1,4 @@
-# @udecode/plate-ui
+# @humandx/plate-ui
 
 ## 20.4.1
 
@@ -201,7 +201,7 @@
 ### Major Changes
 
 - [#1721](https://github.com/udecode/plate/pull/1721) by [@zbeyens](https://github.com/zbeyens) –
-  - deprecate `@udecode/plate-ui-popover` for `@udecode/plate-floating`
+  - deprecate `@humandx/plate-ui-popover` for `@humandx/plate-floating`
 
 ## 15.0.6
 
@@ -269,7 +269,7 @@
 
 ### Major Changes
 
-- [#1585](https://github.com/udecode/plate/pull/1585) by [@zbeyens](https://github.com/zbeyens) – Moved `react-dnd react-dnd-html5-backend` deps to peer-dependencies. Install these if using `@udecode/plate-ui-dnd`:
+- [#1585](https://github.com/udecode/plate/pull/1585) by [@zbeyens](https://github.com/zbeyens) – Moved `react-dnd react-dnd-html5-backend` deps to peer-dependencies. Install these if using `@humandx/plate-ui-dnd`:
   ```bash
   yarn install react-dnd react-dnd-html5-backend
   ```

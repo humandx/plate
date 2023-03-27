@@ -1,7 +1,7 @@
 export const horizontalRuleValueCode = `/** @jsxRuntime classic */
 /** @jsx jsx */
-import { ELEMENT_HR } from '@udecode/plate';
-import { jsx } from '@udecode/plate-test-utils';
+import { ELEMENT_HR } from '@humandx/plate';
+import { jsx } from '@humandx/plate-test-utils';
 
 jsx;
 

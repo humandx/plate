@@ -1,4 +1,4 @@
-export const dragOverCursorPluginCode = `import { findEventRange } from '@udecode/plate';
+export const dragOverCursorPluginCode = `import { findEventRange } from '@humandx/plate';
 import { MyPlatePlugin } from '../typescript/plateTypes';
 import { cursorStore } from './cursorStore';
 

@@ -1,4 +1,4 @@
-# @udecode/plate-indent-list
+# @humandx/plate-indent-list
 
 ## 20.4.0
 
@@ -242,4 +242,4 @@
 
 ### Minor Changes
 
-- [#1190](https://github.com/udecode/plate/pull/1190) by [@zbeyens](https://github.com/zbeyens) – new package: `@udecode/plate-indent-list`
+- [#1190](https://github.com/udecode/plate/pull/1190) by [@zbeyens](https://github.com/zbeyens) – new package: `@humandx/plate-indent-list`

@@ -1,5 +1,5 @@
 {
-  "name": "@udecode/plate-floating",
+  "name": "@humandx/plate-floating",
   "version": "1.0.1",
   "description": "Floating UI for Plate",
   "license": "MIT",
@@ -20,8 +20,8 @@
   "types": "dist/index.d.ts",
   "dependencies": {
     "@floating-ui/react": "^0.22.0",
-    "@radix-ui/react-dropdown-menu": "^2.0.4",
-    "@udecode/plate-common": "^1.0.1"
+    "@humandx/plate-common": "^1.0.1",
+    "@radix-ui/react-dropdown-menu": "^2.0.4"
   },
   "peerDependencies": {
     "react": ">=16.8.0",
@@ -37,5 +37,6 @@
   ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@humandx"
-  }
+  },
+  "gitHead": "80b540ca333e40daddcd62e9defa2dce9efa526b"
 }

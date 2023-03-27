@@ -1,5 +1,5 @@
 import React, { ReactNode } from 'react';
-import { Value } from '@udecode/slate';
+import { Value } from '@humandx/slate';
 import { usePlateEffects, UsePlateEffectsProps } from '../hooks';
 import { PlateEditor } from '../types';
 

@@ -5,7 +5,7 @@ import {
   Data,
   NoData,
   TComboboxItem,
-} from '@udecode/plate-combobox';
+} from '@humandx/plate-combobox';
 import {
   getBlockAbove,
   getPlugin,
@@ -19,7 +19,7 @@ import {
   TNodeProps,
   withoutMergingHistory,
   withoutNormalizing,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { ELEMENT_MENTION, ELEMENT_MENTION_INPUT } from './createMentionPlugin';
 import { MentionPlugin, TMentionElement } from './types';
 

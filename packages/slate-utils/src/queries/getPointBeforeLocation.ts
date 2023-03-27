@@ -5,7 +5,7 @@ import {
   getPointBefore,
   TEditor,
   Value,
-} from '@udecode/slate';
+} from '@humandx/slate';
 import castArray from 'lodash/castArray';
 import map from 'lodash/map';
 import { Location, Point } from 'slate';

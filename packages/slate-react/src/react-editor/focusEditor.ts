@@ -1,4 +1,4 @@
-import { deselect, select, Value, withoutNormalizing } from '@udecode/slate';
+import { deselect, select, Value, withoutNormalizing } from '@humandx/slate';
 import { Location } from 'slate';
 import { ReactEditor } from 'slate-react';
 import { TReactEditor } from '../types/TReactEditor';

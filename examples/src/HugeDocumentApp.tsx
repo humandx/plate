@@ -1,5 +1,5 @@
 import React, { useCallback, useMemo, useState } from 'react';
-import { Plate, TElement } from '@udecode/plate';
+import { Plate, TElement } from '@humandx/plate';
 import { createEditor } from 'slate';
 import {
   Editable,

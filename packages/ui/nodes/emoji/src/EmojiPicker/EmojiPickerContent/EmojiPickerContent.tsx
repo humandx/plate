@@ -1,5 +1,5 @@
 import React, { memo, useCallback } from 'react';
-import { Emoji, GridRow } from '@udecode/plate-emoji';
+import { Emoji, GridRow } from '@humandx/plate-emoji';
 import { getEmojiPickerContentStyles } from './EmojiPickerContent.styles';
 import {
   EmojiButtonProps,

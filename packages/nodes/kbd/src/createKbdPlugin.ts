@@ -1,7 +1,7 @@
 import {
   createPluginFactory,
   onKeyDownToggleMark,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 
 export const MARK_KBD = 'kbd';
 

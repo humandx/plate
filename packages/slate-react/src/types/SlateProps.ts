@@ -1,6 +1,6 @@
 import React from 'react';
-import { TDescendant } from '@udecode/slate';
-import { UnknownObject } from '@udecode/utils';
+import { TDescendant } from '@humandx/slate';
+import { UnknownObject } from '@humandx/utils';
 import { ReactEditor } from 'slate-react';
 
 export interface SlateProps extends UnknownObject {

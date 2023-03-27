@@ -4,7 +4,7 @@ import {
   getPluginType,
   PlateEditor,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { floatingLinkActions } from '../components/FloatingLink/floatingLinkStore';
 import { ELEMENT_LINK } from '../createLinkPlugin';
 import { TLinkElement } from '../types';

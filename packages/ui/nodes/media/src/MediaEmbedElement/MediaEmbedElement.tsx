@@ -1,13 +1,13 @@
 import React from 'react';
-import { Box } from '@udecode/plate-common';
-import { ElementPopover } from '@udecode/plate-floating';
+import { Box } from '@humandx/plate-common';
+import { ElementPopover } from '@humandx/plate-floating';
 import {
   Caption,
   ELEMENT_MEDIA_EMBED,
   Media,
   MediaEmbed,
   useMediaStore,
-} from '@udecode/plate-media';
+} from '@humandx/plate-media';
 import { useFocused, useReadOnly, useSelected } from 'slate-react';
 import { mediaFloatingOptions } from '../mediaFloatingOptions';
 import { getMediaEmbedElementStyles } from './MediaEmbedElement.styles';

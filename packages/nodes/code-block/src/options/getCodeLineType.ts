@@ -1,4 +1,4 @@
-import { getPluginType, PlateEditor, Value } from '@udecode/plate-common';
+import { getPluginType, PlateEditor, Value } from '@humandx/plate-common';
 import { ELEMENT_CODE_LINE } from '../constants';
 
 export const getCodeLineType = <V extends Value>(

@@ -1,4 +1,4 @@
-import { EElementOrText, Value, withoutNormalizing } from '@udecode/slate';
+import { EElementOrText, Value, withoutNormalizing } from '@humandx/slate';
 import { PlateEditor } from '../types';
 import { PlatePluginInsertDataOptions } from '../types/plugin/PlatePluginInsertData';
 import { InjectedPlugin } from './getInjectedPlugins';

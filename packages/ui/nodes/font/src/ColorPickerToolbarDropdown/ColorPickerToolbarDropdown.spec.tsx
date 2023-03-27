@@ -11,14 +11,14 @@ import {
   select,
   TEditor,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import {
   createFontBackgroundColorPlugin,
   createFontColorPlugin,
   createFontSizePlugin,
   MARK_BG_COLOR,
   MARK_COLOR,
-} from '@udecode/plate-font';
+} from '@humandx/plate-font';
 import { ColorPickerToolbarDropdown } from './ColorPickerToolbarDropdown';
 
 const DEFAULT_PLUGINS = [

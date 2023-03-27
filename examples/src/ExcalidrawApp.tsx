@@ -1,10 +1,10 @@
 import React from 'react';
-import { createSelectOnBackspacePlugin, Plate } from '@udecode/plate';
+import { createSelectOnBackspacePlugin, Plate } from '@humandx/plate';
 import {
   createExcalidrawPlugin,
   ELEMENT_EXCALIDRAW,
   ExcalidrawElement,
-} from '@udecode/plate-ui-excalidraw';
+} from '@humandx/plate-ui-excalidraw';
 import { basicNodesPlugins } from './basic-nodes/basicNodesPlugins';
 import { editableProps } from './common/editableProps';
 import { excalidrawValue } from './excalidraw/excalidrawValue';

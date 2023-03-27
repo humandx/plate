@@ -1,4 +1,4 @@
-import { ELEMENT_H1, NormalizeTypesPlugin } from '@udecode/plate';
+import { ELEMENT_H1, NormalizeTypesPlugin } from '@humandx/plate';
 import { MyPlatePlugin } from '../typescript/plateTypes';
 
 export const forcedLayoutPlugin: Partial<

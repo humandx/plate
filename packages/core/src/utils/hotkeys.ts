@@ -1,6 +1,6 @@
 import { KeyboardEvent } from 'react';
-import { isComposing, TReactEditor } from '@udecode/slate-react';
-import { IS_APPLE } from '@udecode/utils';
+import { isComposing, TReactEditor } from '@humandx/slate-react';
+import { IS_APPLE } from '@humandx/utils';
 import { isKeyHotkey } from 'is-hotkey';
 
 /**

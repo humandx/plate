@@ -1,4 +1,4 @@
-# @udecode/plate-headless
+# @humandx/plate-headless
 
 ## 20.4.1
 
@@ -132,10 +132,10 @@
 ### Major Changes
 
 - [#1889](https://github.com/udecode/plate/pull/1889) by [@zbeyens](https://github.com/zbeyens) –
-  - `@udecode/plate-selection` package moved out from `@udecode/plate` because of https://github.com/Simonwep/selection/issues/124
+  - `@humandx/plate-selection` package moved out from `@humandx/plate` because of https://github.com/Simonwep/selection/issues/124
   - Migration:
     - If not using `createBlockSelectionPlugin`, no migration is needed.
-    - Otherwise, install `@udecode/plate-selection` and import `createBlockSelectionPlugin` from that package.
+    - Otherwise, install `@humandx/plate-selection` and import `createBlockSelectionPlugin` from that package.
 
 ## 17.0.3
 
@@ -155,7 +155,7 @@
 
 ### Minor Changes
 
-- [#1856](https://github.com/udecode/plate/pull/1856) by [@zbeyens](https://github.com/zbeyens) – New package: `@udecode/plate-selection`
+- [#1856](https://github.com/udecode/plate/pull/1856) by [@zbeyens](https://github.com/zbeyens) – New package: `@humandx/plate-selection`
 
 ## 16.7.0
 
@@ -192,7 +192,7 @@
 ### Major Changes
 
 - [#1721](https://github.com/udecode/plate/pull/1721) by [@zbeyens](https://github.com/zbeyens) –
-  - deprecate `@udecode/plate-image` and `@udecode/plate-media-embed`, those got merged into `@udecode/plate-media`
+  - deprecate `@humandx/plate-image` and `@humandx/plate-media-embed`, those got merged into `@humandx/plate-media`
 
 ## 15.0.6
 
@@ -208,8 +208,8 @@
 
 - [#1677](https://github.com/udecode/plate/pull/1677) by [@zbeyens](https://github.com/zbeyens) –
   - new deps + re-exports:
-    - `@udecode/plate-button`
-    - `@udecode/plate-floating`
+    - `@humandx/plate-button`
+    - `@humandx/plate-floating`
 
 ## 14.4.3
 
@@ -259,15 +259,15 @@
 
 ### Patch Changes
 
-- [#1588](https://github.com/udecode/plate/pull/1588) by [@zbeyens](https://github.com/zbeyens) – remove @udecode/plate-juice from exports
+- [#1588](https://github.com/udecode/plate/pull/1588) by [@zbeyens](https://github.com/zbeyens) – remove @humandx/plate-juice from exports
 
 ## 13.0.0
 
 ### Major Changes
 
-- [#1585](https://github.com/udecode/plate/pull/1585) by [@zbeyens](https://github.com/zbeyens) – Removed `@udecode/plate-juice` from `@udecode/plate`. Install it if using `@udecode/plate-serializer-docx`:
+- [#1585](https://github.com/udecode/plate/pull/1585) by [@zbeyens](https://github.com/zbeyens) – Removed `@humandx/plate-juice` from `@humandx/plate`. Install it if using `@humandx/plate-serializer-docx`:
   ```bash
-  yarn install @udecode/plate-juice
+  yarn install @humandx/plate-juice
   ```
 
 ## 11.3.1
@@ -336,9 +336,9 @@
 
 ### Patch Changes
 
-- [#1398](https://github.com/udecode/plate/pull/1398) by [@nemanja-tosic](https://github.com/nemanja-tosic) – Add @udecode/plate-combobox to @udecode/plate-headless dependencies.
+- [#1398](https://github.com/udecode/plate/pull/1398) by [@nemanja-tosic](https://github.com/nemanja-tosic) – Add @humandx/plate-combobox to @humandx/plate-headless dependencies.
 
-  Plate combobox was getting compiled into the dist files, as opposed to being just re-exported, leading to two conflicting versions of @udecode/plate-combobox: one being the package itself, the other being the inlined version in @udecode/plate-headless.
+  Plate combobox was getting compiled into the dist files, as opposed to being just re-exported, leading to two conflicting versions of @humandx/plate-combobox: one being the package itself, the other being the inlined version in @humandx/plate-headless.
 
   Fixes: #1339
 

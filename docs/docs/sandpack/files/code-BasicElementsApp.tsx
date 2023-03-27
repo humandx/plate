@@ -6,7 +6,7 @@ import {
   createSoftBreakPlugin,
   Plate,
   PlateProvider,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { basicElementsValue } from './basic-elements/basicElementsValue';
 import { BasicElementToolbarButtons } from './basic-elements/BasicElementToolbarButtons';
 import { editableProps } from './common/editableProps';

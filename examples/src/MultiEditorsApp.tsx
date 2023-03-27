@@ -1,5 +1,5 @@
 import React, { useCallback, useMemo, useState } from 'react';
-import { Plate } from '@udecode/plate';
+import { Plate } from '@humandx/plate';
 import { createEditor } from 'slate';
 import { Editable, ReactEditor, Slate, withReact } from 'slate-react';
 import { basicNodesPlugins } from './basic-nodes/basicNodesPlugins';

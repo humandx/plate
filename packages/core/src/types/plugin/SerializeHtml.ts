@@ -1,4 +1,4 @@
-import { Value } from '@udecode/slate';
+import { Value } from '@humandx/slate';
 import { RenderFunction } from '../misc/RenderFunction';
 import { PlateRenderElementProps } from '../PlateRenderElementProps';
 import { PlateRenderLeafProps } from '../PlateRenderLeafProps';

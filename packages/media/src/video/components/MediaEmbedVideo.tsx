@@ -1,4 +1,4 @@
-import { createElementAs, HTMLPropsAs } from '@udecode/plate-common';
+import { createElementAs, HTMLPropsAs } from '@humandx/plate-common';
 import { EmbedUrlData, useMediaStore } from '../../media/index';
 
 export const useMediaEmbedVideo = ({

@@ -6,7 +6,7 @@ import {
   HTMLPropsAs,
   mergeProps,
   useComposedRef,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import {
   floatingLinkActions,
   floatingLinkSelectors,

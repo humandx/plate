@@ -2,7 +2,7 @@ import React from 'react';
 import {
   TableRowElement,
   TableRowElementRootProps,
-} from '@udecode/plate-table';
+} from '@humandx/plate-table';
 import tw from 'twin.macro';
 
 export interface PlateTableRowElementProps extends TableRowElementRootProps {

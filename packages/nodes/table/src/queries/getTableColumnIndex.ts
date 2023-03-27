@@ -4,7 +4,7 @@ import {
   TElement,
   TReactEditor,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 
 /**
  * Get table column index of a cell node.

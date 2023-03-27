@@ -5,9 +5,9 @@ import {
   TCommentText,
   useCommentsActions,
   useCommentsSelectors,
-} from '@udecode/plate-comments';
-import { Value } from '@udecode/plate-common';
-import { StyledLeaf, StyledLeafProps } from '@udecode/plate-styled-components';
+} from '@humandx/plate-comments';
+import { Value } from '@humandx/plate-common';
+import { StyledLeaf, StyledLeafProps } from '@humandx/plate-styled-components';
 
 export const PlateCommentLeaf = <V extends Value = Value>(
   props: StyledLeafProps<V, TCommentText>

@@ -1,5 +1,5 @@
 /* eslint-disable simple-import-sort/imports */
-import { isText } from '@udecode/plate'; // noinspection CommaExpressionJS
+import { isText } from '@humandx/plate'; // noinspection CommaExpressionJS
 import Prism from 'prismjs';
 import 'prismjs/components/prism-markdown';
 

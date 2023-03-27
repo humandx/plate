@@ -4,8 +4,8 @@ import {
   createPlateEditor,
   normalizeEditor,
   PlateEditor,
-} from '@udecode/plate-common';
-import { jsx } from '@udecode/plate-test-utils';
+} from '@humandx/plate-common';
+import { jsx } from '@humandx/plate-test-utils';
 import { createTablePlugin } from './createTablePlugin';
 
 jsx;

@@ -3,7 +3,7 @@ import {
   TElement,
   TReactEditor,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { Path } from 'slate';
 
 /**

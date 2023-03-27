@@ -1,5 +1,5 @@
 {
-  "name": "@udecode/utils",
+  "name": "@humandx/utils",
   "version": "1.0.1",
   "description": "Udecode utils",
   "license": "MIT",
@@ -23,5 +23,6 @@
   ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@humandx"
-  }
+  },
+  "gitHead": "80b540ca333e40daddcd62e9defa2dce9efa526b"
 }

@@ -4,7 +4,7 @@ import {
   PlateEditor,
   Value,
   WithPlatePlugin,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { getTableAbove, getTableGridAbove } from './queries/index';
 import { TablePlugin } from './types';
 

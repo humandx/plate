@@ -4,9 +4,9 @@ import {
   ComboboxStoreById,
   NoData,
   TComboboxItem,
-} from '@udecode/plate-combobox';
-import { RenderFunction } from '@udecode/plate-common';
-import { StyledProps } from '@udecode/plate-styled-components';
+} from '@humandx/plate-combobox';
+import { RenderFunction } from '@humandx/plate-common';
+import { StyledProps } from '@humandx/plate-styled-components';
 import { CSSProp } from 'styled-components';
 
 export interface ComboboxStyleProps<TData> extends ComboboxProps<TData> {

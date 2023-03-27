@@ -1,6 +1,6 @@
 export const excalidrawValueCode = `/** @jsxRuntime classic */
 /** @jsx jsx */
-import { jsx } from '@udecode/plate-test-utils';
+import { jsx } from '@humandx/plate-test-utils';
 import { initialDataExcalidraw } from './initialDataExcalidraw';
 
 jsx;

@@ -6,8 +6,8 @@ import {
   PlateEditor,
   toggleNodeType,
   WithPlatePlugin,
-} from '@udecode/plate-core';
-import { Value } from '@udecode/slate';
+} from '@humandx/plate-core';
+import { Value } from '@humandx/slate';
 import isHotkey from 'is-hotkey';
 import { castArray } from 'lodash';
 

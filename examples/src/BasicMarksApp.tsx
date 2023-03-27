@@ -1,5 +1,5 @@
 import React from 'react';
-import { createBasicMarksPlugin, Plate, PlateProvider } from '@udecode/plate';
+import { createBasicMarksPlugin, Plate, PlateProvider } from '@humandx/plate';
 import { basicElementsPlugins } from './basic-elements/basicElementsPlugins';
 import { basicMarksValue } from './basic-marks/basicMarksValue';
 import { BasicMarkToolbarButtons } from './basic-marks/BasicMarkToolbarButtons';

@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
-import { CommentEditActions } from '@udecode/plate-comments';
-import { plateButtonCss, primaryButtonCss } from '@udecode/plate-ui-button';
+import { CommentEditActions } from '@humandx/plate-comments';
+import { plateButtonCss, primaryButtonCss } from '@humandx/plate-ui-button';
 import tw from 'twin.macro';
 import { PlateCommentEditTextarea } from './PlateCommentNewTextarea';
 

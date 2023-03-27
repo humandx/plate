@@ -1,9 +1,9 @@
-import { createBoldPlugin } from '@udecode/plate-basic-marks/src/createBoldPlugin';
-import { createItalicPlugin } from '@udecode/plate-basic-marks/src/createItalicPlugin';
-import { htmlStringToDOMNode, Value } from '@udecode/plate-common';
-import { createListPlugin } from '@udecode/plate-list/src/createListPlugin';
-import { createParagraphPlugin } from '@udecode/plate-paragraph/src/createParagraphPlugin';
-import { createPlateUIEditor } from '@udecode/plate-ui/src/utils/createPlateUIEditor';
+import { createBoldPlugin } from '@humandx/plate-basic-marks/src/createBoldPlugin';
+import { createItalicPlugin } from '@humandx/plate-basic-marks/src/createItalicPlugin';
+import { htmlStringToDOMNode, Value } from '@humandx/plate-common';
+import { createListPlugin } from '@humandx/plate-list/src/createListPlugin';
+import { createParagraphPlugin } from '@humandx/plate-paragraph/src/createParagraphPlugin';
+import { createPlateUIEditor } from '@humandx/plate-ui/src/utils/createPlateUIEditor';
 import { serializeHtml } from '../serializeHtml';
 
 it('serialize complex example list with paragraphs to html', () => {

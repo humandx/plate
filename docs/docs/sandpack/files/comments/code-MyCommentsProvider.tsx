@@ -1,5 +1,5 @@
 export const myCommentsProviderCode = `import React, { ReactNode } from 'react';
-import { CommentsProvider } from '@udecode/plate';
+import { CommentsProvider } from '@humandx/plate';
 import { commentsData, usersData } from './constants';
 
 export const MyCommentsProvider = ({ children }: { children: ReactNode }) => {

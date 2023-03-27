@@ -1,5 +1,5 @@
 {
-  "name": "@udecode/plate-link",
+  "name": "@humandx/plate-link",
   "version": "1.0.1",
   "description": "Link plugin for Plate",
   "license": "MIT",
@@ -19,9 +19,9 @@
   ],
   "types": "dist/index.d.ts",
   "dependencies": {
-    "@udecode/plate-button": "^1.0.1",
-    "@udecode/plate-common": "^1.0.1",
-    "@udecode/plate-normalizers": "^1.0.1"
+    "@humandx/plate-button": "^1.0.1",
+    "@humandx/plate-common": "^1.0.1",
+    "@humandx/plate-normalizers": "^1.0.1"
   },
   "peerDependencies": {
     "react": ">=16.8.0",
@@ -37,5 +37,6 @@
   ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@humandx"
-  }
+  },
+  "gitHead": "80b540ca333e40daddcd62e9defa2dce9efa526b"
 }

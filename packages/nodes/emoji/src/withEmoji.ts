@@ -1,10 +1,10 @@
-import { comboboxActions } from '@udecode/plate-combobox';
+import { comboboxActions } from '@humandx/plate-combobox';
 import {
   isCollapsed,
   PlateEditor,
   Value,
   WithPlatePlugin,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { getFindTriggeringInput } from './handlers';
 import { EmojiPlugin } from './types';
 import { EmojiInlineIndexSearch } from './utils';

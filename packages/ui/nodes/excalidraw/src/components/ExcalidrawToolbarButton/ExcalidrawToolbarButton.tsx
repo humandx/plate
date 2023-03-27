@@ -5,8 +5,8 @@ import {
   someNode,
   useEventPlateId,
   usePlateEditorState,
-} from '@udecode/plate-common';
-import { ToolbarButton, ToolbarButtonProps } from '@udecode/plate-ui-toolbar';
+} from '@humandx/plate-common';
+import { ToolbarButton, ToolbarButtonProps } from '@humandx/plate-ui-toolbar';
 import { ELEMENT_EXCALIDRAW, insertExcalidraw } from '../../index';
 
 export interface ExcalidrawToolbarButtonProps extends ToolbarButtonProps {}

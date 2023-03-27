@@ -1,4 +1,4 @@
-import { TSuggestion } from '@udecode/plate';
+import { TSuggestion } from '@humandx/plate';
 import { MyValue } from '../typescript/plateTypes';
 
 export const usersData = {

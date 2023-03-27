@@ -1,4 +1,4 @@
-# @udecode/plate-docx-serializer
+# @humandx/plate-docx-serializer
 
 ## 20.4.0
 
@@ -233,7 +233,7 @@
 ### Minor Changes
 
 - [#1303](https://github.com/udecode/plate/pull/1303) by [@zbeyens](https://github.com/zbeyens) –
-  - moved many utils to `@udecode/plate-core`
+  - moved many utils to `@humandx/plate-core`
   - deserialize `textIndent` to indent list
   - changed indent step from `32` to `36`
 

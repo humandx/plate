@@ -6,7 +6,7 @@ import {
   PlateCommentLeaf,
   PlateFloatingComments,
   PlateProvider,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { basicNodesPlugins } from './basic-nodes/basicNodesPlugins';
 import { CommentBalloonToolbar } from './comments/CommentBalloonToolbar';
 import { commentsValue } from './comments/constants';

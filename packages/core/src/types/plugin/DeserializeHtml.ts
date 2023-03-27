@@ -1,4 +1,4 @@
-import { AnyObject } from '@udecode/utils';
+import { AnyObject } from '@humandx/utils';
 
 export type DeserializeHtml = {
   /**

@@ -1,12 +1,12 @@
-const packageJsonPlate = require('@udecode/plate/package.json');
-const packageJsonExcalidraw = require('@udecode/plate-ui-excalidraw/package.json');
-const packageJsonTestUtils = require('@udecode/plate-test-utils/package.json');
-const packageJsonJuice = require('@udecode/plate-juice/package.json');
-const packageJsonSelection = require('@udecode/plate-selection/package.json');
-const packageJsonCloud = require('@udecode/plate-cloud/package.json');
-const packageJsonCloudUi = require('@udecode/plate-ui-cloud/package.json');
-const packageJsonDnd = require('@udecode/plate-dnd/package.json');
-const packageJsonDndUi = require('@udecode/plate-ui-dnd/package.json');
+const packageJsonPlate = require('@humandx/plate/package.json');
+const packageJsonExcalidraw = require('@humandx/plate-ui-excalidraw/package.json');
+const packageJsonTestUtils = require('@humandx/plate-test-utils/package.json');
+const packageJsonJuice = require('@humandx/plate-juice/package.json');
+const packageJsonSelection = require('@humandx/plate-selection/package.json');
+const packageJsonCloud = require('@humandx/plate-cloud/package.json');
+const packageJsonCloudUi = require('@humandx/plate-ui-cloud/package.json');
+const packageJsonDnd = require('@humandx/plate-dnd/package.json');
+const packageJsonDndUi = require('@humandx/plate-ui-dnd/package.json');
 const { sandpackPath } = require('./plop-config');
 
 const templateVersions = `export const plateVersion = '${packageJsonPlate.version}';

@@ -1,4 +1,4 @@
-export const cursorStoreCode = `import { createStore } from '@udecode/plate';
+export const cursorStoreCode = `import { createStore } from '@humandx/plate';
 
 export const cursorStore = createStore('cursor')({
   cursors: {},

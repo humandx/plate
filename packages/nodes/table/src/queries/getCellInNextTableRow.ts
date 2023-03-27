@@ -4,7 +4,7 @@ import {
   TElement,
   TNodeEntry,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { Path } from 'slate';
 
 export const getCellInNextTableRow = <V extends Value>(

@@ -6,7 +6,7 @@ import {
   useEventPlateId,
   usePlateEditorState,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { ToolbarButton } from '../ToolbarButton/ToolbarButton';
 import { MarkToolbarButtonProps } from './MarkToolbarButton.types';
 

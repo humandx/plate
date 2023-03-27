@@ -1,4 +1,4 @@
-import { createPlateEditor } from '@udecode/plate-common';
+import { createPlateEditor } from '@humandx/plate-common';
 import { createLinkPlugin } from '../createLinkPlugin';
 import { TLinkElement } from '../types';
 import { getLinkAttributes } from './getLinkAttributes';

@@ -1,8 +1,8 @@
 /* eslint-disable jsx-a11y/alt-text */
 import React from 'react';
-import { Box } from '@udecode/plate-common';
-import { ElementPopover } from '@udecode/plate-floating';
-import { Caption, ELEMENT_IMAGE, Image, Media } from '@udecode/plate-media';
+import { Box } from '@humandx/plate-common';
+import { ElementPopover } from '@humandx/plate-floating';
+import { Caption, ELEMENT_IMAGE, Image, Media } from '@humandx/plate-media';
 import { useFocused, useReadOnly, useSelected } from 'slate-react';
 import { PlateFloatingMedia } from '../MediaEmbedElement/index';
 import { mediaFloatingOptions } from '../mediaFloatingOptions';

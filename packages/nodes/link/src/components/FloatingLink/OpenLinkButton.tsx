@@ -8,7 +8,7 @@ import {
   HTMLPropsAs,
   useEditorRef,
   usePlateSelection,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { ELEMENT_LINK } from '../../createLinkPlugin';
 import { TLinkElement } from '../../types';
 import { getLinkAttributes } from '../../utils/index';

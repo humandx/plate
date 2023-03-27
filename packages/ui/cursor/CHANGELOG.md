@@ -1,4 +1,4 @@
-# @udecode/plate-ui-cursor
+# @humandx/plate-ui-cursor
 
 ## 20.4.0
 

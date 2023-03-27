@@ -1,9 +1,9 @@
-import { PlateEditor } from '@udecode/plate-core';
-import { EElement, Value } from '@udecode/slate';
+import { PlateEditor } from '@humandx/plate-core';
+import { EElement, Value } from '@humandx/slate';
 import {
   replaceNodeChildren,
   ReplaceNodeChildrenOptions,
-} from '@udecode/slate-utils';
+} from '@humandx/slate-utils';
 
 /**
  * Replace editor children by default block.

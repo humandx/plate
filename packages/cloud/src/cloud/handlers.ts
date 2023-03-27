@@ -1,5 +1,5 @@
 import React from 'react';
-import { findEventRange, select, Value } from '@udecode/plate-common';
+import { findEventRange, select, Value } from '@humandx/plate-common';
 import { PlateCloudEditor } from './types';
 import { uploadFiles } from './uploadFiles';
 

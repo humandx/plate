@@ -4,7 +4,7 @@ import {
   GetAboveNodeOptions,
   TEditor,
   Value,
-} from '@udecode/slate';
+} from '@humandx/slate';
 
 /**
  * Get the block above a location (default: selection).

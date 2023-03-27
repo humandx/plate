@@ -8,7 +8,7 @@ import {
   TDescendant,
   TElement,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { ELEMENT_CODE_BLOCK, ELEMENT_CODE_LINE } from './constants';
 
 export const insertFragmentCodeBlock = <V extends Value>(

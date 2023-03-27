@@ -1,7 +1,7 @@
 /** @jsx jsx */
 
-import { createPlateEditor, PlateEditor } from '@udecode/plate-common';
-import { jsx } from '@udecode/plate-test-utils';
+import { createPlateEditor, PlateEditor } from '@humandx/plate-common';
+import { jsx } from '@humandx/plate-test-utils';
 import { ELEMENT_LINK } from '../../../../../nodes/link/src/createLinkPlugin';
 import { createRemoveEmptyNodesPlugin } from '../../createRemoveEmptyNodesPlugin';
 

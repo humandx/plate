@@ -4,7 +4,7 @@ import {
   createTrailingBlockPlugin,
   ELEMENT_H1,
   Plate,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { basicNodesPlugins } from './basic-nodes/basicNodesPlugins';
 import { editableProps } from './common/editableProps';
 import { plateUI } from './common/plateUI';

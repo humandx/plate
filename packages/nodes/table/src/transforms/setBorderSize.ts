@@ -6,7 +6,7 @@ import {
   SetNodesOptions,
   Value,
   withoutNormalizing,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { Path } from 'slate';
 import { getLeftTableCell } from '../queries/getLeftTableCell';
 import { getTopTableCell } from '../queries/getTopTableCell';

@@ -5,7 +5,7 @@ import {
   TEditor,
   TNodeEntry,
   Value,
-} from '@udecode/slate';
+} from '@humandx/slate';
 import { getBlockAbove } from './getBlockAbove';
 
 /**

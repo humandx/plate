@@ -10,21 +10,24 @@ In the following example, you can press `Enter` in an empty block quote or `Back
 ### Installation
 
 ```bash npm2yarn
-npm install @udecode/plate
+npm install @humandx/plate
 # or
-npm install @udecode/plate-reset-node
+npm install @humandx/plate-reset-node
 ```
 
 ### Usage
 
-import { ResetNodeSandpack } from './ResetNodeSandpack'
+import { ResetNodeSandpack } from './ResetNodeSandpack';
 
 <ResetNodeSandpack />
 
 ### Options
 
 ```tsx
-export interface ResetNodePluginRule<V extends Value = Value, E extends PlateEditor<V> = PlateEditor<V>> extends HotkeyPlugin {
+export interface ResetNodePluginRule<
+  V extends Value = Value,
+  E extends PlateEditor<V> = PlateEditor<V>
+> extends HotkeyPlugin {
   defaultType?: string;
 
   /**
@@ -43,7 +46,10 @@ export interface ResetNodePluginRule<V extends Value = Value, E extends PlateEdi
   onReset?: (editor: E) => void;
 }
 
-export interface ResetNodePlugin<V extends Value = Value, E extends PlateEditor<V> = PlateEditor<V>> {
+export interface ResetNodePlugin<
+  V extends Value = Value,
+  E extends PlateEditor<V> = PlateEditor<V>
+> {
   rules?: ResetNodePluginRule<V, E>[];
 }
 ```

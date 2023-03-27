@@ -8,12 +8,12 @@ import {
   PlateEditor,
   Value,
   withoutNormalizing,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import {
   onKeyDownResetNode,
   ResetNodePlugin,
   SIMULATE_BACKSPACE,
-} from '@udecode/plate-reset-node';
+} from '@humandx/plate-reset-node';
 import { getListItemEntry } from './queries/getListItemEntry';
 import { isListNested } from './queries/isListNested';
 import { removeFirstListItem } from './transforms/removeFirstListItem';

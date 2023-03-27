@@ -5,7 +5,7 @@ import {
   getRange,
   TEditor,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { Point } from 'slate';
 
 /**

@@ -1,4 +1,4 @@
-import { TEditor, Value, withoutNormalizing } from '@udecode/slate';
+import { TEditor, Value, withoutNormalizing } from '@humandx/slate';
 import castArray from 'lodash/castArray';
 import { isMarkActive } from '../queries';
 import { removeMark } from './removeMark';

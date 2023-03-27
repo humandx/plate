@@ -63,13 +63,13 @@ yarn g:dev
 To start the docusaurus app locally, run:
 
 ```bash
-yarn docs:start 
+yarn docs:start
 ```
 
 To build the docusaurus app, run:
 
 ```bash
-yarn docs:build 
+yarn docs:build
 ```
 
 #### How to: Create a plate package
@@ -81,13 +81,13 @@ yarn gen:package
 ```
 
 - `/src`
-    - plate plugin?
-        - *How to: Create a plate plugin*
+  - plate plugin?
+    - _How to: Create a plate plugin_
 - `packages/plate`
-    - edit `package.json`
-        - add the package to dependencies
-    - edit `src/index.tsx`
-        - add `export * from '@udecode/plate-x';`
+  - edit `package.json`
+    - add the package to dependencies
+  - edit `src/index.tsx`
+    - add `export * from '@humandx/plate-x';`
 
 Once done with the package:
 
@@ -99,33 +99,32 @@ yarn g:build
 #### How to: Create an example
 
 - Did you create a new package?
-    - edit `/config/aliases-plate.js`
-        - add `'@udecode/plate-x': <package path from /packages>'` to watch file changes
+  - edit `/config/aliases-plate.js`
+    - add `'@humandx/plate-x': <package path from /packages>'` to watch file changes
 - Create an example app in `/examples/src`
 - Once you've finished the example app:
   - go back to the root of the repository
   - run `yarn gen:code` to generate the sandpack files
 - Create an example in the docs:
-    - go to `/docs/docs`
-        - create a new sandpack file for the demo using the generated files
-        - create a new mdx file for the docs, importing the sandpack file
-    - edit `/docs/docs/sidebars.js`
-        - add the example doc so it appears in the sidebar
+  - go to `/docs/docs`
+    - create a new sandpack file for the demo using the generated files
+    - create a new mdx file for the docs, importing the sandpack file
+  - edit `/docs/docs/sidebars.js`
+    - add the example doc so it appears in the sidebar
 
 #### How to: Create a plate plugin
 
 - create file `createXPlugin.ts`
-  
-    ```tsx
-    import { createPluginFactory } from '@udecode/plate-core';
-    
-    export const createXPlugin = createPluginFactory({
-    
-    });
-    ```
-    
+
+  ```tsx
+  import { createPluginFactory } from '@humandx/plate-core';
+
+  export const createXPlugin = createPluginFactory({});
+  ```
+
 - is node?
   - create file `constants.ts`
+
 ```tsx
 // for elements
 export const ELEMENT_X = 'x';
@@ -133,33 +132,39 @@ export const ELEMENT_X = 'x';
 // for marks
 export const MARK_X = 'x';
 ```
-  - has node data?
-      - create file `types.ts`
-```tsx
-export interface TXElement extends TElement {
 
-}
-```
-- is element?
-    - add to plugin:
-            
+- has node data?
+  - create file `types.ts`
+
 ```tsx
-isElement: true
+export interface TXElement extends TElement {}
 ```
+
+- is element?
+  - add to plugin:
+
+```tsx
+isElement: true;
+```
+
 - is inline?
   - add to plugin:
+
 ```tsx
-isInline: true
+isInline: true;
 ```
+
 - create the components in `/components`
-  
 - is void?
-  - add to plugin: 
+  - add to plugin:
+
 ```tsx
-isVoid: true
+isVoid: true;
 ```
+
 - go to `createPlateUI`
-    - add the plugin component to `components` object
+  - add the plugin component to `components` object
+
 ```tsx
 [ELEMENT_X]: XElement,
 ```
@@ -238,7 +243,7 @@ When using `slate-hyperscript`, include this at the top of the file:
 ```ts
 /** @jsx jsx */
 
-import { jsx } from "@udecode/plate-test-utils";
+import { jsx } from '@humandx/plate-test-utils';
 
 jsx;
 ```
@@ -259,7 +264,7 @@ const output = ((
   </editor>
 ) as any) as PlateEditor;
 
-it("should be", () => {
+it('should be', () => {
   expect(input).toEqual(output);
 });
 ```
@@ -367,4 +372,3 @@ author to try and create a reproduction, or have a go yourself.
 - `bug`s should be closed when the issue is fixed and released.
 - `feature`s, `maintenance`s, should be closed when released or if the
   feature is deemed not appropriate.
-

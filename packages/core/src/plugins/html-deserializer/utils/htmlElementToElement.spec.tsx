@@ -1,7 +1,7 @@
 /* eslint-disable react-hooks/rules-of-hooks */
 /** @jsx jsx */
 
-import { jsx } from '@udecode/plate-test-utils';
+import { jsx } from '@humandx/plate-test-utils';
 import { createParagraphPlugin } from '../../../../../nodes/paragraph/src/createParagraphPlugin';
 import { createPlateUIEditor } from '../../../../../ui/plate/src/utils/createPlateUIEditor';
 import { htmlElementToElement } from './htmlElementToElement';

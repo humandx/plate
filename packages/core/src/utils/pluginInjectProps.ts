@@ -1,6 +1,6 @@
 import { CSSProperties } from 'react';
-import { EElement, EText, isElement, Value } from '@udecode/slate';
-import { AnyObject } from '@udecode/utils';
+import { EElement, EText, isElement, Value } from '@humandx/slate';
+import { AnyObject } from '@humandx/utils';
 import clsx from 'clsx';
 import { PlateEditor } from '../types/PlateEditor';
 import { WithPlatePlugin } from '../types/plugin/PlatePlugin';

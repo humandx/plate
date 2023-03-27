@@ -10,7 +10,7 @@ import {
   unwrapNodes,
   Value,
   withoutNormalizing,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { Path } from 'slate';
 import {
   ELEMENT_LI,

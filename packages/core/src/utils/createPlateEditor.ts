@@ -1,4 +1,4 @@
-import { createTEditor, normalizeEditor, TEditor, Value } from '@udecode/slate';
+import { createTEditor, normalizeEditor, TEditor, Value } from '@humandx/slate';
 import { withPlate, WithPlateOptions } from '../plugins/withPlate';
 import { OverrideByKey } from '../types/OverrideByKey';
 import { PlateEditor } from '../types/PlateEditor';

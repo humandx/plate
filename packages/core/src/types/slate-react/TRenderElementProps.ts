@@ -1,4 +1,4 @@
-import { EElement, TElement, Value } from '@udecode/slate';
+import { EElement, TElement, Value } from '@humandx/slate';
 import { RenderElementProps } from 'slate-react';
 
 export type TRenderElementProps<

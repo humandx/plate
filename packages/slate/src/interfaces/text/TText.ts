@@ -1,4 +1,4 @@
-import { Simplify, UnionToIntersection, UnknownObject } from '@udecode/utils';
+import { Simplify, UnionToIntersection, UnknownObject } from '@humandx/utils';
 import { TEditor, Value } from '../editor/TEditor';
 import { TElement } from '../element/TElement';
 import { TNode, TNodeProps } from '../node/TNode';

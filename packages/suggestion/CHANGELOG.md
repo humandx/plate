@@ -1,3 +1,3 @@
-# @udecode/plate-suggestion
+# @humandx/plate-suggestion
 
 ## 20.4.0

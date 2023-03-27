@@ -1,5 +1,5 @@
 import React from 'react';
-import { Plate, PlateProps, PlateProvider } from '@udecode/plate';
+import { Plate, PlateProps, PlateProvider } from '@humandx/plate';
 import { MarkBalloonToolbar } from './balloon-toolbar/MarkBalloonToolbar';
 import { basicElementsValue } from './basic-elements/basicElementsValue';
 import { BasicElementToolbarButtons } from './basic-elements/BasicElementToolbarButtons';

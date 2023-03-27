@@ -2,7 +2,7 @@ import {
   ELEMENT_HR,
   ELEMENT_IMAGE,
   SelectOnBackspacePlugin,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { MyPlatePlugin } from '../typescript/plateTypes';
 
 export const selectOnBackspacePlugin: Partial<

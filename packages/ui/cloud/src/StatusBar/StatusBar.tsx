@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-import { Upload, UploadProgress } from '@udecode/plate-cloud';
+import { Upload, UploadProgress } from '@humandx/plate-cloud';
 import { CSSProp } from 'styled-components';
 
 export function ProgressBar({

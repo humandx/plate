@@ -1,7 +1,7 @@
 /** @jsx jsx */
 
-import { mockPlugin } from '@udecode/plate-common';
-import { jsx } from '@udecode/plate-test-utils';
+import { mockPlugin } from '@humandx/plate-common';
+import { jsx } from '@humandx/plate-test-utils';
 import * as isHotkey from 'is-hotkey';
 import { ELEMENT_H1 } from '../../../../../../nodes/heading/src/constants';
 import { onKeyDownExitBreak } from '../../onKeyDownExitBreak';

@@ -6,7 +6,7 @@ export const alignPluginCode = `import {
   ELEMENT_H5,
   ELEMENT_H6,
   ELEMENT_PARAGRAPH,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { MyPlatePlugin } from '../typescript/plateTypes';
 
 export const alignPlugin: Partial<MyPlatePlugin> = {

@@ -1,5 +1,5 @@
 export const toolbarCode = `import React from 'react';
-import { HeadingToolbar, ToolbarProps } from '@udecode/plate';
+import { HeadingToolbar, ToolbarProps } from '@humandx/plate';
 
 export const Toolbar = (props: ToolbarProps) => <HeadingToolbar {...props} />;
 `;

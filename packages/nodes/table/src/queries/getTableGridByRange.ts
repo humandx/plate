@@ -4,7 +4,7 @@ import {
   TElement,
   TElementEntry,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { Range } from 'slate';
 import { TTableElement } from '../types';
 import { getEmptyTableNode } from '../utils/getEmptyTableNode';

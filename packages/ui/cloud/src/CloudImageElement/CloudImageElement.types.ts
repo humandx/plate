@@ -1,6 +1,6 @@
-import { TCloudImageElement } from '@udecode/plate-cloud';
-import { Value } from '@udecode/plate-common';
-import { StyledElementProps } from '@udecode/plate-styled-components';
+import { TCloudImageElement } from '@humandx/plate-cloud';
+import { Value } from '@humandx/plate-common';
+import { StyledElementProps } from '@humandx/plate-styled-components';
 import { CSSProp } from 'styled-components';
 import { CloudStatusBarStyles } from '../StatusBar/StatusBar.types';
 

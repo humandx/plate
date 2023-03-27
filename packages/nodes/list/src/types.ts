@@ -1,4 +1,4 @@
-import { HotkeyPlugin } from '@udecode/plate-common';
+import { HotkeyPlugin } from '@humandx/plate-common';
 
 export interface ListPlugin extends HotkeyPlugin {
   /**

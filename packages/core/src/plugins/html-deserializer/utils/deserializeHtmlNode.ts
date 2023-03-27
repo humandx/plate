@@ -1,4 +1,4 @@
-import { EDescendant, Value } from '@udecode/slate';
+import { EDescendant, Value } from '@humandx/slate';
 import { PlateEditor } from '../../../types/PlateEditor';
 import { DeserializeHtmlNodeReturnType } from '../types';
 import { htmlBodyToFragment } from './htmlBodyToFragment';

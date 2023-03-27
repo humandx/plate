@@ -1,5 +1,5 @@
 {
-  "name": "@udecode/plate-styled-components",
+  "name": "@humandx/plate-styled-components",
   "version": "1.0.1",
   "description": "Standard UI for Plate",
   "license": "MIT",
@@ -19,7 +19,7 @@
   ],
   "types": "dist/index.d.ts",
   "dependencies": {
-    "@udecode/plate-common": "^1.0.1",
+    "@humandx/plate-common": "^1.0.1",
     "clsx": "^1.1.1"
   },
   "peerDependencies": {
@@ -42,5 +42,6 @@
   ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@humandx"
-  }
+  },
+  "gitHead": "80b540ca333e40daddcd62e9defa2dce9efa526b"
 }

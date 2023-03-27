@@ -1,5 +1,5 @@
 import { ChangeEvent } from 'react';
-import { createStyles, StyledProps } from '@udecode/plate-styled-components';
+import { createStyles, StyledProps } from '@humandx/plate-styled-components';
 import { css, CSSProp } from 'styled-components';
 
 export type ColorInputStyles = {

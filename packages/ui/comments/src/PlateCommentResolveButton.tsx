@@ -4,8 +4,8 @@ import {
   CommentResolveButton,
   RefreshIcon,
   useComment,
-} from '@udecode/plate-comments';
-import { plateButtonCss } from '@udecode/plate-ui-button';
+} from '@humandx/plate-comments';
+import { plateButtonCss } from '@humandx/plate-ui-button';
 import tw from 'twin.macro';
 
 export const PlateCommentResolveButton = () => {

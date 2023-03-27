@@ -1,4 +1,4 @@
-import { TComboboxItem } from '@udecode/plate-combobox';
+import { TComboboxItem } from '@humandx/plate-combobox';
 import { EMOJI_MAX_SEARCH_RESULT } from '../../constants';
 import { EmojiItemData } from '../../types';
 import { Emoji, IEmojiLibrary } from '../EmojiLibrary';

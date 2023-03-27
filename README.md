@@ -4,7 +4,7 @@ Plate
 
 <p>
 <div align="center">
-  <a href="https://www.npmjs.com/package/@udecode/plate-core"><img src="https://img.shields.io/npm/dm/@udecode/plate-core.svg" alt="Total Downloads"></a>
+  <a href="https://www.npmjs.com/package/@humandx/plate-core"><img src="https://img.shields.io/npm/dm/@humandx/plate-core.svg" alt="Total Downloads"></a>
   <a target="_blank" href="https://github.com/udecode/plate/releases/latest"><img src="https://img.shields.io/github/v/release/udecode/plate" /></a>
   <a target="_blank" href="https://plate.udecode.io/docs/playground" alt="Live Demo"><img src="https://img.shields.io/badge/Live%20Demo-blue" /></a>
   <a target="_blank" href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
@@ -30,7 +30,7 @@ This repository comes with a lot of plugins, including elements, marks, serializ
 
 Plate uses jotai for state management and is designed to support decoupled design systems. It comes with a default design system, but you can also plug in your own.
 
-With more than 70 packages, `@udecode/plate` enforces separation of concerns for improved build optimization and versioning. It is also extensible, with all plugins accepting options and their functions being exported. Finally, it is tree-shakeable and comes with heavy TypeScript support.
+With more than 70 packages, `@humandx/plate` enforces separation of concerns for improved build optimization and versioning. It is also extensible, with all plugins accepting options and their functions being exported. Finally, it is tree-shakeable and comes with heavy TypeScript support.
 
 ## Motivation
 
@@ -44,7 +44,7 @@ Don't spend any more time struggling to build your custom editor. Try Plate toda
 
 ## Documentation
 
-For more information on `@udecode/plate`, please refer to the following documentation sections:
+For more information on `@humandx/plate`, please refer to the following documentation sections:
 
 - [API documentation](https://plate-api.udecode.io/globals.html)
 - [Docs](https://plate.udecode.io)
@@ -72,8 +72,8 @@ If you are interested in contributing to the development of Plate, please refer 
 
 ### Author's Note
 
-> As the author of @udecode/plate, I understand the challenges of building an app with an editor. I spent months working on this project and realized that many other developers were facing the same difficulties. That's why I decided to open-source this work and invite others to collaborate.
-> 
+> As the author of @humandx/plate, I understand the challenges of building an app with an editor. I spent months working on this project and realized that many other developers were facing the same difficulties. That's why I decided to open-source this work and invite others to collaborate.
+>
 > Open-source is a long-term investment that can help us create a bug-free product and reduce technical debt. By working together, we can build a fully-featured editor that will benefit us all. I encourage you to join this collaboration and contribute to the project. Together, we can create something truly great.
 
 #### [Become a Sponsor!](https://github.com/sponsors/zbeyens)

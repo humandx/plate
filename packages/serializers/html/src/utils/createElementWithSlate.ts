@@ -1,5 +1,5 @@
 import React from 'react';
-import { createTEditor, SlateProps, withTReact } from '@udecode/plate-common';
+import { createTEditor, SlateProps, withTReact } from '@humandx/plate-common';
 import { Slate } from 'slate-react';
 
 /**

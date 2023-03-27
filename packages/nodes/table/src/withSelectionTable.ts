@@ -7,7 +7,7 @@ import {
   isRangeAcrossBlocks,
   PlateEditor,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { Range } from 'slate';
 import { overrideSelectionFromCell } from './transforms/overrideSelectionFromCell';
 import { ELEMENT_TABLE } from './createTablePlugin';

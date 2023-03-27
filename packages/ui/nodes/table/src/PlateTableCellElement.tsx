@@ -4,7 +4,7 @@ import {
   TableCellElement,
   TableCellElementRootProps,
   useTableCellElementState,
-} from '@udecode/plate-table';
+} from '@humandx/plate-table';
 import { css, CSSProp } from 'styled-components';
 import tw from 'twin.macro';
 

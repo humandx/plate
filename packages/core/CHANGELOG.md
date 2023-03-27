@@ -1,4 +1,4 @@
-# @udecode/plate-core
+# @humandx/plate-core
 
 ## 20.4.0
 
@@ -13,17 +13,17 @@
 
 - [`0077402`](https://github.com/udecode/plate/commit/00774029236d37737abdadf49b074e613e290792) by [@zbeyens](https://github.com/zbeyens) –
   - This package has been split into multiple packages for separation of concerns and decoupled versioning:
-    - `@udecode/utils` is a collection of miscellaneous utilities. Can be used by any project.
-    - `@udecode/slate` is a collection of `slate` experimental features and bug fixes that may be moved into `slate` one day. It's essentially composed of the generic types. Can be used by vanilla `slate` consumers without plate.
-    - `@udecode/slate-react` is a collection of `slate-react` experimental features and bug fixes that that may be moved into `slate-react` one day. It's essentially composed of the generic types. Can be used by vanilla `slate-react` consumers without plate.
-    - `@udecode/plate-core` is the minimalistic core of plate. It essentially includes `Plate`, `PlateProvider` and their dependencies. Note this package is not dependent on the `*-utils` packages.
-    - `@udecode/slate-utils` is a collection of utils depending on `@udecode/slate`. Can be used by vanilla `slate` consumers without plate.
-    - `@udecode/plate-utils` is a collection of utils depending on `@udecode/slate-react` and `@udecode/plate-core`
-    - `@udecode/plate-common` re-exports the 6 previous packages and is a dependency of all the other packages. It's basically replacing `@udecore/plate-core` as a bundle.
+    - `@humandx/utils` is a collection of miscellaneous utilities. Can be used by any project.
+    - `@humandx/slate` is a collection of `slate` experimental features and bug fixes that may be moved into `slate` one day. It's essentially composed of the generic types. Can be used by vanilla `slate` consumers without plate.
+    - `@humandx/slate-react` is a collection of `slate-react` experimental features and bug fixes that that may be moved into `slate-react` one day. It's essentially composed of the generic types. Can be used by vanilla `slate-react` consumers without plate.
+    - `@humandx/plate-core` is the minimalistic core of plate. It essentially includes `Plate`, `PlateProvider` and their dependencies. Note this package is not dependent on the `*-utils` packages.
+    - `@humandx/slate-utils` is a collection of utils depending on `@humandx/slate`. Can be used by vanilla `slate` consumers without plate.
+    - `@humandx/plate-utils` is a collection of utils depending on `@humandx/slate-react` and `@humandx/plate-core`
+    - `@humandx/plate-common` re-exports the 6 previous packages and is a dependency of all the other packages. It's basically replacing `@udecore/plate-core` as a bundle.
   - Removed `getPreventDefaultHandler` since it is no longer needed.
     **Migration**:
-    - If using `@udecode/plate` or `@udecode/plate-headless`: none
-    - Else: find & replace `@udecode/plate-core` by `@udecode/plate-common`
+    - If using `@humandx/plate` or `@humandx/plate-headless`: none
+    - Else: find & replace `@humandx/plate-core` by `@humandx/plate-common`
 
 ### Minor Changes
 
@@ -491,9 +491,9 @@
 
 ### Major Changes
 
-- [#1633](https://github.com/udecode/plate/pull/1633) by [@tjramage](https://github.com/tjramage) – Moved `serializeHtml` and its utils to `@udecode/plate-serializer-html` as it has a new dependency: [html-entities](https://www.npmjs.com/package/html-entities).
-  - If you're using `@udecode/plate`, no migration is needed
-  - Otherwise, import it from `@udecode/plate-serializer-html`
+- [#1633](https://github.com/udecode/plate/pull/1633) by [@tjramage](https://github.com/tjramage) – Moved `serializeHtml` and its utils to `@humandx/plate-serializer-html` as it has a new dependency: [html-entities](https://www.npmjs.com/package/html-entities).
+  - If you're using `@humandx/plate`, no migration is needed
+  - Otherwise, import it from `@humandx/plate-serializer-html`
 
 ## 13.8.0
 
@@ -1417,10 +1417,10 @@ Removing node props types in favor of element types (same props + extends `TElem
 
   New utils:
 
-  - `@udecode/plate-common` has been merged into this package as both packages were dependencies of the exact same packages.
-  - `@udecode/plate-html-serializer` has been merged into this package.
-  - `@udecode/plate-ast-serializer` has been merged into this package.
-  - `@udecode/plate-serializer` has been merged into this package.
+  - `@humandx/plate-common` has been merged into this package as both packages were dependencies of the exact same packages.
+  - `@humandx/plate-html-serializer` has been merged into this package.
+  - `@humandx/plate-ast-serializer` has been merged into this package.
+  - `@humandx/plate-serializer` has been merged into this package.
   - `createPlateEditor`: Create a plate editor with:
     - `createEditor` or custom `editor`
     - `withPlate`
@@ -1653,8 +1653,8 @@ To migrate, find and replace all occurrences of:
 
 ## 1.0.0-next.61
 
-> This is the last version of `@udecode/slate-plugins[-x]`, please install
-> `@udecode/plate[-x]`.
+> This is the last version of `@humandx/slate-plugins[-x]`, please install
+> `@humandx/plate[-x]`.
 
 ### Minor Changes
 

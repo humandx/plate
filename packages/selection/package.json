@@ -1,5 +1,5 @@
 {
-  "name": "@udecode/plate-selection",
+  "name": "@humandx/plate-selection",
   "version": "1.0.1",
   "description": "Plate plugin to add a visual way of selecting blocks",
   "license": "MIT",
@@ -19,7 +19,7 @@
   ],
   "types": "dist/index.d.ts",
   "dependencies": {
-    "@udecode/plate-common": "^1.0.1",
+    "@humandx/plate-common": "^1.0.1",
     "@viselect/vanilla": "^3.1.0",
     "copy-to-clipboard": "^3.3.2"
   },
@@ -37,5 +37,6 @@
   ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@humandx"
-  }
+  },
+  "gitHead": "80b540ca333e40daddcd62e9defa2dce9efa526b"
 }

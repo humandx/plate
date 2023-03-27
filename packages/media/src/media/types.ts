@@ -1,4 +1,4 @@
-import { RenderFunction } from '@udecode/plate-common';
+import { RenderFunction } from '@humandx/plate-common';
 import { TCaptionElement } from '../caption/index';
 import { TResizableElement } from '../resizable/index';
 import { EmbedUrlData } from './parseMediaUrl';

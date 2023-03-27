@@ -5,7 +5,7 @@ import {
   autoformatMath,
   autoformatPunctuation,
   autoformatSmartQuotes,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { MyAutoformatRule } from '../typescript/plateTypes';
 import { autoformatBlocks } from './autoformatBlocks';
 import { autoformatLists } from './autoformatLists';

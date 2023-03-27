@@ -7,7 +7,7 @@ import {
   isType,
   toggleList,
   unwrapList,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { MyEditor, MyValue } from '../typescript/plateTypes';
 
 export const preFormat: AutoformatBlockRule<MyValue, MyEditor>['preFormat'] = (

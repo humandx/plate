@@ -1,4 +1,4 @@
-# @udecode/plate-ui-combobox
+# @humandx/plate-ui-combobox
 
 ## 20.4.0
 

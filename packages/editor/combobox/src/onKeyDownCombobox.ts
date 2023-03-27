@@ -3,7 +3,7 @@ import {
   KeyboardHandlerReturnType,
   PlateEditor,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import isHotkey from 'is-hotkey';
 import { getNextWrappingIndex } from './utils/getNextWrappingIndex';
 import {

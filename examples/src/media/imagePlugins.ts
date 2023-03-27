@@ -3,7 +3,7 @@ import {
   createComboboxPlugin,
   createImagePlugin,
   createSelectOnBackspacePlugin,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { basicMarksPlugins } from '../basic-marks/basicMarksPlugins';
 import { plateUI } from '../common/plateUI';
 import { selectOnBackspacePlugin } from '../select-on-backspace/selectOnBackspacePlugin';

@@ -7,8 +7,8 @@ import {
   withoutNormalizing,
   wrapNodes,
   WrapNodesOptions,
-} from '@udecode/slate';
-import { Modify } from '@udecode/utils';
+} from '@humandx/slate';
+import { Modify } from '@humandx/utils';
 import { Path } from 'slate';
 import { moveChildren } from './moveChildren';
 

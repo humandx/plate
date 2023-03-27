@@ -1,4 +1,4 @@
-import { useEditorRef } from '@udecode/plate-common';
+import { useEditorRef } from '@humandx/plate-common';
 import { PlateCloudEditor } from '../cloud/types';
 import { Upload } from './types';
 

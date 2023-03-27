@@ -1,5 +1,5 @@
 {
-  "name": "@udecode/plate",
+  "name": "@humandx/plate",
   "version": "1.0.1",
   "description": "Plate – a plugin system for slate",
   "license": "MIT",
@@ -19,8 +19,8 @@
   ],
   "types": "dist/index.d.ts",
   "dependencies": {
-    "@udecode/plate-headless": "^1.0.1",
-    "@udecode/plate-ui": "^1.0.1"
+    "@humandx/plate-headless": "^1.0.1",
+    "@humandx/plate-ui": "^1.0.1"
   },
   "peerDependencies": {
     "react": ">=16.8.0",
@@ -45,5 +45,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@humandx"
   },
-  "gitHead": "9f660a54cbd931cd20a6ad99e9319dbebfc7e1af"
+  "gitHead": "80b540ca333e40daddcd62e9defa2dce9efa526b"
 }

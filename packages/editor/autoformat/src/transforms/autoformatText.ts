@@ -3,7 +3,7 @@ import {
   insertText,
   PlateEditor,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import castArray from 'lodash/castArray';
 import { Point, Range } from 'slate';
 import { AutoformatTextRule } from '../types';

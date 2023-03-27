@@ -1,4 +1,4 @@
-import { createTEditor } from '@udecode/slate';
+import { createTEditor } from '@humandx/slate';
 import { getPreviousBlockById } from './getPreviousBlockById';
 
 const nodesFixture5 = [

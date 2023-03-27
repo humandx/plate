@@ -1,4 +1,4 @@
-export const autoformatPluginCode = `import { AutoformatPlugin } from '@udecode/plate';
+export const autoformatPluginCode = `import { AutoformatPlugin } from '@humandx/plate';
 import { MyEditor, MyPlatePlugin, MyValue } from '../typescript/plateTypes';
 import { autoformatRules } from './autoformatRules';
 

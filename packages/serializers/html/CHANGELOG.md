@@ -1,4 +1,4 @@
-# @udecode/plate-serializer-html
+# @humandx/plate-serializer-html
 
 ## 20.4.0
 

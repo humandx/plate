@@ -1,4 +1,4 @@
-import { comboboxActions } from '@udecode/plate-combobox';
+import { comboboxActions } from '@humandx/plate-combobox';
 import {
   getEditorString,
   getNodeString,
@@ -14,7 +14,7 @@ import {
   TText,
   Value,
   WithPlatePlugin,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { Range } from 'slate';
 import { removeMentionInput } from './transforms/removeMentionInput';
 import { ELEMENT_MENTION_INPUT } from './createMentionPlugin';

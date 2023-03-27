@@ -3,7 +3,7 @@ import {
   createElementAs,
   HTMLPropsAs,
   useComposedRef,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { DraggableState } from './useDraggableState';
 
 export type DraggableRootProps = {} & HTMLPropsAs<'div'> &

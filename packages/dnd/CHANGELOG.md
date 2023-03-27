@@ -1,4 +1,4 @@
-# @udecode/plate-dnd
+# @humandx/plate-dnd
 
 ## 20.4.0
 
@@ -8,4 +8,4 @@
 
 ### Minor Changes
 
-- [#2237](https://github.com/udecode/plate/pull/2237) by [@TomMorane](https://github.com/TomMorane) – New package extracting unstyled logic from `@udecode/plate-ui-dnd`
+- [#2237](https://github.com/udecode/plate/pull/2237) by [@TomMorane](https://github.com/TomMorane) – New package extracting unstyled logic from `@humandx/plate-ui-dnd`

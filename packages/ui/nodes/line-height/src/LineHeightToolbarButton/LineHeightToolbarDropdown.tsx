@@ -6,13 +6,13 @@ import {
   someNode,
   useEventPlateId,
   usePlateEditorState,
-} from '@udecode/plate-common';
-import { KEY_LINE_HEIGHT, setLineHeight } from '@udecode/plate-line-height';
+} from '@humandx/plate-common';
+import { KEY_LINE_HEIGHT, setLineHeight } from '@humandx/plate-line-height';
 import {
   ToolbarButton,
   ToolbarButtonProps,
   ToolbarDropdown,
-} from '@udecode/plate-ui-toolbar';
+} from '@humandx/plate-ui-toolbar';
 
 export const LineHeightToolbarDropdown = ({
   id,

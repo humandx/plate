@@ -5,7 +5,7 @@ import {
   JotaiProvider,
   nanoid,
   WithPartial,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { SuggestionUser, TSuggestion } from '../types';
 
 export const SCOPE_SUGGESTION = Symbol('suggestion');

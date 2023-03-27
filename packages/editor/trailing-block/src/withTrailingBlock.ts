@@ -5,7 +5,7 @@ import {
   queryNode,
   Value,
   WithPlatePlugin,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { Path } from 'slate';
 import { TrailingBlockPlugin } from './createTrailingBlockPlugin';
 

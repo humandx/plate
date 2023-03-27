@@ -1,5 +1,5 @@
 import { SyntheticEvent } from 'react';
-import { Value } from '@udecode/slate';
+import { Value } from '@humandx/slate';
 import { PlateEditor } from '../types/PlateEditor';
 import { DOMHandlers, HandlerReturnType } from '../types/plugin/DOMHandlers';
 import { TEditableProps } from '../types/slate-react/TEditableProps';

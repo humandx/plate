@@ -9,7 +9,7 @@ import {
   insertNodes,
   Plate,
   setNodes,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { preFormat } from './autoformat/autoformatUtils';
 import { basicNodesPlugins } from './basic-nodes/basicNodesPlugins';
 import { editableProps } from './common/editableProps';

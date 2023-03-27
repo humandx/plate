@@ -1,4 +1,4 @@
-import { findEventRange } from '@udecode/plate';
+import { findEventRange } from '@humandx/plate';
 import { MyPlatePlugin } from '../typescript/plateTypes';
 import { cursorStore } from './cursorStore';
 

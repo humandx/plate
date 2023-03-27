@@ -10,12 +10,12 @@ import {
   useEventPlateId,
   usePlateEditorRef,
   usePlateEditorState,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import {
   ToolbarButton,
   ToolbarButtonProps,
   ToolbarDropdown,
-} from '@udecode/plate-ui-toolbar';
+} from '@humandx/plate-ui-toolbar';
 import { ColorPicker } from '../ColorPicker/ColorPicker';
 import { ColorType } from '../ColorPicker/ColorType';
 import { DEFAULT_COLORS, DEFAULT_CUSTOM_COLORS } from './constants';

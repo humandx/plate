@@ -1,4 +1,4 @@
-export const mentionablesCode = `import { TComboboxItem } from '@udecode/plate'
+export const mentionablesCode = `import { TComboboxItem } from '@humandx/plate'
 
 export const MENTIONABLES: TComboboxItem[] = [
   { key: '0', text: 'Aayla Secura' },

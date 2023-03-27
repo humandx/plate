@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from 'react';
-import { useEventPlateId, usePlateEditorState } from '@udecode/plate-common';
+import { useEventPlateId, usePlateEditorState } from '@humandx/plate-common';
 import {
   EmojiFloatingIndexSearch,
   EmojiFloatingLibrary,
@@ -8,8 +8,8 @@ import {
   FrequentEmojiStorage,
   useEmojiPicker,
   UseEmojiPickerType,
-} from '@udecode/plate-emoji';
-import { ToolbarButton, ToolbarButtonProps } from '@udecode/plate-ui-toolbar';
+} from '@humandx/plate-emoji';
+import { ToolbarButton, ToolbarButtonProps } from '@humandx/plate-ui-toolbar';
 import { EmojiPicker } from '../EmojiPicker';
 import { emojiCategoryIcons, emojiSearchIcons } from '../icons';
 import { EmojiToolbarDropdownRoot } from './EmojiToolbarDropdownRoot';

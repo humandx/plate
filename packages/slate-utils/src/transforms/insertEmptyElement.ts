@@ -3,7 +3,7 @@ import {
   InsertNodesOptions,
   TEditor,
   Value,
-} from '@udecode/slate';
+} from '@humandx/slate';
 import { insertElements } from './insertElements';
 
 export const insertEmptyElement = <V extends Value>(

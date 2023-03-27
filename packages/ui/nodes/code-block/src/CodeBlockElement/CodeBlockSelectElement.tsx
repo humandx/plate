@@ -4,8 +4,8 @@ import {
   CODE_BLOCK_LANGUAGES_POPULAR,
   CodeBlockPlugin,
   ELEMENT_CODE_BLOCK,
-} from '@udecode/plate-code-block';
-import { getPluginOptions, useEditorRef } from '@udecode/plate-common';
+} from '@humandx/plate-code-block';
+import { getPluginOptions, useEditorRef } from '@humandx/plate-common';
 import { useReadOnly } from 'slate-react';
 import { CSSProp } from 'styled-components';
 

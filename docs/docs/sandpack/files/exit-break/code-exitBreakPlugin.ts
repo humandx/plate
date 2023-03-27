@@ -1,4 +1,4 @@
-export const exitBreakPluginCode = `import { ExitBreakPlugin, KEYS_HEADING } from '@udecode/plate';
+export const exitBreakPluginCode = `import { ExitBreakPlugin, KEYS_HEADING } from '@humandx/plate';
 import { MyPlatePlugin } from '../typescript/plateTypes';
 
 export const exitBreakPlugin: Partial<MyPlatePlugin<ExitBreakPlugin>> = {

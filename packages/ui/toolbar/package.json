@@ -1,5 +1,5 @@
 {
-  "name": "@udecode/plate-ui-toolbar",
+  "name": "@humandx/plate-ui-toolbar",
   "version": "1.0.1",
   "description": "Toolbar UI for Plate",
   "license": "MIT",
@@ -19,11 +19,11 @@
   ],
   "types": "dist/index.d.ts",
   "dependencies": {
+    "@humandx/plate-common": "^1.0.1",
+    "@humandx/plate-floating": "^1.0.1",
+    "@humandx/plate-styled-components": "^1.0.1",
+    "@humandx/plate-ui-button": "^1.0.1",
     "@tippyjs/react": "^4.2.6",
-    "@udecode/plate-common": "^1.0.1",
-    "@udecode/plate-floating": "^1.0.1",
-    "@udecode/plate-styled-components": "^1.0.1",
-    "@udecode/plate-ui-button": "^1.0.1",
     "react-use": "^17.3.2"
   },
   "peerDependencies": {
@@ -41,5 +41,6 @@
   ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@humandx"
-  }
+  },
+  "gitHead": "80b540ca333e40daddcd62e9defa2dce9efa526b"
 }

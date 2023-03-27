@@ -2,7 +2,7 @@ import {
   createPluginFactory,
   HotkeyPlugin,
   onKeyDownToggleElement,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 
 export const ELEMENT_BLOCKQUOTE = 'blockquote';
 

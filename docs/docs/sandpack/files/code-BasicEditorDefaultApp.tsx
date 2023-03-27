@@ -1,5 +1,5 @@
 export const basicEditorDefaultAppCode = `import React from 'react';
-import { Plate, TEditableProps } from '@udecode/plate';
+import { Plate, TEditableProps } from '@humandx/plate';
 
 const editableProps: TEditableProps = {
   placeholder: 'Type...',

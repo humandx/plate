@@ -3,7 +3,7 @@ export const basicElementsPluginsCode = `import {
   createCodeBlockPlugin,
   createHeadingPlugin,
   createParagraphPlugin,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { plateUI } from '../common/plateUI';
 import { createMyPlugins } from '../typescript/plateTypes';
 

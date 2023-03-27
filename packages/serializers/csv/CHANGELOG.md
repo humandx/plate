@@ -1,4 +1,4 @@
-# @udecode/plate-serializer-csv
+# @humandx/plate-serializer-csv
 
 ## 20.4.0
 
@@ -212,16 +212,16 @@
 ### Patch Changes
 
 - Updated dependencies [[`a6bf8c5e`](https://github.com/udecode/plate/commit/a6bf8c5e6897c6ab443e0ac3d69a30befeaddadf)]:
-  - @udecode/plate-common@5.3.5
-  - @udecode/plate-table@5.3.5
-  - @udecode/plate-serializer@5.3.5
+  - @humandx/plate-common@5.3.5
+  - @humandx/plate-table@5.3.5
+  - @humandx/plate-serializer@5.3.5
 
 ## 5.3.4
 
 ### Patch Changes
 
 - Updated dependencies [[`f45ed8cf`](https://github.com/udecode/plate/commit/f45ed8cff140a604169bfa0d042447a8fd0236ed)]:
-  - @udecode/plate-serializer@5.3.4
+  - @humandx/plate-serializer@5.3.4
 
 ## 5.3.1
 
@@ -230,75 +230,75 @@
 - [#1136](https://github.com/udecode/plate/pull/1136) [`8aec270f`](https://github.com/udecode/plate/commit/8aec270f8b06a3b25b8d7144c2e23b0dc12de118) Thanks [@dylans](https://github.com/dylans)! - allow disabling deserializer by paste target
 
 - Updated dependencies [[`8aec270f`](https://github.com/udecode/plate/commit/8aec270f8b06a3b25b8d7144c2e23b0dc12de118)]:
-  - @udecode/plate-core@5.3.1
-  - @udecode/plate-serializer@5.3.1
-  - @udecode/plate-common@5.3.1
-  - @udecode/plate-table@5.3.1
+  - @humandx/plate-core@5.3.1
+  - @humandx/plate-serializer@5.3.1
+  - @humandx/plate-common@5.3.1
+  - @humandx/plate-table@5.3.1
 
 ## 5.3.0
 
 ### Patch Changes
 
 - Updated dependencies [[`7ee21356`](https://github.com/udecode/plate/commit/7ee21356f0a4e67e367232b3dbc9957254a0c11e)]:
-  - @udecode/plate-core@5.3.0
-  - @udecode/plate-common@5.3.0
-  - @udecode/plate-table@5.3.0
-  - @udecode/plate-serializer@5.3.0
+  - @humandx/plate-core@5.3.0
+  - @humandx/plate-common@5.3.0
+  - @humandx/plate-table@5.3.0
+  - @humandx/plate-serializer@5.3.0
 
 ## 5.1.0
 
 ### Patch Changes
 
 - Updated dependencies [[`503956fd`](https://github.com/udecode/plate/commit/503956fd9f71253249b3ad699b81c1c465351b0a)]:
-  - @udecode/plate-common@5.1.0
-  - @udecode/plate-table@5.1.0
-  - @udecode/plate-serializer@5.1.0
+  - @humandx/plate-common@5.1.0
+  - @humandx/plate-table@5.1.0
+  - @humandx/plate-serializer@5.1.0
 
 ## 4.4.0
 
 ### Patch Changes
 
 - Updated dependencies [[`b22c06aa`](https://github.com/udecode/plate/commit/b22c06aad1cfed08069dadc7ec39bcbfb1d0af37)]:
-  - @udecode/plate-common@4.4.0
-  - @udecode/plate-table@4.4.0
-  - @udecode/plate-serializer@4.4.0
+  - @humandx/plate-common@4.4.0
+  - @humandx/plate-table@4.4.0
+  - @humandx/plate-serializer@4.4.0
 
 ## 4.3.7
 
 ### Patch Changes
 
 - Updated dependencies [[`58f6fb53`](https://github.com/udecode/plate/commit/58f6fb53bf45a2e0509f4aca617aa21356952fca)]:
-  - @udecode/plate-core@4.3.7
-  - @udecode/plate-common@4.3.7
-  - @udecode/plate-table@4.3.7
-  - @udecode/plate-serializer@4.3.7
+  - @humandx/plate-core@4.3.7
+  - @humandx/plate-common@4.3.7
+  - @humandx/plate-table@4.3.7
+  - @humandx/plate-serializer@4.3.7
 
 ## 4.3.0
 
 ### Patch Changes
 
 - Updated dependencies [[`6af469cd`](https://github.com/udecode/plate/commit/6af469cd5ac310e831eb8a99a71eba73bde62fc6)]:
-  - @udecode/plate-core@4.3.0
-  - @udecode/plate-common@4.3.0
-  - @udecode/plate-table@4.3.0
-  - @udecode/plate-serializer@4.3.0
+  - @humandx/plate-core@4.3.0
+  - @humandx/plate-common@4.3.0
+  - @humandx/plate-table@4.3.0
+  - @humandx/plate-serializer@4.3.0
 
 ## 3.5.1
 
 ### Patch Changes
 
 - Updated dependencies [[`0db393e1`](https://github.com/udecode/plate/commit/0db393e1cebec792c89a633cb8929a0786943713)]:
-  - @udecode/plate-serializer@3.5.1
+  - @humandx/plate-serializer@3.5.1
 
 ## 3.4.0
 
 ### Patch Changes
 
 - Updated dependencies [[`f1da7267`](https://github.com/udecode/plate/commit/f1da7267d46d94e207f4477f73e42b63736a9085), [`35caf35d`](https://github.com/udecode/plate/commit/35caf35d48fff851518648ff66e64a4268dcc97c)]:
-  - @udecode/plate-common@3.4.0
-  - @udecode/plate-core@3.4.0
-  - @udecode/plate-table@3.4.0
-  - @udecode/plate-serializer@3.4.0
+  - @humandx/plate-common@3.4.0
+  - @humandx/plate-core@3.4.0
+  - @humandx/plate-table@3.4.0
+  - @humandx/plate-serializer@3.4.0
 
 ## 3.2.0
 
@@ -311,65 +311,65 @@
 - [#995](https://github.com/udecode/plate/pull/995) [`5eb42cdd`](https://github.com/udecode/plate/commit/5eb42cdd47db4fd41936420b86b0bf7df9a8aa09) Thanks [@dylans](https://github.com/dylans)! - update to slate 0.66.x
 
 - Updated dependencies [[`56b2551b`](https://github.com/udecode/plate/commit/56b2551b2fa5fab180b3c99551144667f99f7afc), [`3a590663`](https://github.com/udecode/plate/commit/3a5906637b008e85a6d907a7492a78fe9961bf34), [`58387c6d`](https://github.com/udecode/plate/commit/58387c6d34e86be7880999b40a9105b6178f4ce4), [`5eb42cdd`](https://github.com/udecode/plate/commit/5eb42cdd47db4fd41936420b86b0bf7df9a8aa09)]:
-  - @udecode/plate-table@3.2.0
-  - @udecode/plate-serializer@3.2.0
-  - @udecode/plate-common@3.2.0
-  - @udecode/plate-core@3.2.0
+  - @humandx/plate-table@3.2.0
+  - @humandx/plate-serializer@3.2.0
+  - @humandx/plate-common@3.2.0
+  - @humandx/plate-core@3.2.0
 
 ## 3.1.3
 
 ### Patch Changes
 
 - Updated dependencies [[`f6c58134`](https://github.com/udecode/plate/commit/f6c581347cc5877b7afa0774ef1ad78ad227564e)]:
-  - @udecode/plate-common@3.1.3
-  - @udecode/plate-table@3.1.3
-  - @udecode/plate-serializer@3.1.3
+  - @humandx/plate-common@3.1.3
+  - @humandx/plate-table@3.1.3
+  - @humandx/plate-serializer@3.1.3
 
 ## 3.1.2
 
 ### Patch Changes
 
 - Updated dependencies [[`1244bcb7`](https://github.com/udecode/plate/commit/1244bcb748411e6291d635647c2053b115704eb9), [`5651aed7`](https://github.com/udecode/plate/commit/5651aed704d69af85e2dd7d6f850e8dcabcd45f4)]:
-  - @udecode/plate-table@3.1.2
+  - @humandx/plate-table@3.1.2
 
 ## 3.0.2
 
 ### Patch Changes
 
 - Updated dependencies [[`83aaf31c`](https://github.com/udecode/plate/commit/83aaf31c02b24f388d1f178dcd4b80354ddab773)]:
-  - @udecode/plate-table@3.0.2
+  - @humandx/plate-table@3.0.2
 
 ## 2.0.1
 
 ### Patch Changes
 
 - Updated dependencies [[`099a86fa`](https://github.com/udecode/plate/commit/099a86faede3b3acf7da6842a78e4fab76815073)]:
-  - @udecode/plate-table@2.0.1
+  - @humandx/plate-table@2.0.1
 
 ## 2.0.0
 
 ### Patch Changes
 
 - Updated dependencies [[`ec4d5b7b`](https://github.com/udecode/plate/commit/ec4d5b7bd01b6fd21ba14a28f782c143d32c7532)]:
-  - @udecode/plate-common@2.0.0
-  - @udecode/plate-table@2.0.0
-  - @udecode/plate-serializer@2.0.0
+  - @humandx/plate-common@2.0.0
+  - @humandx/plate-table@2.0.0
+  - @humandx/plate-serializer@2.0.0
 
 ## 1.1.6
 
 ### Patch Changes
 
 - Updated dependencies [[`7d045d8d`](https://github.com/udecode/plate/commit/7d045d8db39515d4574c5313cc97287486c5866b)]:
-  - @udecode/plate-common@1.1.6
-  - @udecode/plate-table@1.1.6
-  - @udecode/plate-serializer@1.1.6
+  - @humandx/plate-common@1.1.6
+  - @humandx/plate-table@1.1.6
+  - @humandx/plate-serializer@1.1.6
 
 ## 1.1.5
 
 ### Patch Changes
 
 - Updated dependencies [[`f955b72c`](https://github.com/udecode/plate/commit/f955b72c0ab97e2e2ca54f17f9f8022f7d0f121b)]:
-  - @udecode/plate-table@1.1.5
+  - @humandx/plate-table@1.1.5
 
 ## 1.1.4
 
@@ -389,7 +389,7 @@
 
 🎉 The **Slate Plugins** project has evolved to **Plate** 🎉
 
-To migrate, install `@udecode/plate[-x]` then find and replace all
+To migrate, install `@humandx/plate[-x]` then find and replace all
 occurrences of:
 
 - `slate-plugins` to `plate`
@@ -398,8 +398,8 @@ occurrences of:
 
 ## 1.0.0-next.61
 
-> This is the last version of `@udecode/slate-plugins[-x]`, please install
-> `@udecode/plate[-x]`.
+> This is the last version of `@humandx/slate-plugins[-x]`, please install
+> `@humandx/plate[-x]`.
 
 ### Major Changes
 
@@ -408,10 +408,10 @@ occurrences of:
 ### Patch Changes
 
 - Updated dependencies [[`546ee49b`](https://github.com/udecode/slate-plugins/commit/546ee49b1e22464a8a0c0fad7f254da85bcfde3d), [`7c26cf32`](https://github.com/udecode/slate-plugins/commit/7c26cf32e8b501d531c6d823ab55bf361e228bc3)]:
-  - @udecode/slate-plugins-serializer@1.0.0-next.61
-  - @udecode/slate-plugins-core@1.0.0-next.61
-  - @udecode/slate-plugins-common@1.0.0-next.61
-  - @udecode/slate-plugins-table@1.0.0-next.61
+  - @humandx/slate-plugins-serializer@1.0.0-next.61
+  - @humandx/slate-plugins-core@1.0.0-next.61
+  - @humandx/slate-plugins-common@1.0.0-next.61
+  - @humandx/slate-plugins-table@1.0.0-next.61
 
 ## 1.0.0-next.60
 
@@ -424,8 +424,8 @@ occurrences of:
 ### Patch Changes
 
 - Updated dependencies [[`3a3eb1b8`](https://github.com/udecode/slate-plugins/commit/3a3eb1b8565789b7ba49e8170479df8245ed5b22)]:
-  - @udecode/slate-plugins-common@1.0.0-next.59
-  - @udecode/slate-plugins-table@1.0.0-next.59
+  - @humandx/slate-plugins-common@1.0.0-next.59
+  - @humandx/slate-plugins-table@1.0.0-next.59
 
 ## 1.0.0-next.58
 
@@ -438,35 +438,35 @@ occurrences of:
 ### Patch Changes
 
 - Updated dependencies [[`75b39f18`](https://github.com/udecode/slate-plugins/commit/75b39f18901d38f80847573cd3431ece1d1d4b3d)]:
-  - @udecode/slate-plugins-core@1.0.0-next.56
-  - @udecode/slate-plugins-common@1.0.0-next.56
-  - @udecode/slate-plugins-table@1.0.0-next.56
+  - @humandx/slate-plugins-core@1.0.0-next.56
+  - @humandx/slate-plugins-common@1.0.0-next.56
+  - @humandx/slate-plugins-table@1.0.0-next.56
 
 ## 1.0.0-next.55
 
 ### Patch Changes
 
 - Updated dependencies [[`abaf4a11`](https://github.com/udecode/slate-plugins/commit/abaf4a11d3b69157983b6cf77b023a6008478a79)]:
-  - @udecode/slate-plugins-core@1.0.0-next.55
-  - @udecode/slate-plugins-common@1.0.0-next.55
-  - @udecode/slate-plugins-table@1.0.0-next.55
+  - @humandx/slate-plugins-core@1.0.0-next.55
+  - @humandx/slate-plugins-common@1.0.0-next.55
+  - @humandx/slate-plugins-table@1.0.0-next.55
 
 ## 1.0.0-next.54
 
 ### Patch Changes
 
 - Updated dependencies [[`d906095d`](https://github.com/udecode/slate-plugins/commit/d906095d20cf8755a200d254f6c20c510a748f29)]:
-  - @udecode/slate-plugins-common@1.0.0-next.54
-  - @udecode/slate-plugins-table@1.0.0-next.54
+  - @humandx/slate-plugins-common@1.0.0-next.54
+  - @humandx/slate-plugins-table@1.0.0-next.54
 
 ## 1.0.0-next.53
 
 ### Patch Changes
 
 - Updated dependencies [[`42360b44`](https://github.com/udecode/slate-plugins/commit/42360b444d6a2959847d5619eda32319e360e3af)]:
-  - @udecode/slate-plugins-core@1.0.0-next.53
-  - @udecode/slate-plugins-common@1.0.0-next.53
-  - @udecode/slate-plugins-table@1.0.0-next.53
+  - @humandx/slate-plugins-core@1.0.0-next.53
+  - @humandx/slate-plugins-common@1.0.0-next.53
+  - @humandx/slate-plugins-table@1.0.0-next.53
 
 ## 1.0.0-next.49
 

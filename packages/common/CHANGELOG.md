@@ -1,4 +1,4 @@
-# @udecode/plate-common
+# @humandx/plate-common
 
 ## 20.4.0
 

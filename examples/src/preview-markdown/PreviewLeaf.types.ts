@@ -1,4 +1,4 @@
-import { StyledProps } from '@udecode/plate';
+import { StyledProps } from '@humandx/plate';
 
 export interface PreviewLeafStyleProps extends StyledProps {
   bold?: boolean;

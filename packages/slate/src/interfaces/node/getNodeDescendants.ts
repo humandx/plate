@@ -1,4 +1,4 @@
-import { Modify } from '@udecode/utils';
+import { Modify } from '@humandx/utils';
 import { Node, NodeDescendantsOptions } from 'slate';
 import { DescendantOf } from './TDescendant';
 import { TNode } from './TNode';

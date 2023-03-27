@@ -1,4 +1,4 @@
-import { EAncestorEntry, EElementOrText, Value } from '@udecode/slate';
+import { EAncestorEntry, EElementOrText, Value } from '@humandx/slate';
 import { Path } from 'slate';
 
 /**

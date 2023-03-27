@@ -1,4 +1,4 @@
-import { Value } from '@udecode/slate';
+import { Value } from '@humandx/slate';
 import { PlateEditor } from '../../../types/PlateEditor';
 import { PlateId, usePlateSelectors } from '../createPlateStore';
 

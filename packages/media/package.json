@@ -1,5 +1,5 @@
 {
-  "name": "@udecode/plate-media",
+  "name": "@humandx/plate-media",
   "version": "1.0.1",
   "description": "Plate Media plugin",
   "license": "MIT",
@@ -19,7 +19,7 @@
   ],
   "types": "dist/index.d.ts",
   "dependencies": {
-    "@udecode/plate-common": "^1.0.1",
+    "@humandx/plate-common": "^1.0.1",
     "js-video-url-parser": "^0.5.1",
     "re-resizable": "^6.9.9",
     "react-textarea-autosize": "^8.3.3",
@@ -39,5 +39,6 @@
   ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@humandx"
-  }
+  },
+  "gitHead": "80b540ca333e40daddcd62e9defa2dce9efa526b"
 }

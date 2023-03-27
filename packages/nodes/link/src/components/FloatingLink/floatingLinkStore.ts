@@ -1,4 +1,4 @@
-import { createStore } from '@udecode/plate-common';
+import { createStore } from '@humandx/plate-common';
 
 export type FloatingLinkMode = '' | 'insert' | 'edit';
 

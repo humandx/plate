@@ -1,5 +1,5 @@
 import React from 'react';
-import { Value } from '@udecode/slate';
+import { Value } from '@humandx/slate';
 import { DefaultElement } from 'slate-react';
 import { ElementProvider } from '../atoms';
 import { PlateEditor } from '../types/PlateEditor';

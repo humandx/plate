@@ -1,5 +1,5 @@
-import { Value } from '@udecode/slate';
-import { AnyObject } from '@udecode/utils';
+import { Value } from '@humandx/slate';
+import { AnyObject } from '@humandx/utils';
 import { PlateEditor } from './PlateEditor';
 
 /**

@@ -1,4 +1,4 @@
-import { GetAboveNodeOptions, TEditor, Value } from '@udecode/slate';
+import { GetAboveNodeOptions, TEditor, Value } from '@humandx/slate';
 import { Path, Range } from 'slate';
 import { getBlockAbove } from './getBlockAbove';
 

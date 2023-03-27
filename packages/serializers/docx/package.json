@@ -1,5 +1,5 @@
 {
-  "name": "@udecode/plate-serializer-docx",
+  "name": "@humandx/plate-serializer-docx",
   "version": "1.0.1",
   "description": "Docx serializer plugin for Plate",
   "license": "MIT",
@@ -19,13 +19,13 @@
   ],
   "types": "dist/index.d.ts",
   "dependencies": {
-    "@udecode/plate-common": "^1.0.1",
-    "@udecode/plate-heading": "^1.0.1",
-    "@udecode/plate-indent": "^1.0.1",
-    "@udecode/plate-indent-list": "^1.0.1",
-    "@udecode/plate-media": "^1.0.1",
-    "@udecode/plate-paragraph": "^1.0.1",
-    "@udecode/plate-table": "^1.0.1",
+    "@humandx/plate-common": "^1.0.1",
+    "@humandx/plate-heading": "^1.0.1",
+    "@humandx/plate-indent": "^1.0.1",
+    "@humandx/plate-indent-list": "^1.0.1",
+    "@humandx/plate-media": "^1.0.1",
+    "@humandx/plate-paragraph": "^1.0.1",
+    "@humandx/plate-table": "^1.0.1",
     "validator": "^13.7.0"
   },
   "peerDependencies": {
@@ -45,5 +45,6 @@
   ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@humandx"
-  }
+  },
+  "gitHead": "80b540ca333e40daddcd62e9defa2dce9efa526b"
 }

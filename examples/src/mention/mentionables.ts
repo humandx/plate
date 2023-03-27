@@ -1,4 +1,4 @@
-import { TComboboxItem } from '@udecode/plate'
+import { TComboboxItem } from '@humandx/plate'
 
 export const MENTIONABLES: TComboboxItem[] = [
   { key: '0', text: 'Aayla Secura' },

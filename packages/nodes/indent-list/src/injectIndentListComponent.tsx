@@ -3,7 +3,7 @@ import {
   InjectComponentProps,
   InjectComponentReturnType,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import clsx from 'clsx';
 import { KEY_LIST_START, KEY_LIST_STYLE_TYPE } from './createIndentListPlugin';
 import { ListStyleType } from './types';

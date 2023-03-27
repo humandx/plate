@@ -1,4 +1,4 @@
-import { focusEditor, PlateEditor, select, Value } from '@udecode/plate-common';
+import { focusEditor, PlateEditor, select, Value } from '@humandx/plate-common';
 import { Range } from 'slate';
 import { getBlocksWithId } from '../queries/getBlocksWithId';
 import { getNodesRange } from '../queries/getNodesRange';

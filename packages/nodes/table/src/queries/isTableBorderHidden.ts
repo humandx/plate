@@ -1,4 +1,4 @@
-import { findNode, PlateEditor, Value } from '@udecode/plate-common';
+import { findNode, PlateEditor, Value } from '@humandx/plate-common';
 import { BorderDirection, TTableCellElement } from '../types';
 import { getCellTypes } from '../utils/index';
 import { getLeftTableCell } from './getLeftTableCell';

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Plate, PlateProvider, useResetPlateEditor } from '@udecode/plate';
+import { Plate, PlateProvider, useResetPlateEditor } from '@humandx/plate';
 import { plainTextValue } from './basic-editor/plainTextValue';
 import { editableProps } from './common/editableProps';
 import { MyValue } from './typescript/plateTypes';

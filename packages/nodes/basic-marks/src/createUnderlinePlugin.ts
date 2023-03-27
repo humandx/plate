@@ -3,7 +3,7 @@ import {
   onKeyDownToggleMark,
   someHtmlElement,
   ToggleMarkPlugin,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 
 export const MARK_UNDERLINE = 'underline';
 

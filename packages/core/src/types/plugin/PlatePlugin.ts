@@ -1,6 +1,6 @@
 import { FC, ReactNode } from 'react';
-import { Value } from '@udecode/slate';
-import { AnyObject, WithRequired } from '@udecode/utils';
+import { Value } from '@humandx/slate';
+import { AnyObject, WithRequired } from '@humandx/utils';
 import { Nullable } from '../misc';
 import { PlateEditor } from '../PlateEditor';
 import { Decorate } from './Decorate';

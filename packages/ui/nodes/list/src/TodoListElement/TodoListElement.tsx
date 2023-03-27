@@ -1,7 +1,7 @@
 import React from 'react';
-import { findNodePath, setNodes, Value } from '@udecode/plate-common';
-import { TTodoListItemElement } from '@udecode/plate-list';
-import { getRootProps } from '@udecode/plate-styled-components';
+import { findNodePath, setNodes, Value } from '@humandx/plate-common';
+import { TTodoListItemElement } from '@humandx/plate-list';
+import { getRootProps } from '@humandx/plate-styled-components';
 import clsx from 'clsx';
 import { useReadOnly } from 'slate-react';
 import { getTodoListElementStyles } from './TodoListElement.styles';

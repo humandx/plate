@@ -1,4 +1,4 @@
-import { TEditor, Value } from '@udecode/slate';
+import { TEditor, Value } from '@humandx/slate';
 import { ReactEditor } from 'slate-react';
 
 export type TReactEditor<V extends Value = Value> = TEditor<V> &

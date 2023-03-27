@@ -20,7 +20,7 @@ import {
   TText,
   Value,
   WithPlatePlugin,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { Path } from 'slate';
 import { ELEMENT_LI } from './createListPlugin';
 import { getListItemContentType, getListItemType, isListRoot } from './queries';

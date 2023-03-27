@@ -7,7 +7,7 @@ import {
   Plate,
   PlateRenderElementProps,
   TElement,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { editableProps } from '../common/editableProps';
 import { plateUI } from '../common/plateUI';
 import { exitBreakPlugin } from '../exit-break/exitBreakPlugin';

@@ -1,5 +1,5 @@
-const packageJsonPlate = require('@udecode/plate/package.json');
-const packageJsonPlateCore = require('@udecode/plate-core/package.json');
+const packageJsonPlate = require('@humandx/plate/package.json');
+const packageJsonPlateCore = require('@humandx/plate-core/package.json');
 
 module.exports = (_plop) => {
   /** @type {import('plop').NodePlopAPI} */
@@ -11,7 +11,7 @@ module.exports = (_plop) => {
       {
         type: 'input',
         name: 'name',
-        message: 'Package name set after @udecode/plate-',
+        message: 'Package name set after @humandx/plate-',
       },
       {
         type: 'input',

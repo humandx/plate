@@ -7,7 +7,7 @@ import {
   nanoid,
   Value,
   WithPartial,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { CommentUser, TComment } from '../../types';
 
 export const SCOPE_COMMENTS = Symbol('comments');

@@ -1,6 +1,6 @@
 import React from 'react';
-import { getHandler, Value } from '@udecode/plate-common';
-import { getRootProps } from '@udecode/plate-styled-components';
+import { getHandler, Value } from '@humandx/plate-common';
+import { getRootProps } from '@humandx/plate-styled-components';
 import { useFocused, useSelected } from 'slate-react';
 import { getMentionElementStyles } from './MentionElement.styles';
 import { MentionElementProps } from './MentionElement.types';

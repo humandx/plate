@@ -50,15 +50,15 @@ import {
   Plate,
   PlateFloatingComments,
   PlateProvider,
-} from '@udecode/plate';
-import { createDndPlugin } from '@udecode/plate-dnd';
-import { createJuicePlugin } from '@udecode/plate-juice';
-import { createBlockSelectionPlugin } from '@udecode/plate-selection';
+} from '@humandx/plate';
+import { createDndPlugin } from '@humandx/plate-dnd';
+import { createJuicePlugin } from '@humandx/plate-juice';
+import { createBlockSelectionPlugin } from '@humandx/plate-selection';
 import {
   createExcalidrawPlugin,
   ELEMENT_EXCALIDRAW,
   ExcalidrawElement,
-} from '@udecode/plate-ui-excalidraw';
+} from '@humandx/plate-ui-excalidraw';
 import { alignPlugin } from './align/alignPlugin';
 import { autoformatPlugin } from './autoformat/autoformatPlugin';
 import { CommentBalloonToolbar } from './comments/CommentBalloonToolbar';

@@ -1,22 +1,22 @@
 /** @jsx jsx */
 
-import { ELEMENT_BLOCKQUOTE } from '@udecode/plate-block-quote/src/index';
+import { ELEMENT_BLOCKQUOTE } from '@humandx/plate-block-quote/src/index';
 import {
   ELEMENT_CODE_BLOCK,
   isCodeBlockEmpty,
   isSelectionAtCodeBlockStart,
   unwrapCodeBlock,
-} from '@udecode/plate-code-block/src/index';
+} from '@humandx/plate-code-block/src/index';
 import {
   isBlockAboveEmpty,
   isSelectionAtBlockStart,
   mockPlugin,
   PlateEditor,
-} from '@udecode/plate-common';
-import { ELEMENT_LI, unwrapList } from '@udecode/plate-list/src/index';
-import { ELEMENT_PARAGRAPH } from '@udecode/plate-paragraph';
-import { jsx } from '@udecode/plate-test-utils';
-import { createPlateUIEditor } from '@udecode/plate-ui/src/index';
+} from '@humandx/plate-common';
+import { ELEMENT_LI, unwrapList } from '@humandx/plate-list/src/index';
+import { ELEMENT_PARAGRAPH } from '@humandx/plate-paragraph';
+import { jsx } from '@humandx/plate-test-utils';
+import { createPlateUIEditor } from '@humandx/plate-ui/src/index';
 import * as isHotkey from 'is-hotkey';
 import { onKeyDownResetNode } from './onKeyDownResetNode';
 

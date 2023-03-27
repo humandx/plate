@@ -1,4 +1,4 @@
-import { Modify } from '@udecode/utils';
+import { Modify } from '@humandx/utils';
 import { Editor, EditorLevelsOptions } from 'slate';
 import { ENode, TNode, TNodeMatch } from '../node/TNode';
 import { TNodeEntry } from '../node/TNodeEntry';

@@ -5,7 +5,7 @@ import {
   QueryNodeOptions,
   TNode,
   TNodeEntry,
-} from '@udecode/slate';
+} from '@humandx/slate';
 import { Path } from 'slate';
 
 export interface ApplyDeepToNodesOptions<N extends TNode> {

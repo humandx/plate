@@ -1,4 +1,4 @@
-import { ENodeEntry, RenderLeafFn, Value } from '@udecode/slate';
+import { ENodeEntry, RenderLeafFn, Value } from '@humandx/slate';
 import { Range } from 'slate';
 import { EditableProps } from 'slate-react/dist/components/editable';
 import { RenderElementFn } from './TRenderElementProps';

@@ -1,10 +1,10 @@
 /** @jsx jsx */
 
-import { createPlateUIEditor } from '@udecode/plate';
-import { HandlerReturnType } from '@udecode/plate-common';
-import { getMentionOnSelectItem } from '@udecode/plate-mention';
-import { createParagraphPlugin } from '@udecode/plate-paragraph';
-import { jsx } from '@udecode/plate-test-utils';
+import { createPlateUIEditor } from '@humandx/plate';
+import { HandlerReturnType } from '@humandx/plate-common';
+import { getMentionOnSelectItem } from '@humandx/plate-mention';
+import { createParagraphPlugin } from '@humandx/plate-paragraph';
+import { jsx } from '@humandx/plate-test-utils';
 import {
   comboboxActions,
   comboboxSelectors,

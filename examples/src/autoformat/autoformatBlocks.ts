@@ -13,7 +13,7 @@ import {
   insertEmptyCodeBlock,
   insertNodes,
   setNodes,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { MyAutoformatRule } from '../typescript/plateTypes';
 import { preFormat } from './autoformatUtils';
 

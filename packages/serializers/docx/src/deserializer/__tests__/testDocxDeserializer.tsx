@@ -1,13 +1,13 @@
 /** @jsx jsx */
-import { createAlignPlugin } from '@udecode/plate-alignment';
+import { createAlignPlugin } from '@humandx/plate-alignment';
 import {
   createPlateEditor,
   OverrideByKey,
   PlatePlugin,
-} from '@udecode/plate-common';
-import { createLinkPlugin } from '@udecode/plate-link';
-import { createImagePlugin } from '@udecode/plate-media';
-import { jsx } from '@udecode/plate-test-utils';
+} from '@humandx/plate-common';
+import { createLinkPlugin } from '@humandx/plate-link';
+import { createImagePlugin } from '@humandx/plate-media';
+import { jsx } from '@humandx/plate-test-utils';
 import { alignPlugin } from 'examples/src/align/alignPlugin';
 import { lineHeightPlugin } from 'examples/src/line-height/lineHeightPlugin';
 import { createBasicElementsPlugin } from '../../../../../nodes/basic-elements/src/createBasicElementsPlugin';

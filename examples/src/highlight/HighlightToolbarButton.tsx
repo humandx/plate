@@ -4,7 +4,7 @@ import {
   getPluginType,
   MARK_HIGHLIGHT,
   MarkToolbarButton,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { useMyPlateEditorRef } from '../typescript/plateTypes';
 
 export const HighlightToolbarButton = () => {

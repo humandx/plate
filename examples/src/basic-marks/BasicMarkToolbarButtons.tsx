@@ -16,7 +16,7 @@ import {
   MARK_SUPERSCRIPT,
   MARK_UNDERLINE,
   MarkToolbarButton,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { useMyPlateEditorRef } from '../typescript/plateTypes';
 
 const tooltip = (content: string) => ({

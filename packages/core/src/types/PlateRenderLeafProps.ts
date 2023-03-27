@@ -1,4 +1,4 @@
-import { EText, TRenderLeafProps, TText, Value } from '@udecode/slate';
+import { EText, TRenderLeafProps, TText, Value } from '@humandx/slate';
 import { PlateRenderNodeProps } from './PlateRenderNodeProps';
 
 /**

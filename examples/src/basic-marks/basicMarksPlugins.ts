@@ -6,7 +6,7 @@ import {
   createSubscriptPlugin,
   createSuperscriptPlugin,
   createUnderlinePlugin,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { plateUI } from '../common/plateUI';
 import { createMyPlugins } from '../typescript/plateTypes';
 

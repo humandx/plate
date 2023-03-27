@@ -2,7 +2,7 @@ import {
   createComponentAs,
   createElementAs,
   HTMLPropsAs,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { useReadOnly, useSelected } from 'slate-react';
 import { useResizableStore } from '../../resizable/resizableStore';
 import { useCaptionString } from '../hooks/useCaptionString';

@@ -3,17 +3,17 @@ import {
   CodeBlockPlugin,
   ELEMENT_CODE_BLOCK,
   TCodeBlockElement,
-} from '@udecode/plate-code-block';
+} from '@humandx/plate-code-block';
 import {
   findNodePath,
   getPluginOptions,
   setNodes,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import {
   getRootProps,
   StyledElementProps,
-} from '@udecode/plate-styled-components';
+} from '@humandx/plate-styled-components';
 import { getCodeBlockElementStyles } from './CodeBlockElement.styles';
 import { CodeBlockSelectElement } from './CodeBlockSelectElement';
 

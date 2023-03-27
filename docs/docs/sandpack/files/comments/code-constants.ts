@@ -1,4 +1,4 @@
-export const constantsCode = `import { TComment } from '@udecode/plate';
+export const constantsCode = `import { TComment } from '@humandx/plate';
 import { MyValue } from '../typescript/plateTypes';
 
 export const usersData = {

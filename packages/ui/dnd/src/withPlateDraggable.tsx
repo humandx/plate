@@ -1,5 +1,5 @@
-import { createNodesWithHOC, RenderFunction } from '@udecode/plate-common';
-import { withDraggable, WithDraggableOptions } from '@udecode/plate-dnd';
+import { createNodesWithHOC, RenderFunction } from '@humandx/plate-common';
+import { withDraggable, WithDraggableOptions } from '@humandx/plate-dnd';
 import { PlateDraggable, PlateDraggableProps } from './PlateDraggable';
 
 export const withPlateDraggable = (

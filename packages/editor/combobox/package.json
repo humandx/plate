@@ -1,5 +1,5 @@
 {
-  "name": "@udecode/plate-combobox",
+  "name": "@humandx/plate-combobox",
   "version": "1.0.1",
   "description": "Combobox for Plate",
   "license": "MIT",
@@ -19,8 +19,8 @@
   ],
   "types": "dist/index.d.ts",
   "dependencies": {
-    "@udecode/plate-common": "^1.0.1",
-    "@udecode/plate-floating": "^1.0.1",
+    "@humandx/plate-common": "^1.0.1",
+    "@humandx/plate-floating": "^1.0.1",
     "downshift": "^6.1.7"
   },
   "peerDependencies": {
@@ -37,5 +37,6 @@
   ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@humandx"
-  }
+  },
+  "gitHead": "80b540ca333e40daddcd62e9defa2dce9efa526b"
 }

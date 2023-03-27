@@ -8,7 +8,7 @@ import {
   removeEditorMark,
   TEditor,
   Value,
-} from '@udecode/slate';
+} from '@humandx/slate';
 import { PlateEditor } from '../types/index';
 import { createPluginFactory } from '../utils/createPluginFactory';
 

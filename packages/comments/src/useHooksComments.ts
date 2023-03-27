@@ -4,7 +4,7 @@ import {
   useHotkeys,
   Value,
   WithPlatePlugin,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { useAddCommentMark, useCommentsActions } from './stores/index';
 import { CommentsPlugin } from './types';
 

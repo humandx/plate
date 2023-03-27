@@ -18,7 +18,7 @@ import {
   MARK_BG_COLOR,
   MARK_COLOR,
   MediaEmbedToolbarButton,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { AlignToolbarButtons } from './align/AlignToolbarButtons';
 import { BasicElementToolbarButtons } from './basic-elements/BasicElementToolbarButtons';
 import { BasicMarkToolbarButtons } from './basic-marks/BasicMarkToolbarButtons';

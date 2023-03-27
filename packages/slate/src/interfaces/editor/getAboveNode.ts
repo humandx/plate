@@ -1,4 +1,4 @@
-import { Modify } from '@udecode/utils';
+import { Modify } from '@humandx/utils';
 import { Editor } from 'slate';
 import { EditorAboveOptions } from 'slate/dist/interfaces/editor';
 import { ENodeMatchOptions, getQueryOptions } from '../../utils/match';

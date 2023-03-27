@@ -1,17 +1,17 @@
 import React from 'react';
-import { useElement } from '@udecode/plate-common';
+import { useElement } from '@humandx/plate-common';
 import {
   DropdownMenu,
   ElementPopover,
   PopoverProps,
-} from '@udecode/plate-floating';
-import { BorderAllIcon, TTableElement } from '@udecode/plate-table';
+} from '@humandx/plate-floating';
+import { BorderAllIcon, TTableElement } from '@humandx/plate-table';
 import {
   cssMenuItemButton,
   PlateButton,
   RemoveNodeButton,
-} from '@udecode/plate-ui-button';
-import { floatingRootCss } from '@udecode/plate-ui-toolbar';
+} from '@humandx/plate-ui-button';
+import { floatingRootCss } from '@humandx/plate-ui-toolbar';
 import tw from 'twin.macro';
 import { PlateTableBordersDropdownMenuContent } from './PlateTableBordersDropdownMenuContent';
 

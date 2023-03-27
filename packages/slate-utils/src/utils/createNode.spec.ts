@@ -1,4 +1,4 @@
-import { ELEMENT_PARAGRAPH } from '@udecode/plate-paragraph';
+import { ELEMENT_PARAGRAPH } from '@humandx/plate-paragraph';
 import { TElement } from '../../../slate/src/interfaces/element/TElement';
 import { createNode } from './createNode';
 

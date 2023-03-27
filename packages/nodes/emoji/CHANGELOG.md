@@ -1,4 +1,4 @@
-# @udecode/plate-emoji
+# @humandx/plate-emoji
 
 ## 20.4.1
 

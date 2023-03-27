@@ -1,4 +1,4 @@
-import { Modify } from '@udecode/utils';
+import { Modify } from '@humandx/utils';
 import { Editor, Element, Path, Range, Text, Transforms } from 'slate';
 import { NodeMatchOption } from '../../types/NodeMatchOption';
 import { createPathRef } from '../editor/createPathRef';

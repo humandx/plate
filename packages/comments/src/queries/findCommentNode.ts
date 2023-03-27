@@ -3,7 +3,7 @@ import {
   FindNodeOptions,
   PlateEditor,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { MARK_COMMENT } from '../constants';
 import { TCommentText } from '../types';
 

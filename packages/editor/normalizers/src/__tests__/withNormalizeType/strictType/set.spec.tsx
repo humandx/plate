@@ -1,7 +1,7 @@
 /** @jsx jsx */
 
-import { createPlateEditor } from '@udecode/plate-common';
-import { jsx } from '@udecode/plate-test-utils';
+import { createPlateEditor } from '@humandx/plate-common';
+import { jsx } from '@humandx/plate-test-utils';
 import { ELEMENT_H1 } from '../../../../../../nodes/heading/src/constants';
 import { createNormalizeTypesPlugin } from '../../../createNormalizeTypesPlugin';
 

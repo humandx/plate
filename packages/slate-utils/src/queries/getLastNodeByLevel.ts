@@ -7,7 +7,7 @@ import {
   TNode,
   TNodeEntry,
   Value,
-} from '@udecode/slate';
+} from '@humandx/slate';
 
 const getLastChild = <N extends ChildOf<R>, R extends TNode>(
   node: R,

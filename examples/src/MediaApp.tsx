@@ -11,7 +11,7 @@ import {
   MediaEmbedToolbarButton,
   Plate,
   PlateProvider,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { basicNodesPlugins } from './basic-nodes/basicNodesPlugins';
 import { editableProps } from './common/editableProps';
 import { plateUI } from './common/plateUI';

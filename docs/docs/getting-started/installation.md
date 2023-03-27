@@ -9,7 +9,7 @@ over npm.
 You can install all the packages bundled together:
 
 ```bash npm2yarn
-npm install @udecode/plate
+npm install @humandx/plate
 
 # required peer deps
 npm install slate slate-react slate-history slate-hyperscript react react-dom styled-components
@@ -19,21 +19,21 @@ Alternatively you can install only the packages you need as listed in the follow
 
 ```bash npm2yarn
 # core
-npm install @udecode/plate-core
+npm install @humandx/plate-core
 
 # required peer deps
 npm install slate slate-react slate-history slate-hyperscript react react-dom
 
 # plugins
-npm install @udecode/plate-basic-elements
-# npm install @udecode/plate-...
+npm install @humandx/plate-basic-elements
+# npm install @humandx/plate-...
 
-# if using @udecode/plate-serializer-docx
-npm install @udecode/plate-juice
+# if using @humandx/plate-serializer-docx
+npm install @humandx/plate-juice
 
-# if using @udecode/plate-ui
+# if using @humandx/plate-ui
 npm install styled-components
 
-# if using @udecode/plate-ui-dnd
+# if using @humandx/plate-ui-dnd
 npm install react-dnd react-dnd-html5-backend
 ```

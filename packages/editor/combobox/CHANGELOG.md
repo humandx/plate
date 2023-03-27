@@ -1,4 +1,4 @@
-# @udecode/plate-combobox
+# @humandx/plate-combobox
 
 ## 20.4.0
 
@@ -84,7 +84,7 @@
 
 - [#1677](https://github.com/udecode/plate/pull/1677) by [@zbeyens](https://github.com/zbeyens) –
   - deps:
-    - replaced `@udecode/plate-ui-popper` by `@udecode/plate-floating`
+    - replaced `@humandx/plate-ui-popper` by `@humandx/plate-floating`
   - `comboboxStore`:
     - removed `popperContainer`, use `floatingOptions` instead
     - removed `popperOptions`, use `floatingOptions` instead
@@ -210,7 +210,7 @@
 ### Minor Changes
 
 - [#1315](https://github.com/udecode/plate/pull/1315) by [@zbeyens](https://github.com/zbeyens) –
-  - move UI to `@udecode/plate-ui-combobox`
+  - move UI to `@humandx/plate-ui-combobox`
   - `comboboxActions` alias of `comboboxStore.set`
   - `useComboboxSelectors` alias of `comboboxStore.use`
   - `comboboxSelectors` alias of `comboboxStore.get`
@@ -269,29 +269,29 @@
 ### Patch Changes
 
 - Updated dependencies [[`a6bf8c5e`](https://github.com/udecode/plate/commit/a6bf8c5e6897c6ab443e0ac3d69a30befeaddadf)]:
-  - @udecode/plate-common@5.3.5
-  - @udecode/plate-popper@5.3.5
-  - @udecode/plate-styled-components@5.3.5
+  - @humandx/plate-common@5.3.5
+  - @humandx/plate-popper@5.3.5
+  - @humandx/plate-styled-components@5.3.5
 
 ## 5.3.1
 
 ### Patch Changes
 
 - Updated dependencies [[`8aec270f`](https://github.com/udecode/plate/commit/8aec270f8b06a3b25b8d7144c2e23b0dc12de118)]:
-  - @udecode/plate-core@5.3.1
-  - @udecode/plate-common@5.3.1
-  - @udecode/plate-popper@5.3.1
-  - @udecode/plate-styled-components@5.3.1
+  - @humandx/plate-core@5.3.1
+  - @humandx/plate-common@5.3.1
+  - @humandx/plate-popper@5.3.1
+  - @humandx/plate-styled-components@5.3.1
 
 ## 5.3.0
 
 ### Patch Changes
 
 - Updated dependencies [[`7ee21356`](https://github.com/udecode/plate/commit/7ee21356f0a4e67e367232b3dbc9957254a0c11e), [`1021397d`](https://github.com/udecode/plate/commit/1021397df42ee13006892372bd329446f362a930)]:
-  - @udecode/plate-core@5.3.0
-  - @udecode/plate-styled-components@5.3.0
-  - @udecode/plate-common@5.3.0
-  - @udecode/plate-popper@5.3.0
+  - @humandx/plate-core@5.3.0
+  - @humandx/plate-styled-components@5.3.0
+  - @humandx/plate-common@5.3.0
+  - @humandx/plate-popper@5.3.0
 
 ## 5.2.3
 
@@ -326,16 +326,16 @@
 ### Patch Changes
 
 - Updated dependencies [[`503956fd`](https://github.com/udecode/plate/commit/503956fd9f71253249b3ad699b81c1c465351b0a)]:
-  - @udecode/plate-common@5.1.0
-  - @udecode/plate-popper@5.1.0
-  - @udecode/plate-styled-components@5.1.0
+  - @humandx/plate-common@5.1.0
+  - @humandx/plate-popper@5.1.0
+  - @humandx/plate-styled-components@5.1.0
 
 ## 5.0.1
 
 ### Patch Changes
 
 - Updated dependencies [[`53d13cbc`](https://github.com/udecode/plate/commit/53d13cbcfc7af26040cb86182a7ea0ba9ae5abec), [`53d13cbc`](https://github.com/udecode/plate/commit/53d13cbcfc7af26040cb86182a7ea0ba9ae5abec)]:
-  - @udecode/plate-popper@5.0.1
+  - @humandx/plate-popper@5.0.1
 
 ## 5.0.0
 
@@ -346,4 +346,4 @@
 ### Patch Changes
 
 - Updated dependencies [[`9a091446`](https://github.com/udecode/plate/commit/9a091446ae393c23f64f0b011e431fb2d002aaf8)]:
-  - @udecode/plate-popper@5.0.0
+  - @humandx/plate-popper@5.0.0

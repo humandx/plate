@@ -1,4 +1,4 @@
-import { getNode, isText, TEditor, Value } from '@udecode/slate';
+import { getNode, isText, TEditor, Value } from '@humandx/slate';
 import { Path } from 'slate';
 
 export const isTextByPath = <V extends Value>(

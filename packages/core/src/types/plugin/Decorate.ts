@@ -1,4 +1,4 @@
-import { ENodeEntry, Value } from '@udecode/slate';
+import { ENodeEntry, Value } from '@humandx/slate';
 import { Range } from 'slate';
 import { PlateEditor } from '../PlateEditor';
 import { PluginOptions, WithPlatePlugin } from './PlatePlugin';

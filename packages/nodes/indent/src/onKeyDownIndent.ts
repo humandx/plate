@@ -3,7 +3,7 @@ import {
   KeyboardHandlerReturnType,
   PlateEditor,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { indent, outdent } from './transforms/index';
 
 export const onKeyDownIndent = <

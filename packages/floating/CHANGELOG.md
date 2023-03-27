@@ -1,4 +1,4 @@
-# @udecode/plate-floating
+# @humandx/plate-floating
 
 ## 20.4.0
 

@@ -8,7 +8,7 @@ import {
   setNodes,
   useEditorRef,
   useElement,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import {
   Resizable as ReResizable,
   ResizableProps as ReResizableProps,

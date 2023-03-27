@@ -1,15 +1,15 @@
-import { ELEMENT_BLOCKQUOTE } from '@udecode/plate-block-quote';
+import { ELEMENT_BLOCKQUOTE } from '@humandx/plate-block-quote';
 import {
   ELEMENT_CODE_BLOCK,
   ELEMENT_CODE_LINE,
-} from '@udecode/plate-code-block';
+} from '@humandx/plate-code-block';
 import {
   getPluginType,
   TDescendant,
   TElement,
   TText,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import {
   ELEMENT_H1,
   ELEMENT_H2,
@@ -17,17 +17,17 @@ import {
   ELEMENT_H4,
   ELEMENT_H5,
   ELEMENT_H6,
-} from '@udecode/plate-heading';
-import { ELEMENT_HR } from '@udecode/plate-horizontal-rule';
-import { ELEMENT_LINK } from '@udecode/plate-link';
+} from '@humandx/plate-heading';
+import { ELEMENT_HR } from '@humandx/plate-horizontal-rule';
+import { ELEMENT_LINK } from '@humandx/plate-link';
 import {
   ELEMENT_LI,
   ELEMENT_LIC,
   ELEMENT_OL,
   ELEMENT_UL,
-} from '@udecode/plate-list';
-import { ELEMENT_IMAGE } from '@udecode/plate-media';
-import { ELEMENT_PARAGRAPH } from '@udecode/plate-paragraph';
+} from '@humandx/plate-list';
+import { ELEMENT_IMAGE } from '@humandx/plate-media';
+import { ELEMENT_PARAGRAPH } from '@humandx/plate-paragraph';
 import { remarkTransformElementChildren } from './remarkTransformElementChildren';
 import { RemarkElementRules } from './types';
 

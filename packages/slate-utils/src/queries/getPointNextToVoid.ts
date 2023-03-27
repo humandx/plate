@@ -4,7 +4,7 @@ import {
   getVoidNode,
   TEditor,
   Value,
-} from '@udecode/slate';
+} from '@humandx/slate';
 import { Path, Point } from 'slate';
 import { getBlockAbove } from './getBlockAbove';
 

@@ -1,7 +1,7 @@
 /* eslint-disable react-hooks/rules-of-hooks */
 /** @jsx jsx */
 
-import { jsx } from '@udecode/plate-test-utils';
+import { jsx } from '@humandx/plate-test-utils';
 import { createBoldPlugin } from '../../../../../nodes/basic-marks/src/createBoldPlugin';
 import { createItalicPlugin } from '../../../../../nodes/basic-marks/src/createItalicPlugin';
 import { createListPlugin } from '../../../../../nodes/list/src/createListPlugin';

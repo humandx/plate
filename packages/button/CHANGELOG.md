@@ -1,4 +1,4 @@
-# @udecode/plate-button
+# @humandx/plate-button
 
 ## 20.4.0
 

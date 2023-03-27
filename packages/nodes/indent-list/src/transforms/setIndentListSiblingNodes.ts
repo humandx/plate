@@ -4,8 +4,8 @@ import {
   TEditor,
   Value,
   withoutNormalizing,
-} from '@udecode/plate-common';
-import { KEY_INDENT } from '@udecode/plate-indent';
+} from '@humandx/plate-common';
+import { KEY_INDENT } from '@humandx/plate-indent';
 import { getIndentListSiblings } from '../queries/getIndentListSiblings';
 import { GetSiblingIndentListOptions } from '../queries/getSiblingIndentList';
 import { ListStyleType } from '../types';

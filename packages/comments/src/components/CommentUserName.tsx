@@ -2,7 +2,7 @@ import {
   createComponentAs,
   createElementAs,
   HTMLPropsAs,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { useCommentUser } from '../stores/comment/CommentProvider';
 
 export type CommentUserNameProps = {} & HTMLPropsAs<'div'>;

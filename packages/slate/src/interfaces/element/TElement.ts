@@ -1,4 +1,4 @@
-import { UnknownObject } from '@udecode/utils';
+import { UnknownObject } from '@humandx/utils';
 import { TEditor, Value } from '../editor/TEditor';
 import { TDescendant } from '../node/TDescendant';
 import { TNode } from '../node/TNode';

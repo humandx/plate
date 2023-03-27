@@ -5,7 +5,7 @@ import {
   TEditor,
   unsetNodes,
   Value,
-} from '@udecode/slate';
+} from '@humandx/slate';
 import { castArray } from 'lodash';
 import { Range } from 'slate';
 

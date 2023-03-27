@@ -1,5 +1,5 @@
-import { createTodoListPlugin } from '@udecode/plate-list/src/todo-list/createTodoListPlugin';
-import { createPlateUIEditor } from '@udecode/plate-ui/src/utils/createPlateUIEditor';
+import { createTodoListPlugin } from '@humandx/plate-list/src/todo-list/createTodoListPlugin';
+import { createPlateUIEditor } from '@humandx/plate-ui/src/utils/createPlateUIEditor';
 import { serializeHtml } from '../serializeHtml';
 
 it('serialize elements using useSlateStatic', () => {

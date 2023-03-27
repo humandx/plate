@@ -1,4 +1,4 @@
-import { Modify } from '@udecode/utils';
+import { Modify } from '@humandx/utils';
 import { Node, NodeTextsOptions } from 'slate';
 import { TextOf } from '../text/TText';
 import { NodeOf, TNode } from './TNode';

@@ -1,7 +1,7 @@
 export const createMultiEditorsValueCode = `/** @jsxRuntime classic */
 /** @jsx jsx */
-import { TDescendant } from '@udecode/plate';
-import { jsx } from '@udecode/plate-test-utils';
+import { TDescendant } from '@humandx/plate';
+import { jsx } from '@humandx/plate-test-utils';
 
 jsx;
 

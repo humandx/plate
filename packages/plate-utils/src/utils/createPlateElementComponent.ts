@@ -1,6 +1,6 @@
 import { ElementType } from 'react';
-import { PlateRenderElementProps } from '@udecode/plate-core';
-import { TElement, Value } from '@udecode/slate';
+import { PlateRenderElementProps } from '@humandx/plate-core';
+import { TElement, Value } from '@humandx/slate';
 import { useElementProps, UseElementPropsOptions } from '../hooks';
 import { As, HTMLPropsAs } from '../types';
 import { createComponentAs } from './createComponentAs';

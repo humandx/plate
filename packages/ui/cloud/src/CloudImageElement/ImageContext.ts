@@ -1,5 +1,5 @@
 import React, { Dispatch, SetStateAction, useContext } from 'react';
-import { Upload } from '@udecode/plate-cloud';
+import { Upload } from '@humandx/plate-cloud';
 
 export const ImageContext = React.createContext<{
   upload: Upload;

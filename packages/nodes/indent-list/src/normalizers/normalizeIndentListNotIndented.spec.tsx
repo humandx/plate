@@ -1,8 +1,8 @@
 /** @jsx jsx */
 
-import { createPlateEditor, PlateEditor } from '@udecode/plate-common';
-import { createIndentPlugin } from '@udecode/plate-indent';
-import { jsx } from '@udecode/plate-test-utils';
+import { createPlateEditor, PlateEditor } from '@humandx/plate-common';
+import { createIndentPlugin } from '@humandx/plate-indent';
+import { jsx } from '@humandx/plate-test-utils';
 import { createIndentListPlugin } from '../createIndentListPlugin';
 
 jsx;

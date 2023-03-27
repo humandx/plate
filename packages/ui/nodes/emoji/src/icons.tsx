@@ -1,5 +1,5 @@
 import React from 'react';
-import { EmojiCategoryList } from '@udecode/plate-emoji';
+import { EmojiCategoryList } from '@humandx/plate-emoji';
 
 export const emojiCategoryIcons: Record<
   EmojiCategoryList,

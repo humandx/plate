@@ -6,7 +6,7 @@ import {
   TElement,
   useElementProps,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 
 export type TableRowElementRootProps = PlateRenderElementProps<
   Value,

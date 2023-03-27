@@ -3,7 +3,7 @@ import {
   findNodePath,
   PlateRenderElementProps,
   TEditor,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { Path } from 'slate';
 import { useReadOnly } from 'slate-react';
 

@@ -1,4 +1,4 @@
-import { comboboxActions, ComboboxOnSelectItem } from '@udecode/plate-combobox';
+import { comboboxActions, ComboboxOnSelectItem } from '@humandx/plate-combobox';
 import {
   deleteText,
   getPlugin,
@@ -6,7 +6,7 @@ import {
   PlatePluginKey,
   withoutMergingHistory,
   withoutNormalizing,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { KEY_EMOJI } from '../constants';
 import { EmojiItemData, EmojiPlugin } from '../types';
 

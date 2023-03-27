@@ -4,7 +4,7 @@ import {
   ELEMENT_UL,
   TElement,
   TText,
-} from '@udecode/plate';
+} from '@humandx/plate';
 
 export const createList = (
   items: string[],

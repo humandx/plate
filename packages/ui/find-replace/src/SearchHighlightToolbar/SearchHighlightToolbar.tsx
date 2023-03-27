@@ -1,5 +1,5 @@
 import React from 'react';
-import { HeadingToolbar } from '@udecode/plate-ui-toolbar';
+import { HeadingToolbar } from '@humandx/plate-ui-toolbar';
 
 export interface SearchHighlightToolbarProps {
   icon: any;

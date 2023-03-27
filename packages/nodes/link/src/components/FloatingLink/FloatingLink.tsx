@@ -2,8 +2,8 @@ import {
   createComponentAs,
   createElementAs,
   HTMLPropsAs,
-} from '@udecode/plate-common';
-import { UseVirtualFloatingOptions } from '@udecode/plate-floating';
+} from '@humandx/plate-common';
+import { UseVirtualFloatingOptions } from '@humandx/plate-floating';
 import { FloatingLinkEditButton } from './FloatingLinkEditButton';
 import { FloatingLinkNewTabInput } from './FloatingLinkNewTabInput';
 import { FloatingLinkTextInput } from './FloatingLinkTextInput';

@@ -1,4 +1,4 @@
-import { EElementOrText, Value } from '@udecode/slate';
+import { EElementOrText, Value } from '@humandx/slate';
 import { HandlerReturnType } from './DOMHandlers';
 
 export type PlatePluginInsertDataOptions = {

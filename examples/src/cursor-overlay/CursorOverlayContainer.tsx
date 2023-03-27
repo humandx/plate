@@ -1,5 +1,5 @@
 import React from 'react';
-import { CursorOverlay, CursorOverlayProps } from '@udecode/plate';
+import { CursorOverlay, CursorOverlayProps } from '@humandx/plate';
 import { cursorStore } from './cursorStore';
 
 export const CursorOverlayContainer = ({

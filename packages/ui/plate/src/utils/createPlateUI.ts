@@ -36,22 +36,22 @@ import {
   MARK_UNDERLINE,
   PlatePluginComponent,
   withProps,
-} from '@udecode/plate-headless';
-import { StyledElement, StyledLeaf } from '@udecode/plate-styled-components';
-import { BlockquoteElement } from '@udecode/plate-ui-block-quote';
-import { CodeLineElement, CodeSyntaxLeaf } from '@udecode/plate-ui-code-block';
-import { PlateCommentLeaf } from '@udecode/plate-ui-comments';
-import { HrElement } from '@udecode/plate-ui-horizontal-rule';
-import { LinkElement } from '@udecode/plate-ui-link';
-import { TodoListElement } from '@udecode/plate-ui-list';
-import { ImageElement, MediaEmbedElement } from '@udecode/plate-ui-media';
-import { MentionElement, MentionInputElement } from '@udecode/plate-ui-mention';
+} from '@humandx/plate-headless';
+import { StyledElement, StyledLeaf } from '@humandx/plate-styled-components';
+import { BlockquoteElement } from '@humandx/plate-ui-block-quote';
+import { CodeLineElement, CodeSyntaxLeaf } from '@humandx/plate-ui-code-block';
+import { PlateCommentLeaf } from '@humandx/plate-ui-comments';
+import { HrElement } from '@humandx/plate-ui-horizontal-rule';
+import { LinkElement } from '@humandx/plate-ui-link';
+import { TodoListElement } from '@humandx/plate-ui-list';
+import { ImageElement, MediaEmbedElement } from '@humandx/plate-ui-media';
+import { MentionElement, MentionInputElement } from '@humandx/plate-ui-mention';
 import {
   PlateTableCellElement,
   PlateTableCellHeaderElement,
   PlateTableElement,
   PlateTableRowElement,
-} from '@udecode/plate-ui-table';
+} from '@humandx/plate-ui-table';
 import { css } from 'styled-components';
 import tw from 'twin.macro';
 import { DefaultPlatePluginKey } from '../types/DefaultPlatePluginKey';

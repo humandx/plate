@@ -13,7 +13,7 @@ import {
   insertTableColumn,
   insertTableRow,
   TableToolbarButton,
-} from '@udecode/plate';
+} from '@humandx/plate';
 
 const tooltip = (content: string) => ({
   content,

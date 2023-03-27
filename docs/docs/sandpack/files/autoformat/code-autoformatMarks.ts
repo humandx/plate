@@ -7,7 +7,7 @@ export const autoformatMarksCode = `import {
   MARK_SUBSCRIPT,
   MARK_SUPERSCRIPT,
   MARK_UNDERLINE,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { MyAutoformatRule } from '../typescript/plateTypes';
 
 export const autoformatMarks: MyAutoformatRule[] = [

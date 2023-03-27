@@ -6,7 +6,7 @@ import {
   TEditor,
   TNodeEntry,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import {
   getSiblingIndentList,
   GetSiblingIndentListOptions,

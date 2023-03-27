@@ -1,4 +1,4 @@
-# @udecode/plate-juice
+# @humandx/plate-juice
 
 ## 20.4.0
 

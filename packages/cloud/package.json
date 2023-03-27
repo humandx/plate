@@ -1,5 +1,5 @@
 {
-  "name": "@udecode/plate-cloud",
+  "name": "@humandx/plate-cloud",
   "version": "1.0.1",
   "description": "Plate plugin to add cloud based image and attachment uploads",
   "license": "MIT",
@@ -19,8 +19,8 @@
   ],
   "types": "dist/index.d.ts",
   "dependencies": {
+    "@humandx/plate-common": "^1.0.1",
     "@portive/client": "10.0.2",
-    "@udecode/plate-common": "^1.0.1",
     "delay": "5.0.0",
     "p-defer": "^3.0"
   },
@@ -38,5 +38,6 @@
   ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@humandx"
-  }
+  },
+  "gitHead": "80b540ca333e40daddcd62e9defa2dce9efa526b"
 }

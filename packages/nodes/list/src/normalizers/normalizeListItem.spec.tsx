@@ -1,8 +1,8 @@
 /** @jsx jsx */
 
-import { createPlateUIEditor } from '@udecode/plate/src';
-import { getNode, PlateEditor } from '@udecode/plate-common';
-import { jsx } from '@udecode/plate-test-utils';
+import { createPlateUIEditor } from '@humandx/plate/src';
+import { getNode, PlateEditor } from '@humandx/plate-common';
+import { jsx } from '@humandx/plate-test-utils';
 import { createListPlugin } from '../createListPlugin';
 
 jsx;

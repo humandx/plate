@@ -6,7 +6,7 @@ import {
   ELEMENT_UL,
   getPluginType,
   ListToolbarButton,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { useMyPlateEditorRef } from '../typescript/plateTypes';
 
 const tooltip = (content: string) => ({

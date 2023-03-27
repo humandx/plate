@@ -3,18 +3,18 @@ import {
   CodeBlockInsertOptions,
   ELEMENT_CODE_BLOCK,
   insertEmptyCodeBlock,
-} from '@udecode/plate-code-block';
+} from '@humandx/plate-code-block';
 import {
   focusEditor,
   getPluginType,
   useEventPlateId,
   usePlateEditorState,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import {
   BlockToolbarButton,
   ToolbarButtonProps,
-} from '@udecode/plate-ui-toolbar';
+} from '@humandx/plate-ui-toolbar';
 
 export const CodeBlockToolbarButton = <V extends Value>({
   id,

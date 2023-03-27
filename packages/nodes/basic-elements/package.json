@@ -1,5 +1,5 @@
 {
-  "name": "@udecode/plate-basic-elements",
+  "name": "@humandx/plate-basic-elements",
   "version": "1.0.1",
   "description": "Basic elements plugin for Plate",
   "license": "MIT",
@@ -19,11 +19,11 @@
   ],
   "types": "dist/index.d.ts",
   "dependencies": {
-    "@udecode/plate-block-quote": "^1.0.1",
-    "@udecode/plate-code-block": "^1.0.1",
-    "@udecode/plate-common": "^1.0.1",
-    "@udecode/plate-heading": "^1.0.1",
-    "@udecode/plate-paragraph": "^1.0.1"
+    "@humandx/plate-block-quote": "^1.0.1",
+    "@humandx/plate-code-block": "^1.0.1",
+    "@humandx/plate-common": "^1.0.1",
+    "@humandx/plate-heading": "^1.0.1",
+    "@humandx/plate-paragraph": "^1.0.1"
   },
   "peerDependencies": {
     "react": ">=16.8.0",
@@ -39,5 +39,6 @@
   ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@humandx"
-  }
+  },
+  "gitHead": "80b540ca333e40daddcd62e9defa2dce9efa526b"
 }

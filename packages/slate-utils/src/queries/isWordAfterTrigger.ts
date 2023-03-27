@@ -4,8 +4,8 @@ import {
   getRange,
   TEditor,
   Value,
-} from '@udecode/slate';
-import { escapeRegExp } from '@udecode/utils';
+} from '@humandx/slate';
+import { escapeRegExp } from '@humandx/utils';
 import { Point } from 'slate';
 
 /**

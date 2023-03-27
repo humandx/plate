@@ -1,4 +1,4 @@
-import { TNode } from '@udecode/slate';
+import { TNode } from '@humandx/slate';
 import merge from 'lodash/merge';
 import { applyDeepToNodes, ApplyDeepToNodesOptions } from './applyDeepToNodes';
 

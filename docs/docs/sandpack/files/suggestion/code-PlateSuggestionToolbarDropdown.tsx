@@ -4,11 +4,11 @@ import * as DropdownMenu from '@radix-ui/react-dropdown-menu';
 import { styled } from '@stitches/react';
 import { CommentEdit } from '@styled-icons/boxicons-regular/CommentEdit';
 import { ModeEdit } from '@styled-icons/material';
-import { ChevronDownIcon, PlateButton } from '@udecode/plate';
+import { ChevronDownIcon, PlateButton } from '@humandx/plate';
 import {
   useSetIsSuggesting,
   useSuggestionSelectors,
-} from '@udecode/plate-suggestion';
+} from '@humandx/plate-suggestion';
 import tw from 'twin.macro';
 
 const DropdownMenuContent = styled(DropdownMenu.Content, {

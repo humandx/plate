@@ -12,7 +12,7 @@ import {
   MARK_UNDERLINE,
   MarkToolbarButton,
   WithPartial,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { useMyPlateEditorRef } from '../typescript/plateTypes';
 
 export const markTooltip: TippyProps = {

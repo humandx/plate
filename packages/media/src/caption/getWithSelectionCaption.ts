@@ -6,7 +6,7 @@ import {
   PlateEditor,
   Value,
   WithPlatePlugin,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import isHotkey from 'is-hotkey';
 import { Range } from 'slate';
 import { ImagePlugin } from '../image/index';

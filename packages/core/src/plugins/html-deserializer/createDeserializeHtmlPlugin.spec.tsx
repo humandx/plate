@@ -1,6 +1,6 @@
 /** @jsx jsx */
-import { createParagraphPlugin } from '@udecode/plate-paragraph';
-import { jsx } from '@udecode/plate-test-utils';
+import { createParagraphPlugin } from '@humandx/plate-paragraph';
+import { jsx } from '@humandx/plate-test-utils';
 import { createMediaEmbedPlugin } from '../../../../media/src/media-embed/createMediaEmbedPlugin';
 import { createBoldPlugin } from '../../../../nodes/basic-marks/src/createBoldPlugin';
 import { createHeadingPlugin } from '../../../../nodes/heading/src/createHeadingPlugin';

@@ -1,8 +1,8 @@
 import React from 'react';
-import { useElement } from '@udecode/plate-common';
-import { LinkIcon } from '@udecode/plate-link';
-import { FloatingMedia, useFloatingMediaSelectors } from '@udecode/plate-media';
-import { plateButtonCss, RemoveNodeButton } from '@udecode/plate-ui-button';
+import { useElement } from '@humandx/plate-common';
+import { LinkIcon } from '@humandx/plate-link';
+import { FloatingMedia, useFloatingMediaSelectors } from '@humandx/plate-media';
+import { plateButtonCss, RemoveNodeButton } from '@humandx/plate-ui-button';
 import {
   floatingButtonCss,
   FloatingIconWrapper,
@@ -11,7 +11,7 @@ import {
   floatingRootCss,
   floatingRowCss,
   FloatingVerticalDivider,
-} from '@udecode/plate-ui-toolbar';
+} from '@humandx/plate-ui-toolbar';
 
 export const PlateFloatingMedia = ({ pluginKey }: { pluginKey?: string }) => {
   const isEditing = useFloatingMediaSelectors().isEditing();

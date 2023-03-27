@@ -1,5 +1,5 @@
 import React, { cloneElement, ReactNode } from 'react';
-import { createElementAs, HTMLPropsAs } from '@udecode/plate-common';
+import { createElementAs, HTMLPropsAs } from '@humandx/plate-common';
 import {
   autoUpdate,
   flip,

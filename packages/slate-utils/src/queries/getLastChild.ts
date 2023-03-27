@@ -1,4 +1,4 @@
-import { ChildOf, isText, TNode, TNodeEntry } from '@udecode/slate';
+import { ChildOf, isText, TNode, TNodeEntry } from '@humandx/slate';
 import { Path } from 'slate';
 
 /**

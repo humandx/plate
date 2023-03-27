@@ -5,7 +5,7 @@ import {
   toggleNodeType,
   useEventPlateId,
   usePlateEditorState,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { ToolbarButton } from '../ToolbarButton';
 import { BlockToolbarButtonProps } from './BlockToolbarButton.types';
 

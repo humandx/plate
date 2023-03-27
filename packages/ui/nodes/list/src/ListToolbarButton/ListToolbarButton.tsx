@@ -3,12 +3,12 @@ import {
   focusEditor,
   useEventPlateId,
   usePlateEditorState,
-} from '@udecode/plate-common';
-import { ELEMENT_UL, getListItemEntry, toggleList } from '@udecode/plate-list';
+} from '@humandx/plate-common';
+import { ELEMENT_UL, getListItemEntry, toggleList } from '@humandx/plate-list';
 import {
   BlockToolbarButton,
   ToolbarButtonProps,
-} from '@udecode/plate-ui-toolbar';
+} from '@humandx/plate-ui-toolbar';
 
 export const ListToolbarButton = ({
   id,

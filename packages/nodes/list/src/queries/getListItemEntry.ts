@@ -8,7 +8,7 @@ import {
   TElement,
   TElementEntry,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { Location, Path, Range } from 'slate';
 import { ELEMENT_LI } from '../createListPlugin';
 

@@ -4,7 +4,7 @@ import {
   getRange,
   TEditor,
   Value,
-} from '@udecode/slate';
+} from '@humandx/slate';
 import { Point } from 'slate';
 
 // Starts with whitespace char or nothing

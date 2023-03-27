@@ -1,5 +1,5 @@
 import React, { ReactNode } from 'react';
-import { PlateButton } from '@udecode/plate-ui-button';
+import { PlateButton } from '@humandx/plate-ui-button';
 import { getColorPickerStyles } from './ColorPicker.styles';
 import { Colors } from './Colors';
 import { ColorType } from './ColorType';

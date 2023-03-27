@@ -1,5 +1,5 @@
 {
-  "name": "@udecode/plate-serializer-html",
+  "name": "@humandx/plate-serializer-html",
   "version": "1.0.1",
   "description": "HTML serializer plugin for Plate",
   "license": "MIT",
@@ -19,7 +19,7 @@
   ],
   "types": "dist/index.d.ts",
   "dependencies": {
-    "@udecode/plate-common": "^1.0.1",
+    "@humandx/plate-common": "^1.0.1",
     "html-entities": "^2.3.3"
   },
   "peerDependencies": {
@@ -42,5 +42,6 @@
   ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@humandx"
-  }
+  },
+  "gitHead": "80b540ca333e40daddcd62e9defa2dce9efa526b"
 }

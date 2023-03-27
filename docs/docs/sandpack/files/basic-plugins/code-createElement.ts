@@ -1,4 +1,4 @@
-export const createElementCode = `import { ELEMENT_PARAGRAPH, TText } from '@udecode/plate';
+export const createElementCode = `import { ELEMENT_PARAGRAPH, TText } from '@humandx/plate';
 
 export const createElement = (
   text = '',

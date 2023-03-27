@@ -5,7 +5,7 @@ import {
   TEditor,
   TElement,
   Value,
-} from '@udecode/slate';
+} from '@humandx/slate';
 
 export const insertElements = <V extends Value>(
   editor: TEditor<V>,

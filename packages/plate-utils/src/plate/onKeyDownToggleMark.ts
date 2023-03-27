@@ -3,9 +3,9 @@ import {
   PlateEditor,
   ToggleMarkPlugin,
   WithPlatePlugin,
-} from '@udecode/plate-core';
-import { Value } from '@udecode/slate';
-import { toggleMark } from '@udecode/slate-utils';
+} from '@humandx/plate-core';
+import { Value } from '@humandx/slate';
+import { toggleMark } from '@humandx/slate-utils';
 import isHotkey from 'is-hotkey';
 
 export const onKeyDownToggleMark = <
@@ -20,7 +20,7 @@ export const onKeyDownToggleMark = <
 
   if (isHotkey(hotkey, e as any)) {
     e.preventDefault();
-
+    // @ts-ignore
     toggleMark(editor, { key: type as any, clear });
   }
 };

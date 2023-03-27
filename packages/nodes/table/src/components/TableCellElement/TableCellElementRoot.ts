@@ -6,7 +6,7 @@ import {
   PlateRenderElementProps,
   useElementProps,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { useTableStore } from '../../stores/tableStore';
 import { TTableCellElement } from '../../types';
 

@@ -2,7 +2,7 @@ import {
   createComponentAs,
   createElementAs,
   HTMLPropsAs,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { useUserById } from '../stores/comments/CommentsProvider';
 
 export type AvatarImageProps = { userId: string } & HTMLPropsAs<'img'>;

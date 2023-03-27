@@ -3,7 +3,7 @@ import {
   getPluginOptions,
   PlateEditor,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import {
   floatingLinkActions,
   floatingLinkSelectors,

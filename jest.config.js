@@ -55,7 +55,7 @@ module.exports = {
   moduleNameMapper: {
     '\\.(css|less|sass|scss)$': '<rootDir>/scripts/styleMock.js',
     ...getTsConfigBasePaths(),
-    '^@udecode/plate-core$': '<rootDir>/packages/core/src',
+    '^@humandx/plate-core$': '<rootDir>/packages/core/src',
     ...modules,
   },
   testEnvironment: 'jsdom',

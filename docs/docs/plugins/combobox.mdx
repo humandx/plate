@@ -6,9 +6,9 @@ title: Combobox
 ### Installation
 
 ```bash npm2yarn
-npm install @udecode/plate
+npm install @humandx/plate
 # or
-npm install @udecode/plate-ui-combobox
+npm install @humandx/plate-ui-combobox
 ```
 
 ### Combobox Store
@@ -80,14 +80,16 @@ export interface ComboboxItemData {
 `onChange`:
 
 #### For each combobox state:
+
 - if the selection is collapsed
 - if the cursor follows the trigger
 - if there is text without whitespaces after the trigger
-- open the combobox: set `id`, `text`, `targetRange` in the store 
+- open the combobox: set `id`, `text`, `targetRange` in the store
 
 #### `onKeyDown`
 
 If the combobox is open, handle:
+
 - down (next item)
 - up (previous item)
 - escape (reset combobox)

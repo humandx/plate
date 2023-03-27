@@ -1,4 +1,4 @@
-import { TDescendant } from '@udecode/slate';
+import { TDescendant } from '@humandx/slate';
 
 export const createDocumentNode = (
   type = 'p',

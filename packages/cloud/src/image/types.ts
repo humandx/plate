@@ -1,4 +1,4 @@
-import { PlateEditor, TElement, Value } from '@udecode/plate-common';
+import { PlateEditor, TElement, Value } from '@humandx/plate-common';
 
 export type CloudImagePlugin = {
   maxInitialWidth?: number;

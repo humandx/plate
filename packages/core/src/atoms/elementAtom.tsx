@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import { TElement } from '@udecode/slate';
+import { TElement } from '@humandx/slate';
 import { Scope } from 'jotai/core/atom';
 import { JotaiProvider, JotaiProviderProps } from '../libs';
 import { createAtomStore } from './createAtomStore';

@@ -1,5 +1,5 @@
-import { Value } from '@udecode/plate-common';
-import { createStyles } from '@udecode/plate-styled-components';
+import { Value } from '@humandx/plate-common';
+import { createStyles } from '@humandx/plate-styled-components';
 import { css } from 'styled-components';
 import tw from 'twin.macro';
 import { statusBarStyleValues } from '../StatusBar/StatusBar.styles';

@@ -1,4 +1,4 @@
-# @udecode/plate-cloud
+# @humandx/plate-cloud
 
 ## 20.4.0
 

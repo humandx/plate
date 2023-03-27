@@ -1,5 +1,5 @@
 import { useMemo } from 'react';
-import { isDefined } from '@udecode/utils';
+import { isDefined } from '@humandx/utils';
 import omit from 'lodash/omit';
 import { useDeepCompareMemo } from 'use-deep-compare';
 import { PlateId, usePlateSelectors } from '../stores';

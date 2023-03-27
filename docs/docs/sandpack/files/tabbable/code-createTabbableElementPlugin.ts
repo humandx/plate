@@ -1,4 +1,4 @@
-export const createTabbableElementPluginCode = `import { createPluginFactory } from '@udecode/plate';
+export const createTabbableElementPluginCode = `import { createPluginFactory } from '@humandx/plate';
 
 export const TABBABLE_ELEMENT = 'tabbable_element';
 

@@ -7,7 +7,7 @@ import {
   TEditor,
   TElementEntry,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 
 export interface IndentCodeLineOptions {
   codeBlock: TElementEntry;

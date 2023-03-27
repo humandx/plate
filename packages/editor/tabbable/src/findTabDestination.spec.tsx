@@ -1,8 +1,8 @@
 /** @jsx jsx */
 
-import { getNode, PlateEditor, TNode } from '@udecode/plate-common';
-import { jsx } from '@udecode/plate-test-utils';
-import { createPlateUIEditor } from '@udecode/plate-ui/src/index';
+import { getNode, PlateEditor, TNode } from '@humandx/plate-common';
+import { jsx } from '@humandx/plate-test-utils';
+import { createPlateUIEditor } from '@humandx/plate-ui/src/index';
 import {
   findTabDestination,
   FindTabDestinationOptions,

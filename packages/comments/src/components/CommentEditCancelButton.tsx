@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, ButtonProps } from '@udecode/plate-button';
+import { Button, ButtonProps } from '@humandx/plate-button';
 import { useCommentActions } from '../stores/comment/CommentProvider';
 
 export const useCommentEditCancelButton = (props: ButtonProps): ButtonProps => {

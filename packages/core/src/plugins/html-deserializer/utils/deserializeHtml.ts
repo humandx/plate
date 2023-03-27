@@ -1,4 +1,4 @@
-import { EDescendant, Value } from '@udecode/slate';
+import { EDescendant, Value } from '@humandx/slate';
 import { PlateEditor } from '../../../types/PlateEditor';
 import { normalizeDescendantsToDocumentFragment } from '../../../utils/normalizeDescendantsToDocumentFragment';
 import { deserializeHtmlElement } from './deserializeHtmlElement';

@@ -2,7 +2,7 @@ import {
   createComponentAs,
   createElementAs,
   HTMLPropsAs,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 
 export const TableElementTBody = createComponentAs<HTMLPropsAs<'tbody'>>(
   (props) => createElementAs('tbody', props)

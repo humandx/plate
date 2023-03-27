@@ -6,7 +6,7 @@ import {
   toDOMNode,
   toSlateNode,
   useEditorState,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { Path } from 'slate';
 import { tabbable } from 'tabbable';
 import { KEY_TABBABLE } from './constants';

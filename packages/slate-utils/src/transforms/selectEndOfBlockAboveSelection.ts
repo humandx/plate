@@ -1,4 +1,4 @@
-import { getEndPoint, select, TEditor, Value } from '@udecode/slate';
+import { getEndPoint, select, TEditor, Value } from '@humandx/slate';
 import { Path } from 'slate';
 import { getBlockAbove } from '../queries';
 

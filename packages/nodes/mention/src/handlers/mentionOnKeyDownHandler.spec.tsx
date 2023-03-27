@@ -1,6 +1,6 @@
 /** @jsx jsx */
 
-import { jsx } from '@udecode/plate-test-utils';
+import { jsx } from '@humandx/plate-test-utils';
 import * as isHotkey from 'is-hotkey';
 import { createEditorWithMentions } from '../__tests__/createEditorWithMentions';
 import { mentionOnKeyDownHandler } from './mentionOnKeyDownHandler';

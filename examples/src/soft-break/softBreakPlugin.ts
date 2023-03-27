@@ -3,7 +3,7 @@ import {
   ELEMENT_CODE_BLOCK,
   ELEMENT_TD,
   SoftBreakPlugin,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { MyPlatePlugin } from '../typescript/plateTypes';
 
 export const softBreakPlugin: Partial<MyPlatePlugin<SoftBreakPlugin>> = {

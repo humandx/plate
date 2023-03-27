@@ -10,7 +10,7 @@ import {
   createStrikethroughPlugin,
   createUnderlinePlugin,
   Plate,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { basicElementsValue } from './basic-elements/basicElementsValue';
 import { basicMarksValue } from './basic-marks/basicMarksValue';
 import { editableProps } from './common/editableProps';

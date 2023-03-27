@@ -1,4 +1,4 @@
-import { traverseHtmlElements } from '@udecode/plate-common';
+import { traverseHtmlElements } from '@humandx/plate-common';
 import { isDocxFootnote } from './isDocxFootnote';
 
 /**

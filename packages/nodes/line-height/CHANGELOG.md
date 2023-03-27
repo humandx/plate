@@ -1,4 +1,4 @@
-# @udecode/plate-line-height
+# @humandx/plate-line-height
 
 ## 20.4.0
 

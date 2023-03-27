@@ -1,7 +1,7 @@
 /** @jsx jsx */
 
 import { renderHook } from '@testing-library/react-hooks';
-import { getHtmlDocument, jsx } from '@udecode/plate-test-utils';
+import { getHtmlDocument, jsx } from '@humandx/plate-test-utils';
 import { createFindReplacePlugin } from '../../../../../decorators/find-replace/src/createFindReplacePlugin';
 import { createSoftBreakPlugin } from '../../../../../editor/break/src/soft-break/createSoftBreakPlugin';
 import { createImagePlugin } from '../../../../../media/src/image/createImagePlugin';

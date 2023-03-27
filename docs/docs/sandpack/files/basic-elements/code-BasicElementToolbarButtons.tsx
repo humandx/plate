@@ -19,7 +19,7 @@ import {
   ELEMENT_H6,
   getPluginType,
   useEventPlateId,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { useMyPlateEditorRef } from '../typescript/plateTypes';
 
 const tooltip = (content: string) => ({

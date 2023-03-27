@@ -1,8 +1,8 @@
-import { createBlockquotePlugin } from '@udecode/plate-block-quote';
-import { createCodeBlockPlugin } from '@udecode/plate-code-block';
-import { createPluginFactory } from '@udecode/plate-common';
-import { createHeadingPlugin } from '@udecode/plate-heading';
-import { createParagraphPlugin } from '@udecode/plate-paragraph';
+import { createBlockquotePlugin } from '@humandx/plate-block-quote';
+import { createCodeBlockPlugin } from '@humandx/plate-code-block';
+import { createPluginFactory } from '@humandx/plate-common';
+import { createHeadingPlugin } from '@humandx/plate-heading';
+import { createParagraphPlugin } from '@humandx/plate-paragraph';
 
 /**
  * Enables support for basic elements:

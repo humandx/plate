@@ -6,7 +6,7 @@ import {
   someNode,
   Value,
   WithPlatePlugin,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import isHotkey from 'is-hotkey';
 import { ResetNodePlugin } from './types';
 

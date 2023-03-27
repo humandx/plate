@@ -1,4 +1,4 @@
-import { hexToBase64, traverseHtmlElements } from '@udecode/plate-common';
+import { hexToBase64, traverseHtmlElements } from '@humandx/plate-common';
 import isURL from 'validator/lib/isURL';
 import { getRtfImagesMap } from './getRtfImagesMap';
 import { getVShapeSpid } from './getVShapeSpid';

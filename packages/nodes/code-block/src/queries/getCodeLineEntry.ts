@@ -6,7 +6,7 @@ import {
   PlateEditor,
   someNode,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { Location } from 'slate';
 import { getCodeLineType } from '../options';
 

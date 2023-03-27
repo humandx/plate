@@ -6,7 +6,7 @@ import {
   PlateEditor,
   SlateProps,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { encode } from 'html-entities';
 import { newLinesToHtmlBr } from './utils/newLinesToHtmlBr';
 import { stripSlateDataAttributes } from './utils/stripSlateDataAttributes';

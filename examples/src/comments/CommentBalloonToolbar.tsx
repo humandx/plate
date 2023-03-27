@@ -5,7 +5,7 @@ import {
   BalloonToolbarProps,
   PlateCommentToolbarButton,
   WithPartial,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import {
   MarkBalloonToolbar,
   markTooltip,

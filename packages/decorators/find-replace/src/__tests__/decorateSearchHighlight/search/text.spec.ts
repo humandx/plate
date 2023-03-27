@@ -1,4 +1,4 @@
-import { createPlateEditor, getPlugin } from '@udecode/plate-common';
+import { createPlateEditor, getPlugin } from '@humandx/plate-common';
 import {
   createFindReplacePlugin,
   MARK_SEARCH_HIGHLIGHT,

@@ -1,6 +1,6 @@
 import { ReactNode } from 'react';
-import { UseVirtualFloatingOptions } from '@udecode/plate-floating';
-import { StyledProps } from '@udecode/plate-styled-components';
+import { UseVirtualFloatingOptions } from '@humandx/plate-floating';
+import { StyledProps } from '@humandx/plate-styled-components';
 import { ToolbarProps } from '../Toolbar/Toolbar.types';
 
 export interface BalloonToolbarStyleProps extends BalloonToolbarProps {

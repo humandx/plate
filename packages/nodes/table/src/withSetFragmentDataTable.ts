@@ -7,7 +7,7 @@ import {
   TElement,
   Value,
   withoutNormalizing,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { Path } from 'slate';
 import { ELEMENT_TH } from './createTablePlugin';
 import { getTableGridAbove } from './queries';

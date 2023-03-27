@@ -1,4 +1,4 @@
-export const createPreviewPluginCode = `import { createPluginFactory } from '@udecode/plate';
+export const createPreviewPluginCode = `import { createPluginFactory } from '@humandx/plate';
 import { decoratePreview } from './decoratePreview';
 
 export const createPreviewPlugin = createPluginFactory({

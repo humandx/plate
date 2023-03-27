@@ -3,7 +3,7 @@ import {
   setElements,
   someNode,
   Value,
-} from '@udecode/slate';
+} from '@humandx/slate';
 import { ELEMENT_DEFAULT } from '../constants/node.types';
 import { PlateEditor } from '../types/PlateEditor';
 import { getPluginType } from '../utils/getPluginType';

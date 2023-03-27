@@ -4,18 +4,18 @@ import {
   comboboxActions,
   comboboxSelectors,
   ComboboxState,
-} from '@udecode/plate-combobox';
+} from '@humandx/plate-combobox';
 import {
   moveSelection,
   PlateEditor,
   select,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import {
   createDataTransfer,
   DataTransferDataMap,
   jsx,
-} from '@udecode/plate-test-utils';
+} from '@humandx/plate-test-utils';
 import { Range } from 'slate';
 import { createEditorWithMentions } from './__tests__/createEditorWithMentions';
 import { getMentionOnSelectItem } from './getMentionOnSelectItem';

@@ -6,7 +6,7 @@ import {
   pluginRenderElement,
   SlateProps,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { decode } from 'html-entities';
 import { createElementWithSlate } from './utils/createElementWithSlate';
 import { stripClassNames } from './utils/stripClassNames';

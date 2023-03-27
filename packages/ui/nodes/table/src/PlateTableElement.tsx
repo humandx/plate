@@ -1,12 +1,12 @@
 import React from 'react';
-import { getPluginOptions, usePlateEditorRef } from '@udecode/plate-common';
+import { getPluginOptions, usePlateEditorRef } from '@humandx/plate-common';
 import {
   ELEMENT_TABLE,
   TableElement,
   TableElementRootProps,
   TablePlugin,
   useTableElementState,
-} from '@udecode/plate-table';
+} from '@humandx/plate-table';
 import { css } from 'styled-components';
 import tw from 'twin.macro';
 import { PlateTablePopover } from './PlateTablePopover';

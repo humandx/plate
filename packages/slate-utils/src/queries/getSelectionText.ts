@@ -1,4 +1,4 @@
-import { getEditorString, TEditor, Value } from '@udecode/slate';
+import { getEditorString, TEditor, Value } from '@humandx/slate';
 
 /**
  * Get the selected text.

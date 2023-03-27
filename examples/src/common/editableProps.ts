@@ -1,4 +1,4 @@
-import { TEditableProps } from '@udecode/plate';
+import { TEditableProps } from '@humandx/plate';
 import { MyValue } from '../typescript/plateTypes';
 
 export const editableProps: TEditableProps<MyValue> = {

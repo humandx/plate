@@ -11,7 +11,7 @@ import {
   Value,
   withoutNormalizing,
   WithPlatePlugin,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { cloneDeep } from 'lodash';
 import { Path } from 'slate';
 import { getTableAbove } from './queries/getTableAbove';

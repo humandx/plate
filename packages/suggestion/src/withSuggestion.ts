@@ -15,7 +15,7 @@ import {
   Value,
   withoutNormalizing,
   WithPlatePlugin,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { MoveUnit } from 'slate/dist/interfaces/types';
 import { addSuggestionMark } from './transforms/addSuggestionMark';
 import { getSuggestionId } from './utils/index';

@@ -1,6 +1,6 @@
-import { Value } from '@udecode/plate-common';
-import { TMentionElement } from '@udecode/plate-mention';
-import { StyledElementProps } from '@udecode/plate-styled-components';
+import { Value } from '@humandx/plate-common';
+import { TMentionElement } from '@humandx/plate-mention';
+import { StyledElementProps } from '@humandx/plate-styled-components';
 
 export interface MentionInputElementStyleProps<V extends Value>
   extends MentionInputElementProps<V> {

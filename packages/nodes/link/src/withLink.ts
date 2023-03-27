@@ -18,8 +18,8 @@ import {
   Value,
   withoutNormalizing,
   WithPlatePlugin,
-} from '@udecode/plate-common';
-import { withRemoveEmptyNodes } from '@udecode/plate-normalizers';
+} from '@humandx/plate-common';
+import { withRemoveEmptyNodes } from '@humandx/plate-normalizers';
 import { Path, Point, Range } from 'slate';
 import { upsertLink } from './transforms/index';
 import { ELEMENT_LINK, LinkPlugin } from './createLinkPlugin';

@@ -5,7 +5,7 @@ import {
   TEditor,
   TNodeEntry,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { Path } from 'slate';
 import {
   getSiblingIndentList,

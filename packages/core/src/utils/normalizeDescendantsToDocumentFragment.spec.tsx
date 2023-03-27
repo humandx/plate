@@ -1,7 +1,7 @@
 /** @jsx jsx */
-import { createPlateUIEditor } from '@udecode/plate';
-import { createLinkPlugin } from '@udecode/plate-link';
-import { jsx } from '@udecode/plate-test-utils';
+import { createPlateUIEditor } from '@humandx/plate';
+import { createLinkPlugin } from '@humandx/plate-link';
+import { jsx } from '@humandx/plate-test-utils';
 import { normalizeDescendantsToDocumentFragment } from './index';
 
 jsx;

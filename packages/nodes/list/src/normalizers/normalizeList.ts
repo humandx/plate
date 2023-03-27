@@ -14,7 +14,7 @@ import {
   TNodeEntry,
   Value,
   wrapNodes,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { Path } from 'slate';
 import { ELEMENT_LI, ELEMENT_LIC } from '../createListPlugin';
 import { getListTypes, isListRoot } from '../queries';

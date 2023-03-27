@@ -1,5 +1,5 @@
-import { PlateRenderElementProps } from '@udecode/plate-core';
-import { TElement } from '@udecode/slate';
+import { PlateRenderElementProps } from '@humandx/plate-core';
+import { TElement } from '@humandx/slate';
 import { As, HTMLPropsAs } from '../types';
 import { useComposedRef } from './index';
 

@@ -1,4 +1,4 @@
-export const getNodesWithIdCode = `import { nanoid } from '@udecode/plate';
+export const getNodesWithIdCode = `import { nanoid } from '@humandx/plate';
 
 export const getNodesWithId = (nodes: any[]) => {
   nodes.forEach((node) => {

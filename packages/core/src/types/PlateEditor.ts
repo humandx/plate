@@ -6,8 +6,8 @@ import {
   THistoryEditor,
   TRange,
   Value,
-} from '@udecode/slate';
-import { TReactEditor } from '@udecode/slate-react';
+} from '@humandx/slate';
+import { TReactEditor } from '@humandx/slate-react';
 import { Path } from 'slate';
 import { WithPlatePlugin } from './plugin/PlatePlugin';
 import { PluginKey } from './plugin/PlatePluginKey';

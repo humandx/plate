@@ -1,5 +1,5 @@
 import React from 'react';
-import { EmojiCategoryList, IEmojiFloatingLibrary } from '@udecode/plate-emoji';
+import { EmojiCategoryList, IEmojiFloatingLibrary } from '@humandx/plate-emoji';
 import tw from 'twin.macro';
 import { getEmojiPickerNavigationStyles } from './EmojiPickerNavigation.styles';
 import {

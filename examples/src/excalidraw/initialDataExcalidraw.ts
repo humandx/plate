@@ -1,5 +1,5 @@
-import { TNodeProps } from '@udecode/plate'
-import { TExcalidrawElement } from '@udecode/plate-ui-excalidraw'
+import { TNodeProps } from '@humandx/plate'
+import { TExcalidrawElement } from '@humandx/plate-ui-excalidraw'
 
 export const initialDataExcalidraw: TNodeProps<TExcalidrawElement> = {
   data: {

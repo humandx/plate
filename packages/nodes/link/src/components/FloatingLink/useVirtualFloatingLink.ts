@@ -3,7 +3,7 @@ import {
   offset,
   useVirtualFloating,
   UseVirtualFloatingOptions,
-} from '@udecode/plate-floating';
+} from '@humandx/plate-floating';
 import { floatingLinkActions } from './floatingLinkStore';
 
 export const useVirtualFloatingLink = ({

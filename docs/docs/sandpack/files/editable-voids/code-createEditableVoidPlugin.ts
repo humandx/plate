@@ -1,4 +1,4 @@
-export const createEditableVoidPluginCode = `import { createPluginFactory } from '@udecode/plate';
+export const createEditableVoidPluginCode = `import { createPluginFactory } from '@humandx/plate';
 
 export const EDITABLE_VOID = 'editable-void';
 

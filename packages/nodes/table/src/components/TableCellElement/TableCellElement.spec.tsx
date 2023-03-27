@@ -1,7 +1,7 @@
 import React from 'react';
-import { usePlateEditorRef } from '@udecode/plate-common';
-import { createTablePlugin } from '@udecode/plate-table';
-import { createPlateUI } from '@udecode/plate-ui';
+import { usePlateEditorRef } from '@humandx/plate-common';
+import { createTablePlugin } from '@humandx/plate-table';
+import { createPlateUI } from '@humandx/plate-ui';
 import * as resizeable from 're-resizable';
 import { createPlateTestEditor } from '../../../../../core/src/utils/__tests__/createPlateTestEditor';
 import { tableInput } from './TableCellElement.fixtures';

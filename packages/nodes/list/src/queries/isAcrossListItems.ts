@@ -5,7 +5,7 @@ import {
   PlateEditor,
   someNode,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { ELEMENT_LI } from '../createListPlugin';
 
 /**

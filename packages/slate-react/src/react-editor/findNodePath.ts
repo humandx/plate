@@ -1,4 +1,4 @@
-import { TNode, Value } from '@udecode/slate';
+import { TNode, Value } from '@humandx/slate';
 import { Path } from 'slate';
 import { ReactEditor } from 'slate-react';
 import { TReactEditor } from '../types/TReactEditor';

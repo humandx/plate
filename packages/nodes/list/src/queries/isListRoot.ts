@@ -3,7 +3,7 @@ import {
   PlateEditor,
   TDescendant,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { getListTypes } from './getListTypes';
 
 export const isListRoot = <V extends Value>(

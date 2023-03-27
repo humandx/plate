@@ -1,6 +1,6 @@
 import React from 'react';
-import { useEventPlateId } from '@udecode/plate';
-import { PlateCloudEditor } from '@udecode/plate-cloud';
+import { useEventPlateId } from '@humandx/plate';
+import { PlateCloudEditor } from '@humandx/plate-cloud';
 import { useMyPlateEditorRef } from '../typescript/plateTypes';
 
 const buttonStyle: React.CSSProperties = {

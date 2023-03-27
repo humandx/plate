@@ -1,5 +1,5 @@
 import { useCallback } from 'react';
-import { Button } from '@udecode/plate-button';
+import { Button } from '@humandx/plate-button';
 import {
   AsProps,
   createComponentAs,
@@ -7,7 +7,7 @@ import {
   focusEditor,
   HTMLPropsAs,
   useEditorRef,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { unwrapLink } from '../../transforms/index';
 
 export const useUnlinkButton = (

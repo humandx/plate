@@ -3,7 +3,7 @@ import {
   findHtmlParentElement,
   onKeyDownToggleMark,
   ToggleMarkPlugin,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 
 export const MARK_CODE = 'code';
 

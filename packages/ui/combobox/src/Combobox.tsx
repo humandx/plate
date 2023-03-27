@@ -9,19 +9,19 @@ import {
   useActiveComboboxStore,
   useComboboxControls,
   useComboboxSelectors,
-} from '@udecode/plate-combobox';
+} from '@humandx/plate-combobox';
 import {
   useEventEditorSelectors,
   usePlateEditorState,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import {
   flip,
   getRangeBoundingClientRect,
   offset,
   shift,
   useVirtualFloating,
-} from '@udecode/plate-floating';
-import { PortalBody } from '@udecode/plate-styled-components';
+} from '@humandx/plate-floating';
+import { PortalBody } from '@humandx/plate-styled-components';
 import { getComboboxStyles } from './Combobox.styles';
 import { ComboboxProps } from './Combobox.types';
 

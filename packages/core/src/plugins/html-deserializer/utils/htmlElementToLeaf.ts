@@ -4,7 +4,7 @@ import {
   isText,
   TDescendant,
   Value,
-} from '@udecode/slate';
+} from '@humandx/slate';
 import { jsx } from 'slate-hyperscript';
 import { PlateEditor } from '../../../types';
 import { mergeDeepToNodes } from '../../../utils';

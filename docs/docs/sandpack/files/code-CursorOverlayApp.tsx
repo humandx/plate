@@ -1,5 +1,5 @@
 export const cursorOverlayAppCode = `import React, { CSSProperties, useRef } from 'react';
-import { Plate } from '@udecode/plate';
+import { Plate } from '@humandx/plate';
 import { basicNodesPlugins } from './basic-nodes/basicNodesPlugins';
 import { editableProps } from './common/editableProps';
 import { CursorOverlayContainer } from './cursor-overlay/CursorOverlayContainer';

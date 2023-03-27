@@ -1,7 +1,7 @@
-import { createBasicMarksPlugin } from '@udecode/plate-basic-marks/src/createBasicMarksPlugin';
-import { createHighlightPlugin } from '@udecode/plate-highlight/src/createHighlightPlugin';
-import { createKbdPlugin } from '@udecode/plate-kbd/src/createKbdPlugin';
-import { createPlateUIEditor } from '@udecode/plate-ui/src/utils/createPlateUIEditor';
+import { createBasicMarksPlugin } from '@humandx/plate-basic-marks/src/createBasicMarksPlugin';
+import { createHighlightPlugin } from '@humandx/plate-highlight/src/createHighlightPlugin';
+import { createKbdPlugin } from '@humandx/plate-kbd/src/createKbdPlugin';
+import { createPlateUIEditor } from '@humandx/plate-ui/src/utils/createPlateUIEditor';
 import { htmlStringToDOMNode } from '../../../../core/src/plugins/html-deserializer/utils/htmlStringToDOMNode';
 import { serializeHtml } from '../serializeHtml';
 

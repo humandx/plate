@@ -1,23 +1,23 @@
 /** @jsx jsx */
-import { createAlignPlugin } from '@udecode/plate-alignment';
-import { createBasicElementsPlugin } from '@udecode/plate-basic-elements/src/index';
-import { createBasicMarksPlugin } from '@udecode/plate-basic-marks/src/index';
-import { createPlateEditor } from '@udecode/plate-common';
+import { createAlignPlugin } from '@humandx/plate-alignment';
+import { createBasicElementsPlugin } from '@humandx/plate-basic-elements/src/index';
+import { createBasicMarksPlugin } from '@humandx/plate-basic-marks/src/index';
+import { createPlateEditor } from '@humandx/plate-common';
 import {
   ELEMENT_H1,
   ELEMENT_H2,
   ELEMENT_H3,
-} from '@udecode/plate-heading/src/index';
-import { createHorizontalRulePlugin } from '@udecode/plate-horizontal-rule/src/index';
-import { createIndentPlugin } from '@udecode/plate-indent/src/index';
-import { createJuicePlugin } from '@udecode/plate-juice/src/index';
-import { createLineHeightPlugin } from '@udecode/plate-line-height/src/index';
-import { createLinkPlugin } from '@udecode/plate-link';
-import { createImagePlugin } from '@udecode/plate-media';
-import { ELEMENT_PARAGRAPH } from '@udecode/plate-paragraph/src/index';
-import { createDeserializeDocxPlugin } from '@udecode/plate-serializer-docx/src/index';
-import { createTablePlugin } from '@udecode/plate-table/src/index';
-import { jsx } from '@udecode/plate-test-utils';
+} from '@humandx/plate-heading/src/index';
+import { createHorizontalRulePlugin } from '@humandx/plate-horizontal-rule/src/index';
+import { createIndentPlugin } from '@humandx/plate-indent/src/index';
+import { createJuicePlugin } from '@humandx/plate-juice/src/index';
+import { createLineHeightPlugin } from '@humandx/plate-line-height/src/index';
+import { createLinkPlugin } from '@humandx/plate-link';
+import { createImagePlugin } from '@humandx/plate-media';
+import { ELEMENT_PARAGRAPH } from '@humandx/plate-paragraph/src/index';
+import { createDeserializeDocxPlugin } from '@humandx/plate-serializer-docx/src/index';
+import { createTablePlugin } from '@humandx/plate-table/src/index';
+import { jsx } from '@humandx/plate-test-utils';
 import { alignPlugin } from 'examples/src/align/alignPlugin';
 import { lineHeightPlugin } from 'examples/src/line-height/lineHeightPlugin';
 import { createIndentListPlugin } from './createIndentListPlugin';

@@ -1,11 +1,11 @@
-import { createParagraphPlugin } from '@udecode/plate';
-import { createAlignPlugin } from '@udecode/plate-alignment/src/index';
-import { createBlockquotePlugin } from '@udecode/plate-block-quote/src/index';
-import { createHeadingPlugin } from '@udecode/plate-heading/src/index';
-import { createLinkPlugin } from '@udecode/plate-link/src/index';
-import { createListPlugin } from '@udecode/plate-list/src/index';
-import { createImagePlugin } from '@udecode/plate-media/src/index';
-import { ELEMENT_PARAGRAPH } from '@udecode/plate-paragraph/src/createParagraphPlugin';
+import { createParagraphPlugin } from '@humandx/plate';
+import { createAlignPlugin } from '@humandx/plate-alignment/src/index';
+import { createBlockquotePlugin } from '@humandx/plate-block-quote/src/index';
+import { createHeadingPlugin } from '@humandx/plate-heading/src/index';
+import { createLinkPlugin } from '@humandx/plate-link/src/index';
+import { createListPlugin } from '@humandx/plate-list/src/index';
+import { createImagePlugin } from '@humandx/plate-media/src/index';
+import { ELEMENT_PARAGRAPH } from '@humandx/plate-paragraph/src/createParagraphPlugin';
 import {
   createTablePlugin,
   ELEMENT_TABLE,
@@ -15,8 +15,8 @@ import {
   TableCellElement,
   TableElement,
   TableRowElement,
-} from '@udecode/plate-table/src/index';
-import { createPlateUIEditor } from '@udecode/plate-ui/src/utils/createPlateUIEditor';
+} from '@humandx/plate-table/src/index';
+import { createPlateUIEditor } from '@humandx/plate-ui/src/utils/createPlateUIEditor';
 import { htmlStringToDOMNode } from '../../../../core/src/plugins/html-deserializer/utils/htmlStringToDOMNode';
 import { serializeHtml } from '../serializeHtml';
 

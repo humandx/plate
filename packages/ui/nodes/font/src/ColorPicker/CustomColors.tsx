@@ -5,7 +5,7 @@ import React, {
   useMemo,
   useState,
 } from 'react';
-import { PlateButton } from '@udecode/plate-ui-button';
+import { PlateButton } from '@humandx/plate-ui-button';
 import debounce from 'lodash/debounce';
 import { ColorInput } from './ColorInput';
 import { Colors } from './Colors';

@@ -73,11 +73,11 @@ import {
   usePlateSelectors,
   usePlateStates,
   WithOverride,
-} from '@udecode/plate';
+} from '@humandx/plate';
 // import {
 //   ELEMENT_EXCALIDRAW,
 //   TExcalidrawElement,
-// } from '@udecode/plate-ui-excalidraw';
+// } from '@humandx/plate-ui-excalidraw';
 import { CSSProperties } from 'styled-components';
 
 /**

@@ -1,4 +1,4 @@
-import { Value } from '@udecode/slate';
+import { Value } from '@humandx/slate';
 import { PlateProps } from '../components/Plate';
 import { createPrevSelectionPlugin, KEY_PREV_SELECTION } from '../plugins';
 import {

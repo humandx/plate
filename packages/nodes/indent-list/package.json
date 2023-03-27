@@ -1,5 +1,5 @@
 {
-  "name": "@udecode/plate-indent-list",
+  "name": "@humandx/plate-indent-list",
   "version": "1.0.1",
   "description": "Indent list plugin for Plate",
   "license": "MIT",
@@ -19,9 +19,9 @@
   ],
   "types": "dist/index.d.ts",
   "dependencies": {
-    "@udecode/plate-common": "^1.0.1",
-    "@udecode/plate-indent": "^1.0.1",
-    "@udecode/plate-list": "^1.0.1"
+    "@humandx/plate-common": "^1.0.1",
+    "@humandx/plate-indent": "^1.0.1",
+    "@humandx/plate-list": "^1.0.1"
   },
   "peerDependencies": {
     "react": ">=16.8.0",
@@ -37,5 +37,6 @@
   ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@humandx"
-  }
+  },
+  "gitHead": "80b540ca333e40daddcd62e9defa2dce9efa526b"
 }

@@ -5,10 +5,10 @@ import {
   HotkeyPlugin,
   Hotkeys,
   PlateEditor,
-} from '@udecode/plate-common';
-import { createListPlugin } from '@udecode/plate-list';
-import { jsx } from '@udecode/plate-test-utils';
-import { createPlateUIEditor } from '@udecode/plate-ui/src/utils/createPlateUIEditor';
+} from '@humandx/plate-common';
+import { createListPlugin } from '@humandx/plate-list';
+import { jsx } from '@humandx/plate-test-utils';
+import { createPlateUIEditor } from '@humandx/plate-ui/src/utils/createPlateUIEditor';
 import * as isHotkey from 'is-hotkey';
 import { onKeyDownList } from './onKeyDownList';
 

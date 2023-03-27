@@ -1,4 +1,4 @@
-import { TReactEditor, Value } from '@udecode/plate-common';
+import { TReactEditor, Value } from '@humandx/plate-common';
 import { DRAG_ITEM_BLOCK } from './useDragBlock';
 import { useDropNode, UseDropNodeOptions } from './useDropNode';
 

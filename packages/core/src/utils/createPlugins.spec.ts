@@ -1,6 +1,6 @@
-import { createHeadingPlugin, ELEMENT_H1 } from '@udecode/plate-heading';
-import { createNodeIdPlugin } from '@udecode/plate-node-id';
-import { createParagraphPlugin } from '@udecode/plate-paragraph';
+import { createHeadingPlugin, ELEMENT_H1 } from '@humandx/plate-heading';
+import { createNodeIdPlugin } from '@humandx/plate-node-id';
+import { createParagraphPlugin } from '@humandx/plate-paragraph';
 import { createTEditor } from '../../../slate/src/createTEditor';
 import { withPlate } from '../plugins/withPlate';
 import { createPlugins } from './createPlugins';

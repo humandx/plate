@@ -15,7 +15,7 @@ import {
   toggleIndentList,
   ToolbarButton,
   withProps,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { editableProps } from './common/editableProps';
 import { plateUI } from './common/plateUI';
 import { IndentToolbarButtons } from './indent/IndentToolbarButtons';

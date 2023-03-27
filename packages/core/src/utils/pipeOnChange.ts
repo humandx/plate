@@ -1,4 +1,4 @@
-import { Value } from '@udecode/slate';
+import { Value } from '@humandx/slate';
 import { PlateEditor } from '../types/PlateEditor';
 
 export const pipeOnChange = <V extends Value>(editor: PlateEditor<V>) => {

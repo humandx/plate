@@ -1,5 +1,5 @@
-import { Value } from '@udecode/plate-common';
-import { StyledElementProps } from '@udecode/plate-styled-components';
+import { Value } from '@humandx/plate-common';
+import { StyledElementProps } from '@humandx/plate-styled-components';
 
 export interface PlaceholderProps<V extends Value>
   extends StyledElementProps<V> {

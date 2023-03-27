@@ -3,7 +3,7 @@ import {
   PlateRenderLeafProps,
   TText,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { StyledProps } from '../types/StyledProps';
 
 export type StyledLeafProps<

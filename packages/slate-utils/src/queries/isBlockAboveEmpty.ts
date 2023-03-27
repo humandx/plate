@@ -1,4 +1,4 @@
-import { TEditor, Value } from '@udecode/slate';
+import { TEditor, Value } from '@humandx/slate';
 import { getBlockAbove } from './getBlockAbove';
 import { isAncestorEmpty } from './isAncestorEmpty';
 

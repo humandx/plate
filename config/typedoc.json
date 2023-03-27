@@ -8,7 +8,7 @@
     "**/*.development.*"
   ],
   "includeVersion": true,
-  "name": "@udecode/plate",
+  "name": "@humandx/plate",
   "entryPoints": ["../packages/plate/src/index.tsx"],
   "tsconfig": "../packages/plate/tsconfig.json",
   "out": "./typedoc",

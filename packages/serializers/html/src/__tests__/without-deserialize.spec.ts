@@ -1,6 +1,6 @@
-import { createParagraphPlugin } from '@udecode/plate-paragraph';
-import { ELEMENT_PARAGRAPH } from '@udecode/plate-paragraph/src/createParagraphPlugin';
-import { createPlateUIEditor } from '@udecode/plate-ui/src/utils/createPlateUIEditor';
+import { createParagraphPlugin } from '@humandx/plate-paragraph';
+import { ELEMENT_PARAGRAPH } from '@humandx/plate-paragraph/src/createParagraphPlugin';
+import { createPlateUIEditor } from '@humandx/plate-ui/src/utils/createPlateUIEditor';
 import { serializeHtml } from '../serializeHtml';
 
 describe('when there is no deserializer', () => {

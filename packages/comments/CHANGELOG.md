@@ -1,4 +1,4 @@
-# @udecode/plate-comments
+# @humandx/plate-comments
 
 ## 20.4.0
 

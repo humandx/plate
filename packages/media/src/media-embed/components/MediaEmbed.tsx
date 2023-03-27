@@ -1,5 +1,5 @@
 import React from 'react';
-import { HTMLPropsAs } from '@udecode/plate-common';
+import { HTMLPropsAs } from '@humandx/plate-common';
 import { useMediaStore } from '../../media/mediaStore';
 
 export const MediaEmbed = (props: HTMLPropsAs<'iframe'>) => {

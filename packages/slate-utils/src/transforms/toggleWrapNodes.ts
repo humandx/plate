@@ -5,7 +5,7 @@ import {
   unwrapNodes,
   Value,
   wrapNodes,
-} from '@udecode/slate';
+} from '@humandx/slate';
 
 /**
  * Unwrap if the node type is in selection.

@@ -1,9 +1,9 @@
-import { Value } from '@udecode/plate-common';
-import { TLinkElement } from '@udecode/plate-link';
+import { Value } from '@humandx/plate-common';
+import { TLinkElement } from '@humandx/plate-link';
 import {
   createStyles,
   StyledElementProps,
-} from '@udecode/plate-styled-components';
+} from '@humandx/plate-styled-components';
 import { css } from 'styled-components';
 
 export const getLinkElementStyles = <V extends Value>(

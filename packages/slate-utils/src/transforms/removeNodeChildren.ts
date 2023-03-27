@@ -5,7 +5,7 @@ import {
   TEditor,
   Value,
   withoutNormalizing,
-} from '@udecode/slate';
+} from '@humandx/slate';
 import { Path } from 'slate';
 
 /**

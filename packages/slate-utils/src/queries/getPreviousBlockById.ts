@@ -9,7 +9,7 @@ import {
   TEditor,
   TNodeEntry,
   Value,
-} from '@udecode/slate';
+} from '@humandx/slate';
 
 /**
  * Find the block before a block by id.

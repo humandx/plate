@@ -5,7 +5,7 @@ import {
   TDescendant,
   TEditor,
   Value,
-} from '@udecode/slate';
+} from '@humandx/slate';
 import { ELEMENT_DEFAULT } from '../constants';
 import { PlateEditor } from '../types/PlateEditor';
 import { getPluginType } from './getPluginType';

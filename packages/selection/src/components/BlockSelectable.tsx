@@ -7,7 +7,7 @@ import {
   queryNode,
   TElement,
   useEditorRef,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { useBlockSelectionSelectors } from '../blockSelectionStore';
 import {
   BlockSelectionPlugin,

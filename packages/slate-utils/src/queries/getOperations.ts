@@ -1,4 +1,4 @@
-import { EDescendant, TEditor, TOperation, Value } from '@udecode/slate';
+import { EDescendant, TEditor, TOperation, Value } from '@humandx/slate';
 
 /**
  * Get typed editor operations.

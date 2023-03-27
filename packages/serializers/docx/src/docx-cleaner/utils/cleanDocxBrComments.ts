@@ -2,7 +2,7 @@ import {
   isHtmlComment,
   removeHtmlNodesBetweenComments,
   traverseHtmlElements,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 
 /**
  * Remove HTML nodes between comments in the next sibling after BR.

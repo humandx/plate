@@ -1,4 +1,4 @@
-import { PlateEditor, usePlateEditorRef, Value } from '@udecode/plate-common';
+import { PlateEditor, usePlateEditorRef, Value } from '@humandx/plate-common';
 import { SuggestionEditorProps } from '../types';
 import { useSuggestionActions } from './SuggestionProvider';
 

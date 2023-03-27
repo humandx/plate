@@ -1,4 +1,4 @@
-export const previewLeafTypesCode = `import { StyledProps } from '@udecode/plate';
+export const previewLeafTypesCode = `import { StyledProps } from '@humandx/plate';
 
 export interface PreviewLeafStyleProps extends StyledProps {
   bold?: boolean;

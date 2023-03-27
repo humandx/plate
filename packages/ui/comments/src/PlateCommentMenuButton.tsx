@@ -5,9 +5,9 @@ import {
   MoreVertIcon,
   useCommentActions,
   useCommentSelectors,
-} from '@udecode/plate-comments';
-import { PlateButton, plateButtonCss } from '@udecode/plate-ui-button';
-import { floatingRootCss, ToolbarDropdown } from '@udecode/plate-ui-toolbar';
+} from '@humandx/plate-comments';
+import { PlateButton, plateButtonCss } from '@humandx/plate-ui-button';
+import { floatingRootCss, ToolbarDropdown } from '@humandx/plate-ui-toolbar';
 import { css } from 'styled-components';
 import tw from 'twin.macro';
 

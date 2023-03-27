@@ -9,7 +9,7 @@ import {
   isSelectionAtCodeBlockStart,
   ResetNodePlugin,
   unwrapCodeBlock,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { MyPlatePlugin } from '../typescript/plateTypes';
 
 const resetBlockTypesCommonRule = {

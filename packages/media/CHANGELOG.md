@@ -1,4 +1,4 @@
-# @udecode/plate-media
+# @humandx/plate-media
 
 ## 20.4.0
 

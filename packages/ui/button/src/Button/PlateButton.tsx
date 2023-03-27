@@ -1,6 +1,6 @@
 import React, { forwardRef } from 'react';
-import { Button } from '@udecode/plate-button';
-import { HTMLPropsAs } from '@udecode/plate-common';
+import { Button } from '@humandx/plate-button';
+import { HTMLPropsAs } from '@humandx/plate-common';
 import { css, CSSProp } from 'styled-components';
 import tw from 'twin.macro';
 

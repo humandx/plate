@@ -1,5 +1,5 @@
 export const placeholderAppCode = `import React from 'react';
-import { createExitBreakPlugin, Plate } from '@udecode/plate';
+import { createExitBreakPlugin, Plate } from '@humandx/plate';
 import { BasicElementToolbarButtons } from './basic-elements/BasicElementToolbarButtons';
 import { basicNodesPlugins } from './basic-nodes/basicNodesPlugins';
 import { editableProps } from './common/editableProps';

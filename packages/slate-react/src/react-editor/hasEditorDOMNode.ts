@@ -1,4 +1,4 @@
-import { Value } from '@udecode/slate';
+import { Value } from '@humandx/slate';
 import { ReactEditor } from 'slate-react';
 import { DOMNode } from 'slate-react/dist/utils/dom';
 import { TReactEditor } from '../types/TReactEditor';

@@ -1,4 +1,4 @@
-import { createStore } from '@udecode/plate';
+import { createStore } from '@humandx/plate';
 
 export const cursorStore = createStore('cursor')({
   cursors: {},

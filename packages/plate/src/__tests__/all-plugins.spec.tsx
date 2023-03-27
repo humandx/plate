@@ -7,14 +7,14 @@ import {
   Search,
 } from '@styled-icons/material';
 import { render } from '@testing-library/react';
-import { Plate } from '@udecode/plate-core/src/index';
+import { Plate } from '@humandx/plate-core/src/index';
 import {
   createBasicElementsPlugin,
   createFindReplacePlugin,
   createHeadingPlugin,
   createPlugins,
-} from '@udecode/plate-headless';
-import { ImageToolbarButton } from '@udecode/plate-ui-media/src/index';
+} from '@humandx/plate-headless';
+import { ImageToolbarButton } from '@humandx/plate-ui-media/src/index';
 import { AlignToolbarButtons } from 'examples/src/align/AlignToolbarButtons';
 import { MarkBalloonToolbar } from 'examples/src/balloon-toolbar/MarkBalloonToolbar';
 import { BasicElementToolbarButtons } from 'examples/src/basic-elements/BasicElementToolbarButtons';

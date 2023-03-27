@@ -1,6 +1,6 @@
 /** @jsx jsx */
-import { ELEMENT_CODE_BLOCK } from '@udecode/plate-code-block/src/constants';
-import { jsx } from '@udecode/plate-test-utils';
+import { ELEMENT_CODE_BLOCK } from '@humandx/plate-code-block/src/constants';
+import { jsx } from '@humandx/plate-test-utils';
 import { toggleWrapNodes } from '../../../../../slate-utils/src/transforms';
 
 jsx;

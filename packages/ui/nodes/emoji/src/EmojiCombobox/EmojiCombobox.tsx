@@ -1,13 +1,13 @@
 import React from 'react';
-import { ComboboxOnSelectItem, Data, NoData } from '@udecode/plate-combobox';
-import { getPluginOptions, usePlateEditorRef } from '@udecode/plate-common';
+import { ComboboxOnSelectItem, Data, NoData } from '@humandx/plate-combobox';
+import { getPluginOptions, usePlateEditorRef } from '@humandx/plate-common';
 import {
   EmojiItemData,
   EmojiPlugin,
   getEmojiOnSelectItem,
   KEY_EMOJI,
-} from '@udecode/plate-emoji';
-import { Combobox, ComboboxProps } from '@udecode/plate-ui-combobox';
+} from '@humandx/plate-emoji';
+import { Combobox, ComboboxProps } from '@humandx/plate-ui-combobox';
 import { EmojiComboboxItem } from './EmojiComboboxItem';
 
 export interface TEmojiCombobox<TData extends Data = NoData>

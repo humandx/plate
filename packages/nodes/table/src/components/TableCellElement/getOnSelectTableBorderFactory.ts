@@ -3,7 +3,7 @@ import {
   PlateEditor,
   TElement,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { isTableBorderHidden } from '../../queries/index';
 import { setBorderSize } from '../../transforms/index';
 import { BorderDirection } from '../../types';

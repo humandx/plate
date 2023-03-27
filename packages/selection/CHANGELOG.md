@@ -1,4 +1,4 @@
-# @udecode/plate-selection
+# @humandx/plate-selection
 
 ## 20.4.0
 

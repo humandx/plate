@@ -1,4 +1,4 @@
-import { focusEditor, useEditorRef, useHotkeys } from '@udecode/plate-common';
+import { focusEditor, useEditorRef, useHotkeys } from '@humandx/plate-common';
 import {
   floatingLinkActions,
   floatingLinkSelectors,

@@ -1,4 +1,4 @@
-import { createAtomStore, TElement } from '@udecode/plate-common';
+import { createAtomStore, TElement } from '@humandx/plate-common';
 import { ELEMENT_TABLE } from '../createTablePlugin';
 
 export type TableStoreSizeOverrides = Map<number, number>;

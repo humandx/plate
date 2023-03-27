@@ -1,5 +1,5 @@
 import React from 'react';
-import { PlatePluginComponent } from '@udecode/plate-common';
+import { PlatePluginComponent } from '@humandx/plate-common';
 
 export const CodeSyntaxLeaf: PlatePluginComponent = ({
   attributes,

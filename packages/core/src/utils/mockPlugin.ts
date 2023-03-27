@@ -1,4 +1,4 @@
-import { Value } from '@udecode/slate';
+import { Value } from '@humandx/slate';
 import { NoInfer } from '../types/misc/NoInfer';
 import { PlateEditor } from '../types/PlateEditor';
 import {

@@ -3,7 +3,7 @@ import {
   InsertNodesOptions,
   TElement,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 
 export interface CodeBlockPlugin extends HotkeyPlugin {
   syntax?: boolean;

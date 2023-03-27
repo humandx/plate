@@ -2,8 +2,8 @@ import {
   ExcalidrawProps,
   LibraryItems,
 } from '@excalidraw/excalidraw/types/types';
-import { Value } from '@udecode/plate-common';
-import { StyledElementProps } from '@udecode/plate-styled-components';
+import { Value } from '@humandx/plate-common';
+import { StyledElementProps } from '@humandx/plate-styled-components';
 import { CSSProp } from 'styled-components';
 import { TExcalidrawElement } from '../../types';
 

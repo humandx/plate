@@ -1,5 +1,5 @@
 {
-  "name": "@udecode/plate-code-block",
+  "name": "@humandx/plate-code-block",
   "version": "1.0.1",
   "description": "Code block plugin for Plate",
   "license": "MIT",
@@ -19,7 +19,7 @@
   ],
   "types": "dist/index.d.ts",
   "dependencies": {
-    "@udecode/plate-common": "^1.0.1",
+    "@humandx/plate-common": "^1.0.1",
     "prismjs": "^1.25.0"
   },
   "peerDependencies": {
@@ -36,5 +36,6 @@
   ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@humandx"
-  }
+  },
+  "gitHead": "80b540ca333e40daddcd62e9defa2dce9efa526b"
 }

@@ -1,11 +1,11 @@
-import { comboboxActions } from '@udecode/plate-combobox';
+import { comboboxActions } from '@humandx/plate-combobox';
 import {
   getEditorString,
   getPointBefore,
   getRange,
   PlateEditor,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { BasePoint, BaseRange } from 'slate';
 import { IEmojiTriggeringController } from '../utils';
 

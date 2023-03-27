@@ -1,4 +1,4 @@
-import { TElement } from '@udecode/plate-common';
+import { TElement } from '@humandx/plate-common';
 
 export interface TLinkElement extends TElement {
   url: string;

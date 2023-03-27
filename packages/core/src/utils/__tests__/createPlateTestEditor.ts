@@ -1,4 +1,4 @@
-import { TEditor, Value } from '@udecode/slate';
+import { TEditor, Value } from '@humandx/slate';
 import { buildTestHarness } from 'slate-test-utils';
 import { RenderEditorReturnTuple } from 'slate-test-utils/dist/esm/buildTestHarness';
 import { PlateTest } from '../../components/PlateTest';

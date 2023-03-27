@@ -5,7 +5,7 @@ import {
   createElementAs,
   HTMLPropsAs,
   mergeProps,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import {
   floatingLinkActions,
   floatingLinkSelectors,

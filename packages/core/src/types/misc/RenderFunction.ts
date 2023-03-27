@@ -1,4 +1,4 @@
-import { AnyObject } from '@udecode/utils';
+import { AnyObject } from '@humandx/utils';
 
 /**
  * Render function interface for providing overrideable render callbacks.

@@ -1,5 +1,5 @@
-import { ResizableProps } from '@udecode/plate-media/dist/resizable/Resizable';
-import { createStyles } from '@udecode/plate-styled-components';
+import { ResizableProps } from '@humandx/plate-media/dist/resizable/Resizable';
+import { createStyles } from '@humandx/plate-styled-components';
 import { css } from 'styled-components';
 import tw from 'twin.macro';
 import {

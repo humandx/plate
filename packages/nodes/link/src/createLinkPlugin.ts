@@ -2,7 +2,7 @@ import {
   createPluginFactory,
   isUrl,
   RangeBeforeOptions,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { getLinkAttributes, validateUrl } from './utils/index';
 import { TLinkElement } from './types';
 import { withLink } from './withLink';

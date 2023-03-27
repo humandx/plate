@@ -1,4 +1,4 @@
-# @udecode/plate-utils
+# @humandx/plate-utils
 
 ## 20.4.0
 

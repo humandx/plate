@@ -3,7 +3,7 @@ import {
   createPlugins,
   createTablePlugin,
   Plate,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { useVariant } from './useVariant';
 
 export const TableApp = () => {

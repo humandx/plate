@@ -1,4 +1,4 @@
-import { DeserializeHtml } from '@udecode/plate-common';
+import { DeserializeHtml } from '@humandx/plate-common';
 import { ELEMENT_CODE_BLOCK, ELEMENT_CODE_LINE } from './constants';
 
 export const deserializeHtmlCodeBlock: DeserializeHtml = {

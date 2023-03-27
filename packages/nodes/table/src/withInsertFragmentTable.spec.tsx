@@ -4,8 +4,8 @@ import {
   createPlateEditor,
   PlateEditor,
   TElement,
-} from '@udecode/plate-common';
-import { jsx } from '@udecode/plate-test-utils';
+} from '@humandx/plate-common';
+import { jsx } from '@humandx/plate-test-utils';
 import { createTablePlugin } from './createTablePlugin';
 import { withInsertFragmentTable } from './withInsertFragmentTable';
 

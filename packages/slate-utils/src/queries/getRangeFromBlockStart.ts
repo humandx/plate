@@ -3,7 +3,7 @@ import {
   getStartPoint,
   TEditor,
   Value,
-} from '@udecode/slate';
+} from '@humandx/slate';
 import { getBlockAbove } from './getBlockAbove';
 import { getPointFromLocation } from './getPointFromLocation';
 

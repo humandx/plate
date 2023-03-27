@@ -1,4 +1,4 @@
-import { Modify, UnknownObject } from '@udecode/utils';
+import { Modify, UnknownObject } from '@humandx/utils';
 import { Editor, Path } from 'slate';
 import { TOperation } from '../../types/TOperation';
 import { EElement, EElementOrText, TElement } from '../element/TElement';

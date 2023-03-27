@@ -6,8 +6,8 @@ guidelines.
 
 ## Latest
 
-- [Release PRs]( https://github.com/udecode/plate/pulls?q=is%3Apr+is%3Aclosed+author%3Aapp%2Fgithub-actions)
-- [All releases](https://github.com/udecode/slate-plugins/releases) 
+- [Release PRs](https://github.com/udecode/plate/pulls?q=is%3Apr+is%3Aclosed+author%3Aapp%2Fgithub-actions)
+- [All releases](https://github.com/udecode/slate-plugins/releases)
 
 ## v0.70.0
 
@@ -18,8 +18,7 @@ guidelines.
   - returns `{ list, listItem }`
 - `isList`:
   - renamed to `isNodeTypeList`
-  - renamed options from `(options?: ListOptions) => (n: Node)` to `(n:
-    Node, options?: ListOptions)`
+  - renamed options from `(options?: ListOptions) => (n: Node)` to `(n: Node, options?: ListOptions)`
 - options refactored (old/new not listed here):
   - `isSelectionInListItem`
   - `moveChildren`
@@ -90,7 +89,6 @@ import { DragIndicator } from '@styled-icons/material/DragIndicator';
   in place of `plugin.renderElement` and `plugin.serialize.leaf` in place of
   `plugin.renderLeaf`
 
-
 ### Bug Fixes
 
 - `todo-list`:
@@ -109,14 +107,14 @@ import { DragIndicator } from '@styled-icons/material/DragIndicator';
   - `isPointAtRoot`
 - `deserializeHTMLElement`, `deserializeHTMLToDocument`,
   `deserializeHTMLToDocumentFragment`:
-  - Refactor parameters from `(plugins: SlatePlugin[]) => (element:
-    HTMLElement)` to `({ plugins: SlatePlugin[]; element: HTMLElement; }`
+  - Refactor parameters from `(plugins: SlatePlugin[]) => (element: HTMLElement)` to `({ plugins: SlatePlugin[]; element: HTMLElement; }`
 - `deserializeHTMLToElement`, `deserializeHTMLToFragment`,
   `deserializeHTMLToMarks`:
   - Refactor option `el` to `element`
 - `serializeHTMLFromNodes`:
   - Refactor from `(plugins: SlatePlugin[]) => ( nodes: SlateNode[] )`
     to
+
 ```
 {
   /**
@@ -142,7 +140,7 @@ import { DragIndicator } from '@styled-icons/material/DragIndicator';
   - `EditorParentOptions`
 - `serializeHTMLFromNodes`:
   - new option `stripDataAttributes` (default:
-  `true`) – Enable stripping data attributes
+    `true`) – Enable stripping data attributes
   - new option `slateProps` (default: empty editor) – Slate props to
     provide if the rendering depends on slate hooks
 
@@ -207,7 +205,9 @@ import { DragIndicator } from '@styled-icons/material/DragIndicator';
   mention.
 
 ## v0.64.3
+
 ### Bug Fixes
+
 - markdown deserializer is now fixed by using `remark-slate`
 
 ## v0.64.2
@@ -228,6 +228,7 @@ import { DragIndicator } from '@styled-icons/material/DragIndicator';
 ### Breaking Changes
 
 - removed:
+
   - `withResetBlockType`, `withBreakEmptyReset`,
     `withDeleteStartReset` in favor of `ResetBlo ### Breaking Changes
 
@@ -322,15 +323,19 @@ import { DragIndicator } from '@styled-icons/material/DragIndicator';
 - missing export
 
 ## v0.62.3
+
 ### Features
 
 - update `EditablePluginsProps` interface.
 
 ## v0.62.2
+
 ### Bug Fixes
+
 - `attributes` was missing in the element plugins
 
 ## v0.62.1
+
 ### Bug Fixes
 
 - tree-shaking support for `lodash`
@@ -353,45 +358,46 @@ import { DragIndicator } from '@styled-icons/material/DragIndicator';
   - Node types, full list:
 
 ```js
-ELEMENT_PARAGRAPH
-ELEMENT_MENTION
-ELEMENT_BLOCKQUOTE
-ELEMENT_CODE_BLOCK
-ELEMENT_LINK
-ELEMENT_IMAGE
-ELEMENT_MEDIA_EMBED
-ELEMENT_TODO_LI
-ELEMENT_H1
-ELEMENT_H2
-ELEMENT_H3
-ELEMENT_H4
-ELEMENT_H5
-ELEMENT_H6
-ELEMENT_ALIGN_LEFT
-ELEMENT_ALIGN_CENTER
-ELEMENT_ALIGN_RIGHT
-ELEMENT_UL
-ELEMENT_OL
-ELEMENT_LI
-ELEMENT_TABLE
-ELEMENT_TH
-ELEMENT_TR
-ELEMENT_TD
+ELEMENT_PARAGRAPH;
+ELEMENT_MENTION;
+ELEMENT_BLOCKQUOTE;
+ELEMENT_CODE_BLOCK;
+ELEMENT_LINK;
+ELEMENT_IMAGE;
+ELEMENT_MEDIA_EMBED;
+ELEMENT_TODO_LI;
+ELEMENT_H1;
+ELEMENT_H2;
+ELEMENT_H3;
+ELEMENT_H4;
+ELEMENT_H5;
+ELEMENT_H6;
+ELEMENT_ALIGN_LEFT;
+ELEMENT_ALIGN_CENTER;
+ELEMENT_ALIGN_RIGHT;
+ELEMENT_UL;
+ELEMENT_OL;
+ELEMENT_LI;
+ELEMENT_TABLE;
+ELEMENT_TH;
+ELEMENT_TR;
+ELEMENT_TD;
 
-MARK_BOLD
-MARK_ITALIC
-MARK_UNDERLINE
-MARK_STRIKETHROUGH
-MARK_CODE
-MARK_SUBSCRIPT
-MARK_SUPERSCRIPT
-MARK_HIGHLIGHT
-MARK_SEARCH_HIGHLIGHT
+MARK_BOLD;
+MARK_ITALIC;
+MARK_UNDERLINE;
+MARK_STRIKETHROUGH;
+MARK_CODE;
+MARK_SUBSCRIPT;
+MARK_SUPERSCRIPT;
+MARK_HIGHLIGHT;
+MARK_SEARCH_HIGHLIGHT;
 ```
 
 - Plugin options follow a new structure:
 
 For `getRenderElement`:
+
 ```
 const options: ParagraphRenderElementOptions = {
   // Use a unique key for each slate node.
@@ -475,11 +481,11 @@ const options: BoldRenderLeafOptions = {
     - updated: `node` (renamed from `createNode`): Slate node creator from HTML element.
     - new: `rules`: List of rules the element needs to follow to be
       deserialized to a slate node:
-        - updated: `nodeNames` (renamed from `tagNames`): Required node names
-          to deserialize the element. Set '*' to allow any node name.
-        - new: `className`: Required className to deserialized the element.
-        - new: `style`: Required style to deserialize the element. Each value
-          should be a (list of) string.
+      - updated: `nodeNames` (renamed from `tagNames`): Required node names
+        to deserialize the element. Set '\*' to allow any node name.
+      - new: `className`: Required className to deserialized the element.
+      - new: `style`: Required style to deserialize the element. Each value
+        should be a (list of) string.
 - ...
 
 ### Features
@@ -487,18 +493,18 @@ const options: BoldRenderLeafOptions = {
 - Centralized default options for each plugin (`defaults.ts`):
 
 ```js
-DEFAULTS_PARAGRAPH
-DEFAULTS_MENTION
-DEFAULTS_BLOCKQUOTE
-DEFAULTS_CODE_BLOCK
-DEFAULTS_LINK
-DEFAULTS_IMAGE
-DEFAULTS_MEDIA_EMBED
-DEFAULTS_TODO_LIST
-DEFAULTS_TABLE
-DEFAULTS_LIST
-DEFAULTS_HEADING
-DEFAULTS_ALIGN
+DEFAULTS_PARAGRAPH;
+DEFAULTS_MENTION;
+DEFAULTS_BLOCKQUOTE;
+DEFAULTS_CODE_BLOCK;
+DEFAULTS_LINK;
+DEFAULTS_IMAGE;
+DEFAULTS_MEDIA_EMBED;
+DEFAULTS_TODO_LIST;
+DEFAULTS_TABLE;
+DEFAULTS_LIST;
+DEFAULTS_HEADING;
+DEFAULTS_ALIGN;
 ```
 
 - All element and leaf plugins use a default `className`: useful for
@@ -554,7 +560,7 @@ DEFAULTS_ALIGN
 - removed `getSelectionNodesArrayByType`
 - replaced `insertLink` by `upsertLinkAtSelection`
 - `wrapLink` is now only wrapping the link (without unwrapping).
-- `@udecode/core` package renamed to `@udecode/slate-plugins-core`.
+- `@udecode/core` package renamed to `@humandx/slate-plugins-core`.
 
 ### Features
 
@@ -586,13 +592,13 @@ DEFAULTS_ALIGN
 ### Features
 
 - `getPointBefore` – Editor.before with additional options,
-useful to look for a point before a location using match options.
+  useful to look for a point before a location using match options.
 - `withLink` – Insert space after a url to wrap a link.
-There should be a space before the url.
-TODO: it's not working when the url is at the start of the block.
+  There should be a space before the url.
+  TODO: it's not working when the url is at the start of the block.
 - `LinkElement`:
-    - styles updated.
-    - supports `styles`.
+  - styles updated.
+  - supports `styles`.
 
 ### Bug Fixes
 
@@ -600,7 +606,7 @@ TODO: it's not working when the url is at the start of the block.
 
 ## 0.60.1 (2020-06-30)
 
-- Split the core functionality to `@udecode/slate-plugins-core`
+- Split the core functionality to `@humandx/slate-plugins-core`
 
 # 0.60.0 (2020-06-15)
 
@@ -617,7 +623,6 @@ TODO: it's not working when the url is at the start of the block.
 # 0.59.0 (2020-06-05)
 
 **Note:** Version bump only for package slate-plugins
-
 
 ## v0.59.0 — June 3, 2020
 
@@ -747,9 +752,7 @@ TODO: it's not working when the url is at the start of the block.
   add more properties to the element interface instead of adding them to
   `mentionable`
 - `onKeyDownMark`:
-  - signature changed from `({ clear, type, hotkey, }:
-    MarkOnKeyDownOptions)` to `(type: string, hotkey: string, { clear }:
-    MarkOnKeyDownOptions = {})`
+  - signature changed from `({ clear, type, hotkey, }: MarkOnKeyDownOptions)` to `(type: string, hotkey: string, { clear }: MarkOnKeyDownOptions = {})`
 - removed `withForcedLayout` in favor of `withTypeRules` (more generic)
 - changed `CODE` type value from `code` to `code_block`
 - renamed `CodePlugin` to `CodeBlockPlugin` and `InlineCodePlugin` to
@@ -798,15 +801,14 @@ TODO: it's not working when the url is at the start of the block.
 useMention({
   characters: CHARACTERS,
 }
-    
-// to   
+
+// to
 useMention(CHARACTERS, {
   maxSuggestions: 10,
   trigger: '@',
   prefix: ''
 });
 ```
-
 
 ### Features
 
@@ -821,7 +823,6 @@ useMention(CHARACTERS, {
 
 - `deserializer-html`:
   - export `withDeserializeHtml`
-
 
 ## v0.58.4 — May 18, 2020
 
@@ -1000,7 +1001,6 @@ export const nodeTypes = {
 ### Bug Fixes
 
 - use `isRangeAtRoot(point: Point)` before each `Editor.parent` call.
-
 
 ## v0.57.14 — April 26, 2020
 

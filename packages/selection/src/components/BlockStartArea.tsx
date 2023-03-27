@@ -2,7 +2,7 @@ import {
   createComponentAs,
   createElementAs,
   HTMLPropsAs,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 
 export interface BlockStartAreaProps extends HTMLPropsAs<'div'> {
   placement?: 'top' | 'bottom' | 'left' | 'right';

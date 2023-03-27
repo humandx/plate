@@ -1,5 +1,5 @@
 import React from 'react';
-import { Value } from '@udecode/slate';
+import { Value } from '@humandx/slate';
 import { DefaultLeaf } from '../components/DefaultLeaf';
 import { PlateEditor } from '../types/PlateEditor';
 import { PlateRenderLeafProps } from '../types/PlateRenderLeafProps';

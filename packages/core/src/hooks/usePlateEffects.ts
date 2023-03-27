@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import { TOperation, Value } from '@udecode/slate';
+import { TOperation, Value } from '@humandx/slate';
 import { isUndefined } from 'lodash';
 import { usePlateEditorRef, usePlateStates } from '../stores';
 import {

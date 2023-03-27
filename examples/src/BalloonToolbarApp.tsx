@@ -1,5 +1,5 @@
 import React from 'react';
-import { Plate } from '@udecode/plate';
+import { Plate } from '@humandx/plate';
 import { balloonToolbarValue } from './balloon-toolbar/balloonToolbarValue';
 import { MarkBalloonToolbar } from './balloon-toolbar/MarkBalloonToolbar';
 import { basicNodesPlugins } from './basic-nodes/basicNodesPlugins';

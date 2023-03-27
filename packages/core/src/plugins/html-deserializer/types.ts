@@ -1,4 +1,4 @@
-import { TDescendant } from '@udecode/slate';
+import { TDescendant } from '@humandx/slate';
 
 export type DeserializeHtmlChildren<N extends TDescendant> =
   | ChildNode

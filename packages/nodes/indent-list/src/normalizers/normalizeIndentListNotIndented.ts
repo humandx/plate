@@ -4,8 +4,8 @@ import {
   TNodeEntry,
   unsetNodes,
   Value,
-} from '@udecode/plate-common';
-import { KEY_INDENT } from '@udecode/plate-indent';
+} from '@humandx/plate-common';
+import { KEY_INDENT } from '@humandx/plate-indent';
 import { KEY_LIST_START, KEY_LIST_STYLE_TYPE } from '../createIndentListPlugin';
 
 /**

@@ -1,5 +1,5 @@
 import { MutableRefObject, RefObject } from 'react';
-import { PlateEditor } from '@udecode/plate-common';
+import { PlateEditor } from '@humandx/plate-common';
 import {
   EmojiCategoryList,
   EmojiIconList,

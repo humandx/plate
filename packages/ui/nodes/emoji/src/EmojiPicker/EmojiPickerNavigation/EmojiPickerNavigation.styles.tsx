@@ -1,4 +1,4 @@
-import { createStyles } from '@udecode/plate-styled-components';
+import { createStyles } from '@humandx/plate-styled-components';
 import tw from 'twin.macro';
 import { EmojiPickerNavigationStyleProps } from './EmojiPickerNavigation.types';
 

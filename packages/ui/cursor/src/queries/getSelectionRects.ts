@@ -5,7 +5,7 @@ import {
   toDOMRange,
   TReactEditor,
   Value,
-} from '@udecode/plate-common';
+} from '@humandx/plate-common';
 import { Path, Range } from 'slate';
 import { SelectionRect } from '../types';
 

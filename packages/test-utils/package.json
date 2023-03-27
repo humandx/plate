@@ -1,5 +1,5 @@
 {
-  "name": "@udecode/plate-test-utils",
+  "name": "@humandx/plate-test-utils",
   "version": "1.0.1",
   "description": "Testing utilities for Plate",
   "license": "MIT",
@@ -30,5 +30,6 @@
   ],
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@humandx"
-  }
+  },
+  "gitHead": "80b540ca333e40daddcd62e9defa2dce9efa526b"
 }

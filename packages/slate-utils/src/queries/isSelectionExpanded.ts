@@ -1,4 +1,4 @@
-import { isExpanded, TEditor, Value } from '@udecode/slate';
+import { isExpanded, TEditor, Value } from '@humandx/slate';
 
 /**
  * Is the selection expanded.

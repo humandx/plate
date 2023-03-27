@@ -9,7 +9,7 @@ import {
   ELEMENT_H6,
   ELEMENT_PARAGRAPH,
   IndentListPlugin,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { MyPlatePlugin } from '../typescript/plateTypes';
 
 export const indentListPlugin: Partial<MyPlatePlugin<IndentListPlugin>> = {

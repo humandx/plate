@@ -1,9 +1,9 @@
 /** @jsx jsx */
 
-import { createPlateUIEditor } from '@udecode/plate/src';
-import { getPluginType, PlateEditor } from '@udecode/plate-common';
-import { ELEMENT_IMAGE } from '@udecode/plate-media/src/index';
-import { jsx } from '@udecode/plate-test-utils';
+import { createPlateUIEditor } from '@humandx/plate/src';
+import { getPluginType, PlateEditor } from '@humandx/plate-common';
+import { ELEMENT_IMAGE } from '@humandx/plate-media/src/index';
+import { jsx } from '@humandx/plate-test-utils';
 import { createListPlugin, ELEMENT_OL, ELEMENT_UL } from '../createListPlugin';
 import { toggleList } from './toggleList';
 

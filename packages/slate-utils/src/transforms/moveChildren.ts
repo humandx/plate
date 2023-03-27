@@ -6,7 +6,7 @@ import {
   TEditor,
   TElement,
   Value,
-} from '@udecode/slate';
+} from '@humandx/slate';
 import { Path } from 'slate';
 
 export interface MoveChildrenOptions<V extends Value = Value> {

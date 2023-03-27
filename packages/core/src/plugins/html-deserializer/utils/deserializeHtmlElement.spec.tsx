@@ -1,6 +1,6 @@
 /** @jsx jsx */
 
-import { getHtmlDocument, jsx } from '@udecode/plate-test-utils';
+import { getHtmlDocument, jsx } from '@humandx/plate-test-utils';
 import { createImagePlugin } from '../../../../../media/src/image/createImagePlugin';
 import { createBoldPlugin } from '../../../../../nodes/basic-marks/src/createBoldPlugin';
 import { createLinkPlugin } from '../../../../../nodes/link/src/createLinkPlugin';

@@ -1,4 +1,4 @@
-import { Value } from '@udecode/slate';
+import { Value } from '@humandx/slate';
 import defaultsDeep from 'lodash/defaultsDeep';
 import { NoInfer } from '../types/misc/NoInfer';
 import { OverrideByKey } from '../types/OverrideByKey';

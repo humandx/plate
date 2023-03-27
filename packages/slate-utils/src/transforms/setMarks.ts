@@ -1,4 +1,4 @@
-import { EMarks, TEditor, Value, withoutNormalizing } from '@udecode/slate';
+import { EMarks, TEditor, Value, withoutNormalizing } from '@humandx/slate';
 import castArray from 'lodash/castArray';
 import { removeMark } from './removeMark';
 

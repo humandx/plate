@@ -1,4 +1,4 @@
-import { getPoint, TEditor, Value } from '@udecode/slate';
+import { getPoint, TEditor, Value } from '@humandx/slate';
 import { Location, Range } from 'slate';
 import {
   getPointBeforeLocation,

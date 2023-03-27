@@ -7,7 +7,7 @@ import {
   createTablePlugin,
   createTrailingBlockPlugin,
   Plate,
-} from '@udecode/plate';
+} from '@humandx/plate';
 import { basicElementsValue } from './basic-elements/basicElementsValue';
 import { basicNodesPlugins } from './basic-nodes/basicNodesPlugins';
 import { editableProps } from './common/editableProps';

@@ -4,7 +4,7 @@ import {
   TAncestor,
   TEditor,
   Value,
-} from '@udecode/slate';
+} from '@humandx/slate';
 
 /**
  * Is an ancestor empty (empty text and no inline children).

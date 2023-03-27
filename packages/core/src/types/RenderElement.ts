@@ -1,4 +1,4 @@
-import { Value } from '@udecode/slate';
+import { Value } from '@humandx/slate';
 import { PlateRenderElementProps } from './PlateRenderElementProps';
 
 /**

@@ -3,7 +3,7 @@ import {
   CommentProvider,
   SCOPE_ACTIVE_COMMENT,
   useFloatingCommentsContentState,
-} from '@udecode/plate-comments';
+} from '@humandx/plate-comments';
 import { css } from 'styled-components';
 import tw from 'twin.macro';
 import { PlateComment } from './PlateComment';

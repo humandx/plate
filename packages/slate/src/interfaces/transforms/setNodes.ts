@@ -1,4 +1,4 @@
-import { Modify } from '@udecode/utils';
+import { Modify } from '@humandx/utils';
 import { Transforms } from 'slate';
 import { NodeMatchOption } from '../../types/NodeMatchOption';
 import { TEditor, Value } from '../editor/TEditor';

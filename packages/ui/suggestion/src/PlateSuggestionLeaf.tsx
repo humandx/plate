@@ -1,11 +1,11 @@
 import React from 'react';
-import { Value } from '@udecode/plate-common';
-import { StyledLeaf, StyledLeafProps } from '@udecode/plate-styled-components';
+import { Value } from '@humandx/plate-common';
+import { StyledLeaf, StyledLeafProps } from '@humandx/plate-styled-components';
 import {
   getSuggestionId,
   TSuggestionText,
   useSuggestionSelectors,
-} from '@udecode/plate-suggestion';
+} from '@humandx/plate-suggestion';
 import tw from 'twin.macro';
 
 export const PlateSuggestionLeaf = <V extends Value = Value>(
