@@ -6,11 +6,11 @@
   "homepage": "https://plate.udecode.io",
   "repository": {
     "type": "git",
-    "url": "https://github.com/udecode/plate.git",
+    "url": "https://github.com/humandx/plate.git",
     "directory": "packages/ui/plate"
   },
   "bugs": {
-    "url": "https://github.com/udecode/plate/issues"
+    "url": "https://github.com/humandx/plate/issues"
   },
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -64,7 +64,7 @@
     "wysiwyg"
   ],
   "publishConfig": {
-    "access": "public"
+    "registry": "https://npm.pkg.github.com/@humandx"
   },
   "gitHead": "9f660a54cbd931cd20a6ad99e9319dbebfc7e1af"
 }
