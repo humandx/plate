@@ -1,6 +1,6 @@
 {
   "name": "@udecode/plate-mention",
-  "version": "20.4.0",
+  "version": "1.0.1",
   "description": "Mention plugin for Plate",
   "license": "MIT",
   "homepage": "https://plate.udecode.io",
@@ -19,8 +19,8 @@
   ],
   "types": "dist/index.d.ts",
   "dependencies": {
-    "@udecode/plate-combobox": "20.4.0",
-    "@udecode/plate-common": "20.4.0"
+    "@udecode/plate-combobox": "^1.0.1",
+    "@udecode/plate-common": "^1.0.1"
   },
   "peerDependencies": {
     "react": ">=16.8.0",

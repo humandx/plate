@@ -1,6 +1,6 @@
 {
   "name": "@udecode/plate-common",
-  "version": "20.4.0",
+  "version": "1.0.1",
   "description": "Plate common packages for plugins",
   "license": "MIT",
   "homepage": "https://plate.udecode.io",
@@ -19,12 +19,12 @@
   ],
   "types": "dist/index.d.ts",
   "dependencies": {
-    "@udecode/plate-core": "20.4.0",
-    "@udecode/plate-utils": "20.4.0",
-    "@udecode/slate": "19.8.0",
-    "@udecode/slate-react": "19.7.1",
-    "@udecode/slate-utils": "19.7.1",
-    "@udecode/utils": "19.7.0"
+    "@udecode/plate-core": "^1.0.1",
+    "@udecode/plate-utils": "^1.0.1",
+    "@udecode/slate": "^1.0.1",
+    "@udecode/slate-react": "^1.0.1",
+    "@udecode/slate-utils": "^1.0.1",
+    "@udecode/utils": "^1.0.1"
   },
   "peerDependencies": {
     "react": ">=16.8.0",
